@@ -1,30 +1,30 @@
 {
-  "title": "How to start?",
-  "subtitle": "Just 4 steps — Free registration",
+  "title": "如何开始？",
+  "subtitle": "只需4步-免费注册",
   "steps": {
     "1": {
-      "title": "Start",
-      "text": "Create an account or install the app via Shopify and setup your store in minutes"
+      "title": "开始",
+      "text": "创建一个帐户或通过Shopify安装应用程序，并在几分钟内设置您的商店"
     },
     "2": {
-      "title": "Integrate Shopify or SDK",
-      "text": "Plug and play. Requires no technical knowledge to install and use"
+      "title": "集成Shopify或SDK",
+      "text": "即插即用。无需专业知识即可安装和使用"
     },
     "3": {
-      "title": "Select content",
-      "text": "Easy one-click setup to add product information to your store"
+      "title": "选择内容",
+      "text": "简单的一键设置添加产品信息到您的商店"
     },
     "4": {
-      "title": "Boost sales",
-      "text": "Increase engagement and conversion by providing high-quality product content"
+      "title": "促进销售",
+      "text": "通过提供高质量的产品内容来增加用户粘性和转化率"
     }
   },
   "shopify": {
     "switch": "Shopify",
-    "cta": "Start Shopify"
+    "cta": "开始Shopify"
   },
   "sdk": {
     "switch": "SDK",
-    "cta": "Start SDK"
+    "cta": "开始SDK"
   }
 }
