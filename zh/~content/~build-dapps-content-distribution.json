@@ -1,35 +1,35 @@
-{
+ {
   "seo": {
-    "title": "Distribution dApp YOUR",
-    "description": "Build your own content distribution dApp on the YOUR protocol. The gateway to web2/web3 product content for distribution to the ecommerce world. Search, Request and Distribute your product content in an efficient, fast, cost effective and decentralized manner.",
+    "title": "YOUR分发dApp",
+    "description": "在your协议上构建自己的内容分发dApp。将web2/web3产品内容分发到电子商务世界的网关。搜索，请求和分发您的产品内容在一个高效，快速，成本效益和分散的方式.",
     "keywords": ""
   },
   "hero": {
-    "title": "Content distribution dApps",
+    "title": "内容分发dApps",
     "paragraphs": [
-      "Build your own content distribution dApp on the YOUR protocol.",
-      "The gateway to web2/web3 product content for distribution to the e-commerce world. Search, request and distribute your product content in an efficient, fast, cost effective and decentralised manner."
+      "在your协议上构建自己的内容分发dApp.",
+      "将web2/web3产品内容分发到电子商务世界的网关。搜索，请求和分发您的产品内容，以高效，快速，成本效益和分散的方式."
     ],
-    "cta": "Join as dApp"
+    "cta": "加入dApp"
   },
   "intro": {
-    "title": "Streaming content to Ecommerce & Metaverse Platforms"
+    "title": "流媒体内容到电子商务和虚拟世界平台"
   },
   "block1": {
-    "title": "Build the future of content distribution",
+    "title": "构建内容分发的未来",
     "paragraphs": [
-      "The open source protocol of YOUR enables dApps to build their own applications on an efficient, decentralised, innovative and secure network.",
-      "YOUR takes product content distribution to the new era where everyone can search, request, distribute and earn."
+      "YOUR的开源协议使dapp能够在高效、分散、创新和安全的网络上构建自己的应用程序.",
+      "YOUR将产品内容分发带入了一个人人都可以搜索、请求、分发和赚钱的新时代."
     ],
-    "alt": "content-distribution-dApps"
+    "alt": "内容-分发-dApps"
   },
   "block2": {
-    "title": "Stake and build",
+    "title": "股份和构建",
     "paragraphs": [
-      "In order to use the YOUR protocol distribution dApps must first stake a certain amount of tokens.",
-      "Staked dApps can then configure their application to the protocol endpoints and services. Based on their needs concerning cost, relevance, quantify, quality and rewards."
+      "为了使用YOUR协议分发，dApps必须首先投入一定数量的令牌.",
+      "然后，有担保的dapp可以将其应用程序配置为协议端点和服务。基于他们在成本，相关性，量化，质量和奖励方面的需求."
     ],
-    "alt": "staking-your-distribution-dapps",
-    "cta": "Join as dApp"
+    "alt": "入股-your-分发-dapps",
+    "cta": "加入dApp"
   }
 }
