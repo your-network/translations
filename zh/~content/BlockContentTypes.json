@@ -1,13 +1,13 @@
 {
   "*": {
-    "product-images": "Product images",
-    "product-videos": "Product videos",
-    "product-description": "Title and description",
-    "product-pdf": "Product manuals",
-    "product-qa": "Question & Answers",
-    "product-reviews": "Reviews",
-    "product-pros-cons": "Pros & Cons",
-    "product-reasons-to-buy": "Reasons to buy",
-    "product-specifications": "Product specifications"
+    "product-images": "产品图片",
+    "product-videos": "产品视频",
+    "product-description": "标题和描述",
+    "product-pdf": "产品手册",
+    "product-qa": "问答",
+    "product-reviews": "评价",
+    "product-pros-cons": "利弊",
+    "product-reasons-to-buy": "购买理由",
+    "product-specifications": "产品规格"
   }
 }
