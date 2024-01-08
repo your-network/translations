@@ -1,73 +1,73 @@
 {
   "seo": {
-    "title": "About us",
-    "description": "YOUR is the Web3 foundation for future ecommerce through a fully decentralized product content protocol. It’s purpose-built for the product content demands of the new era of online commerce - and anyone can be part of it.",
+    "title": "关于我们",
+    "description": "YOUR是未来电子商务的Web3基础，通过一个完全分散的产品内容协议。它是专门为在线商务新时代的产品内容需求而构建的——任何人都可以成为它的一部分.",
     "keywords": ""
   },
   "intro": {
-    "title": "About us",
+    "title": "关于我们",
     "paragraphs": [
-      "YOUR is the Web3 foundation for future ecommerce through a fully decentralized product content protocol",
-      "It's purpose-built for the product content demands of the new era of online commerce - and anyone can be part of it."
+      "YOUR是未来电子商务的Web3基础，通过一个完全分散的产品内容协议",
+      "它是专门为在线商务新时代的产品内容需求而构建的——任何人都可以成为它的一部分."
     ],
-    "poweredBy": "Powered by"
+    "poweredBy": "由"
   },
   "what": {
-    "title": "YOUR open source protocol is revolutionizing the product content creation and distribution"
+    "title": "YOUR的开源协议正在革新产品内容的创建和分发"
   },
   "mission": {
-    "title": "Our mission",
+    "title": "我们的任务",
     "paragraphs": [
-      "YOUR Protocol focuses on solving the web2 shortcomings and positions itself as number 1 product content provider for the emerging marketplaces such as metaverse, NFT, and other Web3 ecommerce markets.",
-      "An open-source product content streaming protocol, that enables the creation and distribution of product content in a transparent, controlled, efficient, and fair manner."
+      "YOUR Protocol专注于解决web2的缺点，并将自己定位为新兴市场(如metaverse、NFT和其他Web3电子商务市场)的头号产品内容提供商.",
+      "一个开源的产品内容流协议，能够以透明、可控、高效和公平的方式创建和分发产品内容."
     ]
   },
   "team": {
-    "title": "Our team"
+    "title": "我们的团队"
   },
   "known": {
-    "title": "Backed by"
+    "title": "由"
   },
   "why": {
-    "title": "Why is YOUR unique?",
-    "headings": ["", "Old way", "Your way"],
+    "title": "什么使YOUR独特?",
+    "headings": ["", "传统方式", "你的方式"],
     "rows": [
-      ["Content creators", "Content team", "Everybody in the world"],
-      ["Type of content", "Physical products", "Physical and digital products"],
-      ["Scalablity of creation", "Low scalable", "Highly scalable"],
-      ["Content creation speed", "Slow", "Fast"],
-      ["Cost of creation", "Expensive", "Cheap"],
-      ["Type of end-users", "Web 2.0", "Web 2.0+3.0"],
+      ["内容创作者", "内容团队", "世界上的每个人"],
+      ["内容类型", "实体产品", "实体与数字产品"],
+      ["创造的可扩展性", "低可伸缩", "高度可伸缩"],
+      ["内容创建速度", "慢", "快"],
+      ["创造成本", "贵", "便宜"],
+      ["最终用户类型", "Web 2.0", "Web 2.0+3.0"],
       [
-        "Content ownership",
-        "Company (centralized)",
-        "Creators (decentralized)"
+        "内容所有权",
+        "公司 (中心化)",
+        "创作者 (去中心化)"
       ],
-      ["Future Content earnings", "No", "Yes"],
+      ["未来内容收益", "否", "是"],
       [
-        "Content quality",
-        "Curated by one or a limited number of people",
-        "Curated by many curators in the network and machine learning"
+        "内容质量",
+        "由一个人或有限数量的人策划的",
+        "由网络和机器学习领域的许多策展人策划"
       ]
     ]
   },
   "create": {
-    "title": "YOUR protocol",
+    "title": "YOUR协议",
     "paragraphs": [
-      "The YOUR protocol brings creators, curators, node operators and content users together, allowing them to transact product content guided by the foundational beliefs that:",
-      "<ul><li>Shared content ownership will be registered in smart contracts. This gives creators control over their creations and a fair compensation.</li><li>Quality of product content will be ensured by co-creation, enrichment and curation</li><li>Decentralized storage systems prevent inefficient content duplicates and waste to our planet</li></ul>"
+      "YOUR协议将创建者、策展人、节点运营商和内容用户聚集在一起，允许他们在基本信念的指导下交易产品内容:",
+      "<ul><li>共享内容所有权将在智能合约中注册。这让创作者能够控制自己的作品，并获得公平的补偿.</li><li>通过共同创造、丰富和管理来保证产品内容的质量</li><li>分散的存储系统防止了低效的内容重复和对地球的浪费</li></ul>"
     ],
-    "cta": "Start building",
-    "alt": "your-build-dapps"
+    "cta": "开始构建",
+    "alt": "your-构建-dapps"
   },
   "earn": {
-    "title": "Earn from what you contribute",
-    "alt": "your-product-content-protocol"
+    "title": "从你的贡献中获利",
+    "alt": "your-产品-内容-协议"
   },
   "content": {},
   "join": {
-    "title": "Join other contributors around the globe",
-    "cta": "Start contributing today",
-    "alt": "your-join-other-contributors-around-the-globe"
+    "title": "加入全球其他贡献者的行列",
+    "cta": "今天就开始贡献吧",
+    "alt": "your-加入-其他-贡献者-全-球"
   }
 }
