@@ -1,120 +1,120 @@
 {
   "seo": {
-    "title": "Become a creator",
+    "title": "成为创作者",
     "description": "",
     "keywords": ""
   },
-  "cta": "Start creating",
+  "cta": "开始创作",
   "intro": {
-    "title": "Become a creator",
+    "title": "成为创作者",
     "paragraphs": [
-      "Start creating product content today and earn by doing so. Become a contributer to the YOUR community.",
-      "Create, own and earn"
+      "从今天开始创建产品内容，并通过这样做来赚钱。成为YOUR社区的贡献者.",
+      "创造、拥有和赚钱"
     ],
-    "cta": "Start creating"
+    "cta": "开始创作"
   },
   "stats": {
-    "title": "What can you earn as a creator",
+    "title": "作为创作者，你能赚到什么",
     "blocks": [
       {
-        "subject": "Creators earning on average",
+        "subject": "创作者的平均收入",
         "value": "€ 1530",
-        "suffix": "month"
+        "suffix": "月"
       },
       {
-        "subject": "Average of",
+        "subject": "平均",
         "value": "€ 51",
-        "suffix": "day"
+        "suffix": "日"
       },
       {
-        "subject": "By making content for",
+        "subject": "通过制作内容",
         "value": "256",
-        "suffix": "products"
+        "suffix": "产品"
       }
     ]
   },
   "meet": {
-    "title": "Meet creator Omar",
+    "title": "认识创作者奥马尔",
     "paragraphs": [
-      "Since I have started shooting photos for physical and digital product pages at YOUR, my rewardings are increasing every day. This motivates me to keep making such content.",
-      "In addition, the support within the community is amazing!"
+      "自从我开始为YOUR的实体和数字产品页面拍摄照片以来，我的奖励每天都在增加。这促使我继续制作这样的内容.",
+      "此外，社区内的支持是惊人的!"
     ],
-    "cta": "Start creating"
+    "cta": "开始创作"
   },
   "content": {
-    "headline2": "Some examples from YOUR creators"
+    "headline2": "YOUR创作者的范例"
   },
   "meet2": {
-    "title": "Meet creator Sandy",
+    "title": "认识创作者珊迪",
     "paragraphs": [
-      "I have always had a passion for questions and answers on webshops. Now I can finally produce my own questions and answers to improve information. I love the fact that I am in full ownership of my product content.",
-      "I get rewarded for every piece of content I create, so I feel like my skills are being recognized!"
+      "我一直对网上商店的问答充满热情。现在我终于可以提出自己的问题和答案来完善信息了。我喜欢我对我的产品内容拥有完全所有权的事实.",
+      "我创造的每一个内容都会得到奖励，所以我觉得我的技能得到了认可!"
     ],
-    "cta": "Start creating"
+    "cta": "开始创作"
   },
   "earn": {
-    "title": "Earn from what you create",
-    "alt": "your-earn-from-what-you-create"
+    "title": "从你的创造中赚钱",
+    "alt": "你的-收益-从-你的-创作"
   },
   "faq": {
-    "title": "Frequently asked questions about creating content",
+    "title": "关于创建内容的常见问题",
     "faqs": [
       {
-        "question": "How do I become a creator on YOUR Creation dApp?",
-        "answer": "Sign up as a creator to start creating content on the YOUR Creation dApp. To get you through the process of becoming a creator, a step-by-step guide is listed here: https://info.your.io/hc/en-nl/sections/7639676824861-Getting-Started"
+        "question": "我如何成为YOUR创作dApp的创作者?",
+        "answer": "注册为创建者，开始在YOUR Creation dApp上创建内容。为了让您完成成为创作者的过程，这里列出了一步一步的指南:https://info.your.io/hc/en-nl/sections/7639676824861-Getting-Started"
       },
       {
-        "question": "How does YOUR protocol give control to creators?",
-        "answer": "YOUR protocol registers content ownership in smart contracts. This gives creators complete control over their creations and the ability to easily change or revoke content as needed.  "
+        "question": "YOUR协议是如何给创作者控制权的?",
+        "answer": "YOUR协议在智能合约中注册内容所有权。这使创建者能够完全控制他们的创作，并能够根据需要轻松更改或撤销内容.  "
       },
       {
-        "question": "How are creators for YOUR protocol rewarded?",
-        "answer": "Contributors, which includes creators, get paid in relation to how much value they bring. This value is measured by the quality of the product content they make, and how many people interact with it on e-commerce websites. This payment system motivates people to create high-quality product content, and ensures everyone is rewarded fairly for their work."
+        "question": "YOUR协议创造者是如何获得奖励的?",
+        "answer": "贡献者(包括创造者)的报酬与他们带来的价值有关。这种价值是通过他们制作的产品内容的质量以及有多少人在电子商务网站与之互动来衡量的。这种支付系统激励人们创造高质量的产品内容，并确保每个人的工作都得到公平的回报."
       },
       {
-        "question": "What kind of product content can I create?",
-        "answer": "Currently 8 content types are live on the first YOUR Creation dApp to create content for. These 8 content types include: title & description, specifications, images, video, review, Q&A, product manual and articles about a product. Eventually, the way product content will be offered depends on the type of Creation dApp you create content on, as they will all differ in features and usage."
+        "question": "我可以创建什么样的产品内容?",
+        "answer": "目前有8种内容类型是在你的第一个创建dApp创建内容。这8种内容类型包括:标题和描述、规格、图片、视频、评论、问答、产品手册和产品文章。最终，提供产品内容的方式取决于您创建内容的Creation dApp的类型，因为它们在功能和用途上都有所不同."
       },
       {
-        "question": "How do I upload product content on YOUR?",
-        "answer": "After signing up, choose any of the products you want to create content for on YOUR. Learn more on how to create content per specific type on <a href='https://info.your.io/hc/en-nl/sections/7562058943261-How-to-Create-Content'>this page</a>."
+        "question": "如何在YOUR上传产品内容?",
+        "answer": "注册后，选择任何你想在YOUR上创建内容的产品。了解更多关于如何创建每个特定类型的内容<a href='https://info.your.io/hc/en-nl/sections/7562058943261-How-to-Create-Content'>此页面</a>."
       },
       {
-        "question": "Why is my product content pending or declined on YOUR Creation dApp?",
+        "question": "为什么我的产品内容在YOUR创建dApp上待定或拒绝?",
         "answer": [
-          "Before webshops can stream your product content, it first needs to be curated. Your content will be checked against our requirements stated here above. Before the product is approved it will be in the state pending. When content is declined it will show up in your content management dashboard with the specific reason.",
-          "Consult <a href='https://info.your.io/hc/en-nl/articles/7639762949789-Status-of-Product-Content'>this page</a> to learn more about the statuses of product content."
+          "在网上商店可以传输你的产品内容之前，它首先需要被策划。您的内容将根据我们在上面所述的要求进行检查。在产品被批准之前，它将处于待定状态。当内容被拒绝时，它将显示在您的内容管理仪表板中，并显示具体原因.",
+          "参考 <a href='https://info.your.io/hc/en-nl/articles/7639762949789-Status-of-Product-Content'>此页面</a> to learn more about the statuses of product content."
         ]
       },
       {
-        "question": "How is the content score calculated on YOUR Creation dApp and what does it mean?",
-        "answer": "Contributing content to YOUR creation dApp earn you points. Reach higher levels as you earn points for your contributions such as photos and reviews. Use this page to read more information about the amount of points each contribution adds."
+        "question": "YOUR创作dApp的内容评分是如何计算的，它意味着什么?",
+        "answer": "为YOUR创作贡献内容可以为你赢得积分。随着你的贡献(如照片和评论)获得积分，你可以达到更高的级别。使用此页可阅读有关每次贡献所增加的点数的更多信息."
       },
       {
-        "question": "How do I reach new reputation levels?",
-        "answer": "Adding up points you earn with creating content takes you to new levels of reputation. Reach higher levels of reputations by developing and expanding your skills in creating or curating content. The more content you create or curate, the more points you receive and the sooner you will unlock a new reputation level. Learn more about reputation levels on: https://info.your.io/hc/en-nl/articles/9687002058525-Reputation-Level"
+        "question": "我如何达到新的声望等级?",
+        "answer": "通过创造内容而获得的积分会让你的声誉达到新的水平。通过发展和扩展你在创作或策划内容方面的技能，达到更高的声誉水平。你创造或策划的内容越多，你获得的积分就越多，你就能更快地解锁一个新的声望等级。了解更多关于声誉等级的信息:https://info.your.io/hc/en-nl/articles/9687002058525-Reputation-Level"
       },
       {
-        "question": "What are the requirements the product content needs to adhere to?",
-        "answer": "Ensure that your product content aligns with the corresponding product and does not contain any inappropriate language"
+        "question": "产品内容需要坚持的要求是什么?",
+        "answer": "确保您的产品内容与相应的产品一致，并且不包含任何不恰当的语言"
       },
       {
-        "question": "Who will use my product content?",
-        "answer": "Companies like Amazon, AliExpress, Sandbox and OpenSea need extensive product profiles to elevate customer experience and increase conversion rates. For these companies it is becoming too expensive and slow to build their own content creation team so they have the possibility to use your created content."
+        "question": "谁会使用我的产品内容?",
+        "answer": "亚马逊、全球速卖通、Sandbox和OpenSea等公司需要广泛的产品介绍来提升客户体验和提高转化率。对于这些公司来说，建立自己的内容创作团队变得过于昂贵和缓慢，所以他们有可能使用你创建的内容."
       },
       {
-        "question": "In which languages can I create content?",
-        "answer": "As a creator, creating content in the editor can only be done in English directly. YOUR protocol does not support the functionality of Google Translate to translate the content while creating or editing the content in the editor. The same holds for saving this content afterwards. "
+        "question": "我可以用哪些语言创建内容?",
+        "answer": "作为创建者，在编辑器中创建内容只能直接使用英文。YOUR协议不支持谷歌翻译翻译的功能，同时在编辑器中创建或编辑内容。之后保存此内容也是如此. "
       },
       {
-        "question": "How to join the YOUR community?",
-        "answer": "The foundation of YOUR is its community. You can <a to='auth.signup-contributor'>join our community</a> and contribute to the protocol to start earning today. Also join our community on social media via this link: https://linktr.ee/your_official"
+        "question": "如何加入YOUR社区?",
+        "answer": "YOUR的基础是它的社区。你可以<a to='auth.signup-contributor'>加入我们的社区</a> 并为协议做出贡献，从今天开始赚钱。也可以通过以下链接加入我们的社交媒体社区:https://linktr.ee/your_official"
       }
     ]
   },
   "join": {
-    "title": "Join other creators around the globe",
-    "cta": "Start creating today",
-    "alt": "your-start-creating-today"
+    "title": "加入世界各地的其他创作者",
+    "cta": "从今天开始创造",
+    "alt": "YOUR-开始-创作-今天"
   }
 }
