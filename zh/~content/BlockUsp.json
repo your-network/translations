@@ -1,18 +1,18 @@
 {
-  "title": "Beat your competitors",
-  "subtitle": "with high quality product content at scale",
+  "title": "击败竞争对手",
+  "subtitle": "具有高质量产品含量的规模化",
   "list": {
     "conversion": {
-      "title": "More sales",
-      "text": "More sales and revenue with optimised product content"
+      "title": "更多的销售",
+      "text": "通过优化产品内容增加销售和收入"
     },
     "experience": {
-      "title": "Happy customers",
-      "text": "Improve the overall experience and customer loyalty"
+      "title": "客户满意度",
+      "text": "提高整体体验和客户忠诚度"
     },
     "costs": {
-      "title": "Save money",
-      "text": "Don't waste money on content creation, storage and integrations"
+      "title": "省钱",
+      "text": "不要把钱浪费在内容创建、存储和整合上"
     }
   }
 }
