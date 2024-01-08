@@ -1,14 +1,14 @@
 {
   "conversion": {
-    "title": "Conversion rate increase",
+    "title": "转化率增加",
     "value": "25%"
   },
   "bounceRate": {
-    "title": "Decrease in bounce rate",
+    "title": "减少跳出率",
     "value": "10%"
   },
   "timeOnPage": {
-    "title": "Time on page increase",
-    "value": "5 min."
+    "title": "页面停留时间增加",
+    "value": "5分钟"
   }
 }
