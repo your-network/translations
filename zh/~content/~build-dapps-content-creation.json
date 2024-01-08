@@ -1,35 +1,35 @@
 {
   "seo": {
-    "title": "Content creation dApps",
-    "description": "The YOUR Protocol is an open source protocol that allows developers to participate in code development and receive rewards for their contributions.",
+    "title": "内容创建dApps",
+    "description": "YOUR协议是一个开源协议，允许开发人员参与代码开发，并为他们的贡献获得奖励.",
     "keywords": ""
   },
   "hero": {
-    "title": "Content creation dApps",
+    "title": "内容创建dApps",
     "paragraphs": [
-      "Build your own product content creation dApp on the YOUR protocol.",
-      "The gateway of your product content to the web2/web3 e-commerce world. Register, store and distribute your product content in an efficient, controlled and decentralised manner."
+      "在your协议上构建您自己的产品内容创建dApp.",
+      "您的产品内容通往web2/web3电子商务世界的门户。以高效、可控和分散的方式注册、存储和分发您的产品内容."
     ],
-    "cta": "Join as dApp"
+    "cta": "加入dApp"
   },
   "intro": {
-    "title": "Take full control of your product content and earn"
+    "title": "完全控制您的产品内容和赚取"
   },
   "block1": {
-    "title": "Build the future of content creation",
+    "title": "打造内容创作的未来",
     "paragraphs": [
-      "The open source protocol of YOUR enables dApps to build their own applications on an efficient, decentralised, innovative and secure network.",
-      "YOUR takes product content creation to the new era where everyone can build, contribute and earn."
+      "YOUR的开源协议使dapp能够在高效、分散、创新和安全的网络上构建自己的应用程序.",
+      "YOUR将产品内容创作带入了一个人人都能参与、贡献和赚钱的新时代."
     ],
-    "alt": "your-dapps-content-creation-protocol"
+    "alt": "your-dapps-内容-创作-协议"
   },
   "block2": {
-    "title": "Stake and build",
+    "title": "股份和构建",
     "paragraphs": [
-      "In order to use the YOUR protocol creation dApps must first stake a certain amount of tokens.",
-      "When staked dApps will be able to configure their application to the protocol endpoints and services. Based on their needs concerning control, distribution and rewards."
+      "为了使用您的协议创建，dapp必须首先下注一定数量的代币.",
+      "当有赌注的dapp将能够配置他们的应用程序到协议端点和服务。基于他们对控制、分配和奖励的需求."
     ],
-    "alt": "your-dapps-develop-the-future",
-    "cta": "Join as dApp"
+    "alt": "your-dapps-开发-未来",
+    "cta": "加入dApp"
   }
 }
