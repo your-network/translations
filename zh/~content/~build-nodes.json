@@ -1,35 +1,35 @@
 {
   "seo": {
-    "title": "Protocol Nodes YOUR",
-    "description": "The YOUR protocol is a decentralized network that enables dApps to securely store and access product content.",
+    "title": "协议节点",
+    "description": "YOUR协议是一个分散的网络，使dapp能够安全地存储和访问产品内容.",
     "keywords": ""
   },
   "hero": {
-    "title": "Protocol Backbone",
+    "title": "协议主干",
     "paragraphs": [
-      "The YOUR protocol is a decentralized network that enables dApps to securely store and access product content.",
-      "It is powered by a network of nodes that are responsible for verifying and validating transactions, as well as storing and serving content."
+      "YOUR协议是一个分散的网络，使dapp能够安全地存储和访问产品内容.",
+      "它由一个节点网络提供支持，这些节点负责验证和验证交易，以及存储和提供内容."
     ],
-    "cta": "Join as node"
+    "cta": "加入节点"
   },
   "intro": {
-    "title": "Store and Secure the future of product content"
+    "title": "存储和保护产品内容的未来"
   },
   "block1": {
-    "title": "Node operators",
+    "title": "节点操作",
     "paragraphs": [
-      "Node operators are rewarded for their efforts in the form of transaction fees and fees for storing.",
-      "This incentivizes node operators to provide reliable service and helps to ensure that the network remains secure and efficient. This encourages dApps to get involved in the YOUR protocol by building applications to ensure its success."
+      "节点运营商通过交易费和存储费的形式获得回报.",
+      "这激励节点运营商提供可靠的服务，并有助于确保网络保持安全和高效。这鼓励dapp通过构建应用程序来参与YOUR协议，以确保其成功."
     ],
-    "alt": "node-operators-your"
+    "alt": "节点操作人员"
   },
   "block2": {
-    "title": "Run and earn",
+    "title": "运行并获利",
     "paragraphs": [
-      "In order to run a node on the YOUR Protocol, users must first stake a certain amount of tokens.",
-      "Staked users will then be able to configure their nodes and start providing services for the YOUR protocol. Choose to serve as a search or storage node."
+      "为了在YOUR协议上运行节点，用户必须首先押注一定数量的代币.",
+      "然后，被绑定的用户将能够配置他们的节点并开始为YOUR协议提供服务。选择作为搜索或存储节点."
     ],
-    "alt": "run-nodes-protocol-earn",
-    "cta": "Join as node"
+    "alt": "运行-节点-协议-获利",
+    "cta": "加入节点"
   }
 }
