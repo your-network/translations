@@ -1,17 +1,17 @@
 {
   "*": {
-    "title": "What content can you store or request?",
-    "headline": "High-quality user-generated content",
+    "title": "您可以存储或请求哪些内容?",
+    "headline": "高品质用户生成内容",
     "paragraphs": [
-      "YOUR protocol offers a wide range of product content like photos, product descriptions, reviews and question and answers through multiple content creation dApps"
+      "您的协议通过多个内容创建dapp提供广泛的产品内容，如照片，产品描述，评论和问答"
     ],
-    "headline2": "Real content by real contributors",
+    "headline2": "真正的内容来自真正的贡献者",
     "types": {
-      "image": "Images",
-      "experience": "Experiences",
-      "video": "Videos",
+      "image": "图片",
+      "experience": "经验",
+      "video": "视频",
       "faq": "FAQ",
-      "news": "News"
+      "news": "新闻"
     }
   }
 }
