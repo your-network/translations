@@ -1,0 +1,13 @@
+{
+  "close": "Close",
+  "tabs": {
+    "image": "Images",
+    "image~mobile": "Images",
+    "video": "Videos",
+    "video~mobile": "Videos",
+    "media": "Media",
+    "media~mobile": "Media",
+    "review": "Customer images",
+    "review~mobile": "Reviews"
+  }
+}

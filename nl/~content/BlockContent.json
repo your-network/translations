@@ -1,0 +1,17 @@
+{
+  "*": {
+    "title": "What content can you store or request?",
+    "headline": "High-quality user-generated content",
+    "paragraphs": [
+      "YOUR protocol offers a wide range of product content like photos, product descriptions, reviews and question and answers through multiple content creation dApps"
+    ],
+    "headline2": "Real content by real contributors",
+    "types": {
+      "image": "Images",
+      "experience": "Experiences",
+      "video": "Videos",
+      "faq": "FAQ",
+      "news": "News"
+    }
+  }
+}

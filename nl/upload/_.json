@@ -1,0 +1,22 @@
+{
+  "dragActive": "drop it here...",
+  "remove": {
+    "title": "Are you sure?",
+    "text": "Do you really want to delete this? This process cannot be undone.",
+    "confirm": "Delete media",
+    "cancel": "Cancel"
+  },
+  "errors": {
+    "unaccepted": "Please only upload accepted file formats.",
+    "upload": "Sorry, file <name></name> could not be uploaded.",
+    "format": "File <name></name> format is not supported, please only upload <target></target>",
+    "minSize": "File <name></name> is not detailed enough, minimum size is <target></target>",
+    "maxSize": "File <name></name> is too heavy, maximum size is <target></target>",
+    "minRes": "File <name></name> is too small, minimum resolution is <target></target>",
+    "maxRes": "File <name></name> is too big, maximum resolution is <target></target>",
+    "minWidth": "File <name></name> is too narrow, minimum width is <target></target>",
+    "minHeight": "File <name></name> is too short, minimum height is <target></target>",
+    "maxWidth": "File <name></name> is too wide, maximum width is <target></target>",
+    "maxHeight": "File <name></name> is too tall, maximum height is <target></target>"
+  }
+}

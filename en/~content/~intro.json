@@ -1,0 +1,80 @@
+{
+  "seo": {
+    "title": "YOUR | Instantly change your page into an experience",
+    "description": "Elevate your product pages with the most complete content solution of the world",
+    "keywords": ""
+  },
+  "intro": {
+    "title": "Instantly change your page into an experience",
+    "subtitle": "Elevate your product pages with the most complete content solution of the world",
+    "highlights": [
+      "Try before you buy",
+      "60+ languages",
+      "Support included"
+    ],
+    "cta": "Get started",
+    "switch": {
+      "physical": "Physical",
+      "digital": "Digital"
+    }
+  },
+  "kpi": {
+    "conversion": {
+      "value": "25%",
+      "title": "Conversion rate increase"
+    },
+    "bounce": {
+      "value": "10%",
+      "title": "Decrease in bounce rate"
+    },
+    "time": {
+      "value": "5 min.",
+      "title": "Time on page increase"
+    }
+  },
+  "engagement": {
+    "title": "Increase engagement and conversion",
+    "text": "Save money and earn more  by streaming high-quality product content",
+    "list": [
+      "All content types you need",
+      "60+ languages available",
+      "Cutting-edge AI enrichment",
+      "Next-level streaming integration"
+    ]
+  },
+  "contentTypes": {
+    "title": "Enable customers to make informed buying decisions"
+  },
+  "integrations": {
+    "headline": "Content integration",
+    "title": "Integration possibilities are endless",
+    "custom": {
+      "text": "Custom build shop? No problem!",
+      "cta": "Learn more"
+    }
+  },
+  "shopify": {
+    "title": "All in one app",
+    "paragraphs": [
+      "Seamless integration of product content such as <b>descriptions, images, videos and reviews</b> offering a time and cost-effective solution that's user-friendly and has the potential to <b>boost sales</b> with high-quality content delivery."
+    ],
+    "cta": "Learn more"
+  },
+  "personalise": {
+    "headline": "Content personalisation",
+    "title": "Be truly personal for every customer visiting your page",
+    "text": "In a world filled with generic messages, personalization is the key to standing out and creating a dynamic, engaging experience tailored to each individual's unique needs and interests.",
+    "cta": "Get started",
+    "switch": {
+      "men": "Men",
+      "women": "Women"
+    }
+  },
+  "faq": {
+    "title": "FAQ"
+  },
+  "ready": {
+    "title": "Ready to elevate your product pages?",
+    "cta": "Get started"
+  }
+}

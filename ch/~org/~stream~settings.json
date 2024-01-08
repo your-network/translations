@@ -1,0 +1,22 @@
+{
+  "seo": {
+    "title": "Stream settings",
+    "description": "",
+    "keywords": ""
+  },
+  "title": "Stream settings",
+  "subtitle": "Manage here your SDK embed configuration",
+  "setup": {
+    "title": "Setup",
+    "text": "Please fill in your shop information"
+  },
+  "settings": {
+    "title": "Settings"
+  },
+  "snippet": {
+    "title": "Get snippet"
+  },
+  "instructions": {
+    "title": "How to"
+  }
+}

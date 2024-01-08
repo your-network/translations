@@ -1,0 +1,18 @@
+{
+  "ui": {
+    "loading": "Loading...",
+    "empty": {
+      "text": "Sorry, at the moment there is no data of this type available for this product. This block will not show up in your website for this product.",
+      "hide": "Hide this now"
+    },
+    "error": {
+      "text": "Sorry, at the moment there is an error retrieving data of this type for this product. This block will not show up in your website for this product.",
+      "hide": "Hide this now"
+    }
+  },
+  "settings": {
+    "show_title": {
+      "label": "Show title"
+    }
+  }
+}

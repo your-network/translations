@@ -1,0 +1,28 @@
+{
+  "title": "Let's get started",
+  "text": "In 3 short steps we teach you how to style and stream product content",
+  "back": "Go back",
+  "0": {
+    "title": "Watch a quick intro about YOUR and streaming content",
+    "cta": "Start onboarding"
+  },
+  "1": {
+    "title": "Add content easily via drag & drop building blocks",
+    "cta": "Next step",
+    "howTo": {
+      "title": "How to add content",
+      "actions": {
+        "1": "Click on one of your above products so that you end up in the product page editor",
+        "2": "Add content blocks on the left side of the menu under Template Apps."
+      }
+    },
+    "video": {
+      "title": "Video tutorials",
+      "text": "Learn in a few easy steps how to start streaming"
+    }
+  },
+  "2": {
+    "title": "Learn how to style your content",
+    "cta": "Finish onboarding"
+  }
+}

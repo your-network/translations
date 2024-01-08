@@ -1,0 +1,14 @@
+{
+  "seo": {
+    "title": "Verify your account",
+    "description": ""
+  },
+  "title": "Verify your account",
+  "subtitle": "We have send a verification email. Please verify your account by clicking on the link in the email.",
+  "btnSignin": "Sign in",
+  "okResend": {
+    "title": "Email sent!",
+    "text": "Please check your inbox and click the verification link."
+  },
+  "resend": "Haven't received it? <button>Resend email</button>"
+}

@@ -1,0 +1,8 @@
+{
+  "alreadyAccount": "Already have an account?",
+  "noAccount": "Don't have an account yet?",
+  "signUp": "Create an account",
+  "signIn": "Sign In",
+  "signedInAs": "You are signed in as <username></username>",
+  "signedInAsCta": "Go to your account"
+}

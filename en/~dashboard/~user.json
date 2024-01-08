@@ -1,0 +1,68 @@
+{
+  "seo": {
+    "title": "Dashboard",
+    "description": "",
+    "keywords": ""
+  },
+  "actionBar": "Dashboard",
+  "title": "Welcome back {{ name }}",
+  "earnings": {
+    "title": "Earnings"
+  },
+  "points": {
+    "title": "Points"
+  },
+  "created": {
+    "title": "Created content",
+    "cta": "View <link>leaderboard</link>",
+    "ctaEmpty": "<link>Start creating</link> your fist content",
+    "last": "Last {{ time }} {{ value }}"
+  },
+  "edited": {
+    "title": "Most edited",
+    "cta": "Create <link>product content</link>",
+    "ctaEmpty": "<link>Start creating</link> your fist content",
+    "last": "Last {{ time }} {{ value }}"
+  },
+  "profile": {
+    "cta": "Edit profile",
+    "ctaPublic": "View <link>public profile</link>",
+    "bio": "Bio",
+    "bioEmpty": "Tell us something about yourself",
+    "bioEmptyCta": "Add bio",
+    "skills": "Skills",
+    "skillsEmptyCta": "Add skills",
+    "languages": "Languages",
+    "languagesEmptyCta": "Add languages"
+  },
+  "products": {
+    "title": "New products",
+    "cta": "Show all",
+    "search": {
+      "placeholder": "Search by title, brand etc..."
+    },
+    "btn": "Create"
+  },
+  "brands": {
+    "title": "Popular brands",
+    "cta": "Show all",
+    "products": "{{ count }} products",
+    "products_one": "{{ count }} product",
+    "products_other": "{{ count }} products",
+    "products_0": "No products"
+  },
+  "edits": {
+    "title": "Recently edits",
+    "cta": "Show all",
+    "ctaEmpty": "<link>Start creating</link> your first content.",
+    "empty": "Your recently edited section is blank."
+  },
+  "earningsChart": {
+    "title": "Earnings",
+    "filters": {
+      "thisYear": "This year"
+    },
+    "emptyTitle": "This chart is empty for now",
+    "emptyText": "Data will show up as soon as its available."
+  }
+}

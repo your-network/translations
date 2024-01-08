@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "name": "Product Pros & Cons",
+    "shortName": "Pros and cons"
+  },
+  "ui": {
+    "title": "Pros and cons"
+  },
+  "settings": {
+    "proIconColor": {
+      "label": "Pro's icon color"
+    },
+    "conIconColor": {
+      "label": "Con's icon color"
+    }
+  }
+}

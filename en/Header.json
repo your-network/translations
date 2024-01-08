@@ -1,0 +1,37 @@
+{
+  "solution": {
+    "label": "Solution",
+    "shops": "For shops",
+    "creators": "For creators",
+    "start": "Get started"
+  },
+  "showcase": "Showcase",
+  "learn": "Learn",
+  "pricing": "Pricing",
+  "token": "Token",
+  "signin": "Login",
+  "demo": "Book a demo",
+  "start": "Get started",
+  "my": {
+    "label": "Account",
+    "headline": "See your profile",
+    "dashboard": "Dashboard",
+    "profile": "Edit profile",
+    "settings": "Settings",
+    "company": {
+      "fallback": "My company",
+      "profile": "{{ company }}'s profile",
+      "settings": "{{ company }}'s settings"
+    },
+    "notifications": "Notifications",
+    "help": "Help",
+    "logout": "Logout"
+  },
+  "community": {
+    "label": "Community",
+    "users": "All users",
+    "leaderboard": "Leaderboard",
+    "creator": "Become a creator",
+    "governance": "DAO Governance"
+  }
+}

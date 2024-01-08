@@ -1,0 +1,22 @@
+{
+  "labels": {
+    "socialLinks": "Social URL's"
+  },
+  "placeholders": {
+    "socialLinks_new": "e.g. https://twitter.com/orgname"
+  },
+  "helpers": {
+    "socialLinks_new": "Supported social media are {{ list }}"
+  },
+  "errors": {
+    "socialLinks": {
+      "url": {
+        "url": "Insert a valid URL",
+        "matches": "Please insert a valid URL one of the supported social media."
+      }
+    }
+  },
+  "btnAdd": "Add social URL",
+  "ok": "Changes saved",
+  "fail": "Something went wrong while saving your changes."
+}

@@ -1,0 +1,16 @@
+{
+  "seo": {
+    "title": "Company Pricing",
+    "description": "",
+    "keywords": ""
+  },
+  "actionBar": "Pricing",
+  "title": "Pricing plans",
+  "subtitle": "Choose a plan from below and get started",
+  "cards": {
+    "subscriptions": {
+      "title": "Select your plan",
+      "subtitle": "You are on a <subscription>{{ subscription }}</subscription> plan"
+    }
+  }
+}

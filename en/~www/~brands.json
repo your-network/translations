@@ -1,0 +1,24 @@
+{
+  "seo": {
+    "title": "Browse brands"
+  },
+  "title": {
+    "all": "All brands",
+    "initial": "All brands: <initial></initial>",
+    "query": "All brands: <query></query>",
+    "initialAndQuery": "Brands beginning with <initial></initial> matching <query></query>"
+  },
+  "subtitle": "Search for a brand",
+  "search": {
+    "placeholder": "Type in a brand",
+    "results": "",
+    "results_one": "1 result",
+    "results_other": "<number></number> results"
+  },
+  "products": {
+    "hash": "most-edited",
+    "title": "Most edited products",
+    "subtitle": "Our worldwide community made content for the following products",
+    "cta": "See the most edited products"
+  }
+}

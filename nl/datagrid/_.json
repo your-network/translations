@@ -1,0 +1,10 @@
+{
+  "show": "Show filters",
+  "hide": "Hide filters",
+  "facets": {
+    "category": "Category",
+    "brand": "Brand",
+    "score": "Score",
+    "contentType": "Content type"
+  }
+}

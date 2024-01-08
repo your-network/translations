@@ -1,0 +1,159 @@
+{
+  "account": {
+    "user": {
+      "profile": "/account/user",
+      "settings": {
+        "index": "/account/user/settings",
+        "personal": "/account/user/settings/personal",
+        "notifications": "/account/user/settings/notifications",
+        "preferences": "/account/user/settings/preferences",
+        "security": "/account/user/settings/security"
+      }
+    },
+    "company": {
+      "profile": "/account/company",
+      "settings": {
+        "index": "/account/company/settings",
+        "personal": "/account/company/settings/personal",
+        "billing": "/account/company/settings/billing",
+        "payment": "/account/company/settings/payment",
+        "notifications": "/account/company/settings/notifications"
+      }
+    }
+  },
+  "auth": {
+    "confirm-email": "/account-verification",
+    "password-forgot": "/password-recovery",
+    "password-reset": "/password-reset",
+    "signin": "/signin",
+    "signup": "/signup",
+    "signup-contributor": "/signup-contributor",
+    "signup-extractor": "/signup-shop",
+    "two-factor": "/two-factor",
+    "verify": "/account-created"
+  },
+  "community": {
+    "leaderboard": "/leaderboard",
+    "user": {
+      "[id]": "/u/{{ id }}"
+    },
+    "users": {
+      "index": "/users",
+      "[userName]": "/users/{{ userName }}"
+    }
+  },
+  "content": {
+    "about": "/about-us",
+    "build-developers": "/build/developers",
+    "build-dapps-signup": "/build/dapps/signup",
+    "build-dapps-content-creation": "/build/dapps/content-creation",
+    "build-dapps-content-distribution": "/build/dapps/content-distribution",
+    "build-dapps": "/build/dapps",
+    "build-nodes": "/build/nodes",
+    "build-use-cases": "/build/use-cases",
+    "community-governance": "/community/governance",
+    "cookies": "/cookie-statement",
+    "creator": "/creator",
+    "extractor": "/extractor",
+    "intro": "/",
+    "pricing": "/pricing",
+    "privacy": "/privacy-policy",
+    "shops": "/shops",
+    "showcase": "/showcase",
+    "terms": "/terms-of-use",
+    "token": "/token"
+  },
+  "dashboard": {
+    "chat": "/chat",
+    "curate": "/curate",
+    "editor-product": {
+      "[id]": "/content-editor/{{ id }}"
+    },
+    "manage": "/manage-content",
+    "marketplace": "/marketplace",
+    "products-overview": "/products",
+    "statistics": "/statistics",
+    "user": "/dashboard",
+    "wallet": "/wallet"
+  },
+  "demo": {
+    "sdk": "/demo/sdk"
+  },
+  "org": {
+    "dashboard": "/org",
+    "analytics": "/org/analytics",
+    "download": "/org/download",
+    "downloads": {
+      "index": "/org/downloads",
+      "[id]": "/org/downloads/{{ id }}"
+    },
+    "onboarding": "/org/onboarding",
+    "pricing": "/org/pricing",
+    "stream": {
+      "customize": "/org/stream/style",
+      "settings": "/org/stream/settings"
+    }
+  },
+  "tools": {
+    "feed-matcher": {
+      "index": "/tools/feed-matcher",
+      "[spa]": "/tools/feed-matcher/{{ spa }}*",
+      "shops": {
+        "index": "/shops",
+        "[id]": {
+          "index": "/shops/{{ id }}",
+          "source": {
+            "index": "/shops/{{ id }}/source",
+            "new": "/shops/{{ id }}/source/new",
+            "[sourceId]": {
+              "index": "/shops/{{ id }}/source/{{ sourceId }}",
+              "edit": "/shops/{{ id }}/source/{{ sourceId }}/edit",
+              "mapFields": "/shops/{{ id }}/source/{{ sourceId }}/map-fields",
+              "mapAttributes": "/shops/{{ id }}/source/{{ sourceId }}/map-attributes",
+              "mapAttributeGroups": "/shops/{{ id }}/source/{{ sourceId }}/map-attribute-groups",
+              "mapBrands": "/shops/{{ id }}/source/{{ sourceId }}/map-brands",
+              "mapCategories": "/shops/{{ id }}/source/{{ sourceId }}/map-categories"
+            }
+          }
+        }
+      }
+    }
+  },
+  "www": {
+    "search": "/search",
+    "brand": {
+      "[slug]": {
+        "[id]": "/b/{{ slug }}/{{ id }}"
+      }
+    },
+    "brands": {
+      "index": "/brands",
+      "[id]": "/brands/{{ id }}"
+    },
+    "category": {
+      "[slug]": {
+        "[id]": "/l/{{ slug }}/{{ id }}"
+      }
+    },
+    "categories": {
+      "index": "/categories",
+      "[id]": "/categories/{{ id }}"
+    },
+    "product-stable": {
+      "[id]": "/product/{{ id }}"
+    },
+    "product": {
+      "[slug]": {
+        "[id]": {
+          "index": "/p/{{ slug }}/{{ id }}",
+          "revisions": {
+            "index": "/p/{{ slug }}/{{ id }}/revisions",
+            "[revisionId]": {
+              "index": "/p/{{ slug }}/{{ id }}/revisions/{{ revisionId }}"
+            }
+          }
+        }
+      }
+    }
+  }
+}

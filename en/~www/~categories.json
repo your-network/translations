@@ -1,0 +1,24 @@
+{
+  "seo": {
+    "title": "Browse categories"
+  },
+  "title": {
+    "all": "All categories",
+    "initial": "All categories: <initial></initial>",
+    "query": "All categories: <query></query>",
+    "initialAndQuery": "Categories beginning with <initial></initial> matching <query></query>"
+  },
+  "subtitle": "Search for a category",
+  "search": {
+    "placeholder": "Type in a category",
+    "results": "",
+    "results_one": "1 result",
+    "results_other": "<number></number> results"
+  },
+  "products": {
+    "hash": "most-edited",
+    "title": "Most edited products",
+    "subtitle": "Our worldwide community made content for the following products",
+    "cta": "See the most edited products"
+  }
+}

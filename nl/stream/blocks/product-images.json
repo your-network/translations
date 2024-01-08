@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "name": "Product Images",
+    "shortName": "Images"
+  },
+  "ui": {
+    "title": "Product foto's",
+    "more": "Toon alle foto's",
+    "less": "Show less"
+  },
+  "settings": {}
+}

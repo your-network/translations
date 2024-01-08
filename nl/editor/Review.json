@@ -1,0 +1,76 @@
+{
+  "labels": {
+    "score": "Give stars",
+    "title": "Review title",
+    "companyName": "Company name",
+    "description": "Description",
+    "media": "Add media",
+    "pros": "Pros",
+    "cons": "Cons"
+  },
+  "placeholders": {
+    "title": "Give your review a title",
+    "companyName": "CNET.com",
+    "description": "Tell us about your experience",
+    "pros": "Pro",
+    "cons": "Con"
+  },
+  "errors": {
+    "score": {
+      "min": "Please choose a score between 1 and 5"
+    },
+    "title": {
+      "length": "Title must be between 4 and 150 characters"
+    },
+    "description": {
+      "length": "Description must be between 4 and 5000 characters"
+    },
+    "pros": {
+      "length": "Pro must be between 4 and 50 characters"
+    },
+    "cons": {
+      "length": "Con must be between 4 and 50 characters"
+    }
+  },
+  "helpers": {
+    "title": "Suggestion: Poor materials used in production"
+  },
+  "media": {
+    "upload": "Upload media",
+    "or": "or",
+    "addFromUrl": "Add from URL",
+    "requirements": "{{ num }} images/videos max, {{ maxSize }} max per image"
+  },
+  "ok": {
+    "title": "Congratulations 🎉",
+    "text": "Our community will check your review. It can take up to 24-48 hours before going live."
+  },
+  "fail": {
+    "title": "Something went wrong saving your review"
+  },
+  "clearRating": "Clear",
+  "ctaText": "Have something to share about your experience?",
+  "ctaBtn": "Write review",
+  "ctaClear": "Clear review",
+  "pending": "Pending",
+  "approved": "Reviewed",
+  "pendingMsg": "Thanks! Your review is now being curated. We will keep you posted.",
+  "approvedMsg": "Thanks! You have already left a review that helps visitors to better inform themselves.",
+  "actions": {
+    "save": "Submit",
+    "next": "Next step",
+    "edit": "Edit",
+    "preview": "Preview",
+    "cancel": "Cancel",
+    "orSignIn": "or <link>Sign in</link>"
+  },
+  "dialog": {
+    "title": {
+      "add": "Write a review",
+      "edit": "Edit review",
+      "preview": "Preview your review"
+    },
+    "preview": "Review preview",
+    "note": "Your review will be checked after submission. By posting your review you agree to the <privacylink>privacy policy</privacylink>"
+  }
+}

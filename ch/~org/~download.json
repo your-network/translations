@@ -1,0 +1,44 @@
+{
+  "seo": {
+    "title": "Download content",
+    "description": "",
+    "keywords": ""
+  },
+  "title": "Download content",
+  "links": {
+    "knowledgeBase": "https://info.your.io/hc/en-nl/articles/7639760226205-Upload-Template",
+    "template": "/static/upload-template.xlsx"
+  },
+  "upload": {
+    "title": "Getting started",
+    "text": "Upload your list of products and we will search all the product information",
+    "headline": "Upload your file",
+    "cta": "Click to upload or drag and drop",
+    "info": "CSV or XLSX (MAX. {{ size }})",
+    "requirementsTitle": "Requirements",
+    "requirements": [
+      "Use our <template>template</template>",
+      "Supported file types include: {{ format }}",
+      "Maximum file size {{ maxSize }}"
+    ],
+    "learnMore": "Learn more",
+    "next": "Continue"
+  },
+  "howTo": {
+    "title": "How to upload your file?",
+    "text": "We will explain in a short video how to get the information for your products",
+    "step1": "Download our <template>template</template>",
+    "step2": "Enter your product IDs",
+    "step3": "Upload your file"
+  },
+  "compatibility": {
+    "text": "Our product information is compatible with"
+  },
+  "ok": {
+    "title": "Hold on! Your download is being prepared",
+    "text": "The file will be ready soon. We will of course keep you informed via e-mail."
+  },
+  "fail": {
+    "text": "Something went wrong uploading this file."
+  }
+}

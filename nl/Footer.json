@@ -1,0 +1,98 @@
+{
+  "description": "YOUR is the foundation for scaling e-commerce experiences by enabling seamless streaming of high-quality product content.",
+  "copyright": "© {{year}} www.your.io, Inc. All Rights Reserved.",
+  "blocks": {
+    "about": {
+      "title": "About YOUR",
+      "links": [
+        {
+          "text": "About us",
+          "route": "content.about"
+        },
+        {
+          "text": "Become a creator",
+          "route": "content.creator"
+        }
+      ]
+    },
+    "business": {
+      "title": "dApps",
+      "links": [
+        {
+          "text": "Creator dApps",
+          "route": "content.build-dapps-content-creation"
+        },
+        {
+          "text": "Distribution dApps",
+          "route": "content.build-dapps-content-distribution"
+        },
+        {
+          "text": "Signup as dApp",
+          "route": "content.build-dapps-signup"
+        }
+      ]
+    },
+    "information": {
+      "title": "Learn",
+      "links": [
+        {
+          "text": "Learn hub",
+          "url": "https://info.your.io"
+        },
+        {
+          "text": "Help center",
+          "url": "https://info.your.io/hc/en-nl/requests/new"
+        },
+        {
+          "text": "Token",
+          "route": "content.token"
+        },
+        {
+          "text": "Articles",
+          "url": "https://yourprotocol.medium.com"
+        }
+      ]
+    },
+    "communities": {
+      "title": "Communities",
+      "links": [
+        {
+          "text": "🇺🇸 English",
+          "url": "https://t.me/+fZdZesxD_zQzM2Y0"
+        },
+        {
+          "text": "🇨🇳 Chinese",
+          "url": "https://t.me/yourofficialchina"
+        },
+        {
+          "text": "🇰🇷 Korean",
+          "url": "https://t.me/your_community_KR"
+        },
+        {
+          "text": "🇹🇷 Turkish",
+          "url": "https://t.me/YourTurkiye"
+        },
+        {
+          "text": "🇷🇺 Russian",
+          "url": "https://t.me/yourofficialrussia"
+        }
+      ]
+    },
+    "others": {
+      "links": [
+        {
+          "text": "Cookie statement",
+          "route": "content.cookies"
+        },
+        {
+          "text": "Privacy policy",
+          "route": "content.privacy"
+        },
+        {
+          "text": "Terms of use",
+          "route": "content.terms"
+        }
+      ]
+    }
+  }
+}

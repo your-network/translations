@@ -1,0 +1,26 @@
+{
+  "placeholders": {
+    "email": "Your Email"
+  },
+  "errors": {
+    "email": {
+      "email": "Please enter a valid email address",
+      "required": "Email is required"
+    },
+    "pin": {
+      "generic": "Please insert all the pin digits"
+    }
+  },
+  "submit": "Send",
+  "ok": {
+    "title": "Email confirmed!",
+    "text": "Your account has been verified, you can now sign in. Welcome on board!"
+  },
+  "fail": "Something went wrong while verifying your email.",
+  "okResend": {
+    "title": "Email sent!",
+    "text": "Please check your inbox and click the verification link."
+  },
+  "resend": "Haven't received it? <button>Resend verification email</button>",
+  "confirming": "Confirming email address <email></email>"
+}

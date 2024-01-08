@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "name": "Product Reasons to buy",
+    "shortName": "Reasons to buy"
+  },
+  "ui": {
+    "title": "Belangrijkste kenmerken",
+    "more": "Toon meer",
+    "less": "Show less"
+  },
+  "settings": {
+    "bg": {
+      "label": "Background color"
+    }
+  }
+}

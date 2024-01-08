@@ -1,0 +1,18 @@
+{
+  "labels": {
+    "terms": "I agree to the <link>Terms & Conditions</link>"
+  },
+  "placeholders": {
+    "email": "Enter your email"
+  },
+  "errors": {
+    "email": {
+      "email": "Please enter a valid email address",
+      "required": "Email is required"
+    }
+  },
+  "submit": "Stay up-to-date",
+  "ok": {
+    "title": "Thanks for your interest!"
+  }
+}

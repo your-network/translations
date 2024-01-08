@@ -1,0 +1,29 @@
+{
+  "seo": {
+    "title": "Company profile",
+    "description": ""
+  },
+  "title": "Edit company profile",
+  "titles": {
+    "name": {
+      "card": "Company name",
+      "dialog": "Change company name"
+    },
+    "about": {
+      "card": "About the company",
+      "dialog": "Tell us something about your company"
+    },
+    "industry": {
+      "card": "Industry",
+      "dialog": "What is the industry?"
+    },
+    "socialLinks": {
+      "card": "Socials",
+      "dialog": "Share company socials"
+    },
+    "website": {
+      "card": "Website",
+      "dialog": "Share company website"
+    }
+  }
+}

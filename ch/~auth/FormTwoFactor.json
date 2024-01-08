@@ -1,0 +1,15 @@
+{
+  "labels": {},
+  "placeholders": {},
+  "errors": {
+    "twoFactorCode": {
+      "generic": "Please insert all the code digits"
+    }
+  },
+  "submit": "Sign in",
+  "ok": "Sign in was successfull.",
+  "fail": "Something went wrong while signin you in.",
+  "or": "or",
+  "haventReceived": "Haven't received it?",
+  "resendCode": "Resend a new code"
+}

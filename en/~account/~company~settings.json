@@ -1,0 +1,34 @@
+{
+  "seo": {
+    "title": "Company settings",
+    "description": ""
+  },
+  "title": "Company settings",
+  "personal": {
+    "title": "Company information",
+    "subtitle": "Change company information",
+    "cta": "Change information"
+  },
+  "billing": {
+    "title": "Billing information",
+    "subtitle": "Change your billing information",
+    "cta": "Change billing"
+  },
+  "payment": {
+    "title": "Payment method",
+    "subtitle": "Change payment method settings",
+    "cta": "Change payment method"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "subtitle": "Change company notifications settings",
+    "cta": "Change notifications",
+    "desc": "Decide your preference about how YOUR can notify your company."
+  },
+  "security": {
+    "title": ""
+  },
+  "preferences": {
+    "title": ""
+  }
+}

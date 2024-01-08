@@ -1,0 +1,41 @@
+{
+  "labels": {
+    "answer": "Answer question"
+  },
+  "placeholders": {
+    "answer": "Write your answer..."
+  },
+  "errors": {
+    "answer": {
+      "required": "Please insert an answer",
+      "max": "Answer must be 5000 characters max"
+    }
+  },
+  "media": {
+    "upload": "Upload media",
+    "or": "or",
+    "addFromUrl": "Add from URL",
+    "requirements": "{{ num }} images/videos max, {{ maxSize }} max per image"
+  },
+  "ok": {
+    "title": "Congratulations 🎉",
+    "text": "Our community will check your answer. It can take up to 24-48 hours before going live."
+  },
+  "fail": {
+    "title": "Something went wrong saving your answer"
+  },
+  "actions": {
+    "save": "Save answer",
+    "submit": "Submit",
+    "edit": "Edit",
+    "cancel": "Cancel"
+  },
+  "dialog": {
+    "title": {
+      "answer": "Answer question",
+      "edit": "Edit answer",
+      "preview": "Preview your answer"
+    },
+    "pending": "You have an answer to this question currently being reviewed. You will be able to post a new answer after the current one has been curated. Thanks!"
+  }
+}

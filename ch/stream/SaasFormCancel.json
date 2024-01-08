@@ -1,0 +1,17 @@
+{
+  "labels": {
+    "reason": "Feedback",
+    "text": "What should we improve?",
+    "password": "Password reconfirmation"
+  },
+  "placeholders": {
+    "reason": "Reason for leaving"
+  },
+  "helpers": {
+    "password": "This is required for account owner verification and prevention of unauthorized account changes"
+  },
+  "submit": "Cancel subscription",
+  "cancel": "Keep my plan",
+  "ok": "Thanks for your feedback!",
+  "fail": "Sorry, something went wrong"
+}

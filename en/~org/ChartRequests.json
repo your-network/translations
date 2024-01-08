@@ -1,0 +1,11 @@
+{
+  "title": "Requests",
+  "empty": {
+    "title": "There is no content streamed yet",
+    "text": "Data will show up as soon as its available."
+  },
+  "noResults": {
+    "title": "No data available",
+    "text": "There are no analytics data matching your current filters"
+  }
+}

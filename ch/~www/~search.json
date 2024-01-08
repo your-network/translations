@@ -1,0 +1,14 @@
+{
+  "seo": {
+    "title": "Search content",
+    "description": "",
+    "keywords": ""
+  },
+  "title": {
+    "withQuery": "<query></query> in <range></range>",
+    "allInCategory": "All products in {{ category }}",
+    "allOfBrand": "All products by {{ brand }}",
+    "all": "All products"
+  },
+  "back": "Back"
+}

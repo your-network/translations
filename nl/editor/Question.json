@@ -1,0 +1,58 @@
+{
+  "labels": {
+    "title": "Question",
+    "details": "Details",
+    "notification": "Please send me an e-mail when the question is answered",
+    "email": "E-mail"
+  },
+  "placeholders": {
+    "title": "Example: What kind of quality is this product?",
+    "details": "Tell us why you're asking the question (optional)"
+  },
+  "helpers": {
+    "title": "Summarize your question in one or two sentences"
+  },
+  "errors": {
+    "title": {
+      "required": "Please insert a question",
+      "max": "Question must be 300 characters max"
+    },
+    "details": {
+      "max": "Details must be 1000 characters max"
+    }
+  },
+  "media": {
+    "upload": "Upload media",
+    "or": "or",
+    "addFromUrl": "Add from URL",
+    "requirements": "{{ num }} images/videos max, {{ maxSize }} max per image"
+  },
+  "ok": {
+    "title": "Congratulations 🎉",
+    "text": "Our community will check your question. It can take up to 24-48 hours before going live."
+  },
+  "fail": {
+    "title": "Something went wrong saving your question"
+  },
+  "actions": {
+    "save": "Save question",
+    "submit": "Submit",
+    "edit": "Edit",
+    "preview": "Preview",
+    "cancel": "Cancel",
+    "enterQuestion": "Enter your question",
+    "addPhotos": "Add photos",
+    "orSignIn": "or <link>Sign in</link>"
+  },
+  "dialog": {
+    "title": {
+      "ask": "Ask a question",
+      "edit": "Edit question",
+      "preview": "Preview your question",
+      "add": "Add question",
+      "answer": "Add answer"
+    },
+    "preview": "Question preview",
+    "note": "Please note that your question first have to be curated before showing up."
+  }
+}

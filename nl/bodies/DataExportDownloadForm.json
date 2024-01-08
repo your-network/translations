@@ -1,0 +1,29 @@
+{
+  "labels": {
+    "templateId": "Step 1: output format",
+    "format": "Step 2: output file extension"
+  },
+  "options": {
+    "format": {
+      "json": "JSON",
+      "csv": "CSV",
+      "xlsx": "XSLX"
+    }
+  },
+  "placeholders": {
+    "templateId": "Select an output format"
+  },
+  "helpers": {
+    "templateId": "Note that JSON file extension does not allow custom output formats"
+  },
+  "errors": {
+    "templateId": {
+      "required": "Please select a format"
+    },
+    "format": {
+      "required": "Please select a file extension"
+    }
+  },
+  "submit": "Download",
+  "fail": "Something went wrong downloading your content."
+}

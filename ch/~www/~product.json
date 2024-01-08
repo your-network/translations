@@ -1,0 +1,191 @@
+{
+  "seo": {
+    "title": "{{ product }} details",
+    "description": "",
+    "keywords": ""
+  },
+  "subtitle": {
+    "withCreators": "Learn everything about this product which is made possible by <creators></creators>. Share your experience today and earn!",
+    "withoutCreators": "Learn everything about this product. Share your experience today and earn!",
+    "creators": "",
+    "creators_one": "one creator",
+    "creators_other": "{{ count }} creators"
+  },
+  "subheader": {
+    "create": "Create",
+    "extract": "Download"
+  },
+  "contributors": {
+    "creators": "",
+    "creators_one": "Creator:",
+    "creators_other": "Creators:",
+    "content": "",
+    "content_one": "Content provided by one creator",
+    "content_other": "Content provided by {{ count }} creators",
+    "history": "View history"
+  },
+  "lightbox": {
+    "tabs": {
+      "image": "Product images",
+      "video": "Product videos",
+      "review": "Product reviews"
+    }
+  },
+  "content": {
+    "loggedin": {
+      "title": "Content",
+      "create": "Create",
+      "extract": "Download"
+    },
+    "loggedout": {
+      "title": "Create content. Earn money.",
+      "text": "Join <b>14402+</b> other creators and earn money creating content today.",
+      "cta": "Become a creator"
+    }
+  },
+  "image": {
+    "label": "Images",
+    "cardCta": "Add image",
+    "showAll": "Show all pictures",
+    "empty": {
+      "cta": "Upload image"
+    }
+  },
+  "text": {
+    "label": "About",
+    "cardCta": "Add text",
+    "title": "About the product",
+    "expand": "Read more",
+    "empty": {
+      "paragraphs": [
+        "At the moment there is no description created yet for “{{ product }}”",
+        "If you know the product and want to provide information about it, be the first one to <action>add a description.</action>",
+        "Start creating now and help millions of users to learn more about this product by your contribution."
+      ]
+    }
+  },
+  "reasonsToBuy": {
+    "expand": "Show more"
+  },
+  "prosCons": {
+    "label": "Pros & cons",
+    "cardCta": "Add pros/cons",
+    "title": "Pros and cons",
+    "expand": "Show all pros and cons",
+    "empty": {
+      "text": "There are no pros or cons described yet, <action>add a pro or a con</action>."
+    }
+  },
+  "review": {
+    "label": "Reviews",
+    "cardCta": "Add review",
+    "showAll": "Show all reviews",
+    "title": "Reviews",
+    "cta": "Write a review",
+    "approved": "Thanks for having reviewed this product.",
+    "pending": "Your review is now being curated.",
+    "empty": {
+      "title": "No reviews",
+      "cta": "Add review"
+    }
+  },
+  "popular": {
+    "hash": "most-popular",
+    "title": "Most popular {{ scope }} products",
+    "subtitle": "Our worldwide community has reviewed the following {{ scope }} products"
+  },
+  "specs": {
+    "label": "Specifications",
+    "cardCta": "Add specs",
+    "title": "Product specifications",
+    "expand": "Show all product specifications",
+    "genericGroup": "General product information",
+    "expandSpecText": "See all",
+    "collapseSpecText": "Close detail",
+    "empty": {
+      "sampleAttr": "e.g. Color",
+      "cta": "Add value"
+    }
+  },
+  "qa": {
+    "label": "Questions & answers",
+    "cardCta": "Add Q&A",
+    "title": "Questions & answers",
+    "search": {
+      "placeholder": "Search questions and answers",
+      "btn": "Search"
+    },
+    "show": {
+      "switch": "Show <subject></subject> ({{ count }})",
+      "answered": "only answered questions",
+      "all": "all questions",
+      "recap": "Showing <count></count> of <total></total> questions"
+    },
+    "empty": {
+      "text": "No questions about this product yet.",
+      "cta": "Ask a question"
+    }
+  },
+  "video": {
+    "label": "Videos",
+    "cardCta": "Add video",
+    "title": "Videos",
+    "showAll": "Show all videos",
+    "empty": {
+      "cta": "Upload video"
+    }
+  },
+  "pdf": {
+    "label": "Manuals",
+    "cardCta": "Add PDF",
+    "title": "Manuals",
+    "info": {
+      "title": "Why adding a manual?",
+      "text": "Add a user manual with technical communication to give assistance to people on how to use a product."
+    },
+    "empty": {
+      "cta": "Add a manual"
+    }
+  },
+  "top": {
+    "hash": "top",
+    "title": "Top rated {{ scope }} products",
+    "subtitle": "Our worldwide community has reviewed the following {{ scope }} products"
+  },
+  "news": {
+    "label": "News",
+    "cardCta": "Add article",
+    "title": "News articles",
+    "info": {
+      "title": "Why adding a news article?",
+      "text": "Add a news article about this product to inform people about the latest news"
+    },
+    "empty": {
+      "cta": "Add article"
+    }
+  },
+  "faq": {
+    "label": "Faq",
+    "cardCta": "Add FAQ",
+    "title": "Frequently asked questions about {{ brand }}",
+    "subtitle": "Our worldwide community has reviewed the following {{ brand }} products"
+  },
+  "brand": {
+    "title": "More about {{ brand }} products",
+    "subtitle": "Our worldwide community has reviewed the following {{ brand }} products",
+    "stats": {
+      "items": "Items",
+      "owners": "Owners",
+      "floorPrice": "Floor price",
+      "volumeTraded": "Volume traded"
+    },
+    "empty": {
+      "cta": "Upload logo",
+      "paragraphs": [
+        "At the moment there is no description created yet for the brand “{{ brand }}“",
+        "If you know the brand and want to provide information about it, be the first one to <action>add a description.</action>",
+        "Start creating now and help millions of users to learn more about this product by your contribution."
+      ]
+    }
+  }
+}

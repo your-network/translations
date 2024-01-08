@@ -1,0 +1,92 @@
+{
+  "prefix": {
+    "question": {
+      "short": "Q:",
+      "full": "Question:"
+    },
+    "answer": {
+      "short": "A:",
+      "full": "Answer:"
+    }
+  },
+  "info": {
+    "own_question": "You have asked this <when></when>",
+    "question": "Asked <when></when> by <who></who>",
+    "own_answer": "You have answered this <when></when>",
+    "answer": "Answered <when></when> by <who></who>",
+    "answers": {
+      "0": "No answers yet",
+      "1": "One answer",
+      "other": "{{ count }} answers"
+    },
+    "askedBy": "Asked by <who></who>",
+    "anonymous": "anonymous"
+  },
+  "ownStatus": {
+    "pending": {
+      "questions": {
+        "1": "You have one question waiting to be reviewed",
+        "other": "You have {{ count }} questions waiting to be reviewed"
+      },
+      "question": "Your question is being reviewed",
+      "answer": "Your answer is being reviewed"
+    }
+  },
+  "actions": {
+    "answer": "Answer this question",
+    "answerOwn": "Answer your question",
+    "moreAnswers": {
+      "1": "Show other answer",
+      "other": "Show more answers ({{ count }})"
+    },
+    "edit": {
+      "question": {
+        "open": "Edit question",
+        "editing": "Editing question",
+        "close": "Close question editor"
+      },
+      "answer": {
+        "open": "Edit answer",
+        "editing": "Editing answer",
+        "close": "Close answer editor"
+      }
+    },
+    "remove": {
+      "question": "Delete question",
+      "answer": "Delete answer"
+    }
+  },
+  "search": {
+    "noMatchFilters": "No questions match your search criteria",
+    "noMatchQuery": "Sorry! We couldn't find a match for <query></query>. You can try a more generic search or ask your own question.",
+    "iAnswered": {
+      "label": "Show",
+      "all": "All answers",
+      "iAnswered": "My answers"
+    },
+    "iAsked": {
+      "label": "Show",
+      "all": "All questions",
+      "iAsked": "My questions"
+    },
+    "answered": {
+      "label": "Question status",
+      "all": "All",
+      "answered": "Answered",
+      "unanswered": "Unanswered"
+    }
+  },
+  "guidelines": {
+    "btn": "Guidelines",
+    "title": "Guidelines",
+    "intro": "When writing your answer, please consider the following guidelines.",
+    "list": [
+      "Make sure the answer is relevant to the product and question",
+      "If applicable, include the model number."
+    ],
+    "avoid": {
+      "title": "Please avoid:",
+      "text": "Profanity or spiteful remarks, obscene or distateful content. Personal information like email addresses and phone numbers. Sharing URL’s and information about other companies and websites. Telling customer to shop elsewhere."
+    }
+  }
+}

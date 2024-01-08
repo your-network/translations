@@ -1,0 +1,16 @@
+{
+  "writtenBy": "Written by <author></author>",
+  "anonymous": "anonymous",
+  "expand": "Read more",
+  "collapse": "Read less",
+  "expandProsCons": "See all pros & cons",
+  "report": "Report",
+  "ownStatus": {
+    "pending": "This is being reviewed"
+  },
+  "edit": {
+    "open": "Edit review",
+    "editing": "Editing review",
+    "close": "Close review editor"
+  }
+}

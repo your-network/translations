@@ -1,0 +1,83 @@
+{
+  "seo": {
+    "title": "Earn from what you create",
+    "description": "Building the first product content NFT marketplace that allows people to: Create , Own and Earn. Earn from what you create with YOUR",
+    "keywords": ""
+  },
+  "intro": {
+    "hash": "intro",
+    "headline": "Earn from what you create",
+    "paragraphs": [
+      "Get paid for your digital and physical product content through YOUR - the NFT marketplace where e-commerce and web 3 platforms can buy directly from a global community of creators."
+    ],
+    "buyNow": "Buy now on",
+    "poweredBy": "Powered by"
+  },
+  "backed": {
+    "hash": "partners",
+    "title": "backed by"
+  },
+  "known": {
+    "hash": "press",
+    "headline": "Also known from"
+  },
+  "mission": {
+    "hash": "mission",
+    "title": "Our mission",
+    "headline": "Metaverses and e-commerce",
+    "paragraphs": [
+      "In the world of e-commerce and the web3, relevant product content is crucial. Companies like Amazon, AliExpress, Sandbox and OpenSea need extensive product profiles to elevate customer experience and increase conversion rates.",
+      "For these companies it is becoming too expensive and slow to build their own content creation team. By creating a marketplace for digital and physical product content, YOUR is decentralizing content ownership creating a community of creators incentivized to deliver excellent quality content at scale. With improved online product profiles, platforms will improve their conversion rates. And product content creators can develop dependable revenue streams based on the quality and relevance of what they provide. "
+    ],
+    "cta": {
+      "text": "Dive into Your Network",
+      "url": "https://docs.your.io/your/"
+    }
+  },
+  "ready": {
+    "hash": "ready",
+    "headline": "The new way of creating"
+  },
+  "create": {
+    "hash": "create",
+    "title": "Create to earn",
+    "headline": "Earn from what you create",
+    "paragraphs": [
+      "You can create or curate content about any physical or digital product. Platforms such as Amazon, OpenSea or Sandbox can buy content from the YOUR marketplace. The better your content, the more relevant it is for each product, the more likely they are to buy.",
+      "You earn directly when your content is created as well as build up future rewards. Ownership of your content is guaranteed through blockchain NFT smart contracts. Wherever your content is used, you’ll get paid."
+    ],
+    "cta": {
+      "text": "Start creating",
+      "url": "https://docs.your.io/your/yourcontent/contribute-and-earn"
+    }
+  },
+  "stake": {
+    "hash": "stake",
+    "title": "Stake to earn",
+    "headline": "Get ahead by staking early",
+    "paragraphs": [
+      "The more you stake, the more you can potentially earn. YOUR provides significant high rewards for early blockchain staking. With the APY dependent on the amount staked, early adopters could get significant returns.",
+      "Tokens will be locked for a certain period of time, based on the amount of time your rewards are generated. Start staking today and build a passive income without trading."
+    ],
+    "cta": {
+      "text": "Start staking",
+      "url": "https://docs.your.io/your/tokenomics/token-utility"
+    }
+  },
+  "team": {
+    "hash": "team",
+    "headline": "Our team"
+  },
+  "partners": {
+    "hash": "partners",
+    "headline": "Our partners & strategic partners"
+  },
+  "join": {
+    "hash": "community",
+    "headline": "Join our worldwide community",
+    "cta": {
+      "text": "Join our community",
+      "url": "https://linktr.ee/your_official"
+    }
+  }
+}

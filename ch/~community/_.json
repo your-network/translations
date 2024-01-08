@@ -1,0 +1,28 @@
+{
+  "community": {
+    "label": "Community",
+    "leaderboard": "Leaderboard",
+    "leaderboard~mobile": "Leaderboard",
+    "users": {
+      "index": "All users",
+      "index~mobile": "All users"
+    }
+  },
+  "content": {
+    "creator": "Become a creator",
+    "creator~mobile": "Become a creator"
+  },
+  "www": {
+    "label": "your.io",
+    "search": "Search",
+    "search~mobile": "Search",
+    "categories": {
+      "index": "All categories",
+      "index~mobile": "All categories"
+    },
+    "brands": {
+      "index": "All brands",
+      "index~mobile": "All brands"
+    }
+  }
+}

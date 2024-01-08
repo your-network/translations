@@ -1,0 +1,25 @@
+{
+  "search": "Search",
+  "clear": "clear",
+  "placeholder": "Search categories, products and more",
+  "placeholder~mobile": "Search your product",
+  "results": {
+    "loading": "Searching results...",
+    "empty": "Sorry, we could not find any relevant content for this query"
+  },
+  "tabs": {
+    "all": "All",
+    "Brand": "Brands",
+    "Category": "Categories",
+    "Product": "Products"
+  },
+  "groups": {
+    "all": "Search suggestions",
+    "Category": "Categories",
+    "Category_one": "Category",
+    "Brand": "Brands",
+    "Brand_one": "Brand",
+    "Product": "Popular products",
+    "Product_one": "Popular product"
+  }
+}

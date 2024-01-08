@@ -1,0 +1,120 @@
+{
+  "seo": {
+    "title": "Become a creator",
+    "description": "",
+    "keywords": ""
+  },
+  "cta": "Start creating",
+  "intro": {
+    "title": "Become a creator",
+    "paragraphs": [
+      "Start creating product content today and earn by doing so. Become a contributer to the YOUR community.",
+      "Create, own and earn"
+    ],
+    "cta": "Start creating"
+  },
+  "stats": {
+    "title": "What can you earn as a creator",
+    "blocks": [
+      {
+        "subject": "Creators earning on average",
+        "value": "€ 1530",
+        "suffix": "month"
+      },
+      {
+        "subject": "Average of",
+        "value": "€ 51",
+        "suffix": "day"
+      },
+      {
+        "subject": "By making content for",
+        "value": "256",
+        "suffix": "products"
+      }
+    ]
+  },
+  "meet": {
+    "title": "Meet creator Omar",
+    "paragraphs": [
+      "Since I have started shooting photos for physical and digital product pages at YOUR, my rewardings are increasing every day. This motivates me to keep making such content.",
+      "In addition, the support within the community is amazing!"
+    ],
+    "cta": "Start creating"
+  },
+  "content": {
+    "headline2": "Some examples from YOUR creators"
+  },
+  "meet2": {
+    "title": "Meet creator Sandy",
+    "paragraphs": [
+      "I have always had a passion for questions and answers on webshops. Now I can finally produce my own questions and answers to improve information. I love the fact that I am in full ownership of my product content.",
+      "I get rewarded for every piece of content I create, so I feel like my skills are being recognized!"
+    ],
+    "cta": "Start creating"
+  },
+  "earn": {
+    "title": "Earn from what you create",
+    "alt": "your-earn-from-what-you-create"
+  },
+  "faq": {
+    "title": "Frequently asked questions about creating content",
+    "faqs": [
+      {
+        "question": "How do I become a creator on YOUR Creation dApp?",
+        "answer": "Sign up as a creator to start creating content on the YOUR Creation dApp. To get you through the process of becoming a creator, a step-by-step guide is listed here: https://info.your.io/hc/en-nl/sections/7639676824861-Getting-Started"
+      },
+      {
+        "question": "How does YOUR protocol give control to creators?",
+        "answer": "YOUR protocol registers content ownership in smart contracts. This gives creators complete control over their creations and the ability to easily change or revoke content as needed.  "
+      },
+      {
+        "question": "How are creators for YOUR protocol rewarded?",
+        "answer": "Contributors, which includes creators, get paid in relation to how much value they bring. This value is measured by the quality of the product content they make, and how many people interact with it on e-commerce websites. This payment system motivates people to create high-quality product content, and ensures everyone is rewarded fairly for their work."
+      },
+      {
+        "question": "What kind of product content can I create?",
+        "answer": "Currently 8 content types are live on the first YOUR Creation dApp to create content for. These 8 content types include: title & description, specifications, images, video, review, Q&A, product manual and articles about a product. Eventually, the way product content will be offered depends on the type of Creation dApp you create content on, as they will all differ in features and usage."
+      },
+      {
+        "question": "How do I upload product content on YOUR?",
+        "answer": "After signing up, choose any of the products you want to create content for on YOUR. Learn more on how to create content per specific type on <a href='https://info.your.io/hc/en-nl/sections/7562058943261-How-to-Create-Content'>this page</a>."
+      },
+      {
+        "question": "Why is my product content pending or declined on YOUR Creation dApp?",
+        "answer": [
+          "Before webshops can stream your product content, it first needs to be curated. Your content will be checked against our requirements stated here above. Before the product is approved it will be in the state pending. When content is declined it will show up in your content management dashboard with the specific reason.",
+          "Consult <a href='https://info.your.io/hc/en-nl/articles/7639762949789-Status-of-Product-Content'>this page</a> to learn more about the statuses of product content."
+        ]
+      },
+      {
+        "question": "How is the content score calculated on YOUR Creation dApp and what does it mean?",
+        "answer": "Contributing content to YOUR creation dApp earn you points. Reach higher levels as you earn points for your contributions such as photos and reviews. Use this page to read more information about the amount of points each contribution adds."
+      },
+      {
+        "question": "How do I reach new reputation levels?",
+        "answer": "Adding up points you earn with creating content takes you to new levels of reputation. Reach higher levels of reputations by developing and expanding your skills in creating or curating content. The more content you create or curate, the more points you receive and the sooner you will unlock a new reputation level. Learn more about reputation levels on: https://info.your.io/hc/en-nl/articles/9687002058525-Reputation-Level"
+      },
+      {
+        "question": "What are the requirements the product content needs to adhere to?",
+        "answer": "Ensure that your product content aligns with the corresponding product and does not contain any inappropriate language"
+      },
+      {
+        "question": "Who will use my product content?",
+        "answer": "Companies like Amazon, AliExpress, Sandbox and OpenSea need extensive product profiles to elevate customer experience and increase conversion rates. For these companies it is becoming too expensive and slow to build their own content creation team so they have the possibility to use your created content."
+      },
+      {
+        "question": "In which languages can I create content?",
+        "answer": "As a creator, creating content in the editor can only be done in English directly. YOUR protocol does not support the functionality of Google Translate to translate the content while creating or editing the content in the editor. The same holds for saving this content afterwards. "
+      },
+      {
+        "question": "How to join the YOUR community?",
+        "answer": "The foundation of YOUR is its community. You can <a to='auth.signup-contributor'>join our community</a> and contribute to the protocol to start earning today. Also join our community on social media via this link: https://linktr.ee/your_official"
+      }
+    ]
+  },
+  "join": {
+    "title": "Join other creators around the globe",
+    "cta": "Start creating today",
+    "alt": "your-start-creating-today"
+  }
+}

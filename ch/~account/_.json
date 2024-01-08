@@ -1,0 +1,44 @@
+{
+  "goToDashboard": "Go to dashboard",
+  "seeProfile": "See your profile",
+  "org": {
+    "dashboard": "Dashboard",
+    "dashboard~mobile": "Home"
+  },
+  "dashboard": {
+    "user": "Home",
+    "user~mobile": "Home",
+    "company": "Home",
+    "company~mobile": "Home"
+  },
+  "account": {
+    "user": {
+      "title": "Account",
+      "profile": "Edit profile",
+      "profile~mobile": "Profile",
+      "settings": {
+        "index": "Settings",
+        "index~mobile": "Settings"
+      }
+    },
+    "company": {
+      "title": "Company",
+      "profile": "Company profile",
+      "profile~mobile": "Company",
+      "api": "API authentication",
+      "api~mobile": "API authentication",
+      "settings": {
+        "index": "Company settings",
+        "index~mobile": "Preferences"
+      }
+    }
+  },
+  "help": "Help",
+  "help~mobile": "Help",
+  "logout": "Logout",
+  "logout~mobile": "Logout",
+  "Ad": {
+    "title": "Add unlimited products, today.",
+    "subtitle": "Start from $8"
+  }
+}

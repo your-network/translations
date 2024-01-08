@@ -1,0 +1,32 @@
+{
+  "seo": {
+    "title": "Me - Profile",
+    "description": ""
+  },
+  "title": "Edit profile",
+  "titles": {
+    "userName": {
+      "card": "Username"
+    },
+    "about": {
+      "card": "About Me",
+      "dialog": "Tell us something about yourself"
+    },
+    "languages": {
+      "card": "Languages",
+      "dialog": "What languages do you create content for?"
+    },
+    "skills": {
+      "card": "Skills",
+      "dialog": "What are your skills?"
+    },
+    "socialLinks": {
+      "card": "Socials",
+      "dialog": "Share your socials"
+    },
+    "website": {
+      "card": "Website",
+      "dialog": "Share your website"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "labels": {
+    "identifier": "EAN / SKU",
+    "categoryName": "Category",
+    "title": "Product title",
+    "description": "Description"
+  },
+  "placeholders": {},
+  "errors": {
+    "title": {
+      "required": "Title is required",
+      "noSymbols": "Symbols (#$%^&*) not accepted"
+    },
+    "description": {
+      "max": "Maximum 15k chars allowed"
+    }
+  },
+  "helpers": {
+    "title": "Logical title structure: [Brand name] - [Series] - [Product group]"
+  },
+  "popovers": {
+    "identifier": "The EAN / SKU of this product is not editable",
+    "categoryName": "The category of this product is not editable"
+  }
+}

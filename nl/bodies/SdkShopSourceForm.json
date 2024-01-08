@@ -1,0 +1,35 @@
+{
+  "labels": {
+    "name": "Name",
+    "locationTypeId": "Location",
+    "fileTypeId": "File",
+    "ftpHost": "FTP host",
+    "ftpUser": "FTP user",
+    "ftpPassword": "FTP password",
+    "ftpFile": "FTP file",
+    "sourceUrl": "Source URL",
+    "fileDirectory": "File directory",
+    "xmlNamespace": "Namespace",
+    "xmlProductPath": "Product path",
+    "csvEncoding": "Encoding",
+    "csvSeperator": "Separator",
+    "lang": "Language",
+    "fileGzipped": "Gzipped file",
+    "active": "Active"
+  },
+  "placeholders": {
+    "name": "Shop's data source name",
+    "locationTypeId": "Choose a source location",
+    "fileTypeId": "Choose a source file type",
+    "lang": "Select the source language"
+  },
+  "errors": {},
+  "ok": {
+    "title": "Saved"
+  },
+  "save": "Save details",
+  "password": {
+    "change": "Change password",
+    "undo": "Undo password change"
+  }
+}

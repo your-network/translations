@@ -1,0 +1,15 @@
+{
+  "labels": {
+    "website": "Website URL"
+  },
+  "placeholders": {
+    "website": "https://us.io"
+  },
+  "errors": {
+    "website": {
+      "url": "Please provide a valid URL"
+    }
+  },
+  "ok": "Changes saved",
+  "fail": "Something went wrong while saving your changes."
+}

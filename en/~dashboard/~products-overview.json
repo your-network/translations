@@ -1,0 +1,25 @@
+{
+  "seo": {
+    "title": "Products",
+    "description": "",
+    "keywords": ""
+  },
+  "title": "Products",
+  "empty": {
+    "title": "No search results",
+    "text": "Unfortunately! We found no products for your search."
+  },
+  "headings": {
+    "information": "Information",
+    "category": "Category",
+    "brand": "Brand",
+    "score": "Score",
+    "action": "Action"
+  },
+  "actions": {
+    "createContent": "Create content",
+    "curate": "Curate content",
+    "open": "Open product page"
+  },
+  "create": "Create"
+}

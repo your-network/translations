@@ -1,0 +1,27 @@
+{
+  "labels": {
+    "billingEmail": "Billing email",
+    "vatNumber": "VAT number",
+    "street": "Address",
+    "houseNumber": "",
+    "city": "City and zip code",
+    "zipCode": "",
+    "country": "Country"
+  },
+  "placeholders": {
+    "billingEmail": "finance@company.com",
+    "vatNumber": "I.e. 52512412",
+    "street": "Street",
+    "houseNumber": "House no.",
+    "city": "City",
+    "zipCode": "Zip code",
+    "country": "Country"
+  },
+  "errors": {
+    "billingEmail": {
+      "required": "An email is required"
+    }
+  },
+  "ok": "Changes saved",
+  "fail": "Something went wrong while saving your changes."
+}

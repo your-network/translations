@@ -1,0 +1,15 @@
+{
+  "labels": {
+    "darkMode": "Darkmode"
+  },
+  "placeholders": {},
+  "errors": {},
+  "options": {
+    "darkMode": {
+      "true": "On",
+      "false": "Off"
+    }
+  },
+  "ok": "Changes saved",
+  "fail": "Something went wrong while saving your changes."
+}

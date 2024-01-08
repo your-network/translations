@@ -1,0 +1,11 @@
+{
+  "query": {
+    "placeholder": "Search product information",
+    "submit": "Search"
+  },
+  "mobileFilters": {
+    "title": "Filter",
+    "clear": "Clear all",
+    "apply": "Filter"
+  }
+}

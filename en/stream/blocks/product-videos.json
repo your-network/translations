@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "name": "Product Videos",
+    "shortName": "Videos"
+  },
+  "ui": {
+    "title": "Videos",
+    "more": "Show all videos",
+    "less": "Show less"
+  },
+  "settings": {}
+}

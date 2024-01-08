@@ -1,0 +1,90 @@
+{
+  "seo": {
+    "title": "Download content",
+    "description": "",
+    "keywords": ""
+  },
+  "intro": {
+    "title": "High Quality Content",
+    "paragraphs": [
+      "Improve the user experience and conversion rate of your website by using the best product content made by YOUR creators. Pick your content from our content management dashboard, create your access key and start downloading YOUR content.",
+      "Start improving your product content today!"
+    ],
+    "cta": "Download content"
+  },
+  "stats": {
+    "title": "Increase user experience & conversion rates with YOUR",
+    "blocks": [
+      {
+        "subject": "Average downloaded products",
+        "value": "50k",
+        "suffix": "products"
+      },
+      {
+        "subject": "Hours saved creating content",
+        "value": "6,250",
+        "suffix": "hours"
+      },
+      {
+        "subject": "Average amount saved",
+        "value": "€ 93,750",
+        "suffix": "saved"
+      }
+    ]
+  },
+  "meet": {
+    "title": "Meet marketer Ronnie",
+    "paragraphs": "Thanks to the high quality reviews I can download at YOUR, several of our product pages have been upgraded significantly. The buying process at our website has become more reliable for consumers, which makes our sales numbers higher every week!",
+    "cta": "Download content",
+    "label": "Ronnie",
+    "sublabel": "Marketing director"
+  },
+  "content": {},
+  "meet2": {
+    "title": "Meet marketer Fernando",
+    "paragraphs": "NFT's are digital products that need a lot of explaining before buyers are convinced. At YOUR, I can download the best product descriptions and specifications to describe our NFT’s. Due to the fast growth of our NFT platform, we don't have the time and resources to write this content in house.",
+    "cta": "Download content",
+    "label": "Fernando",
+    "sublabel": "Marketing director"
+  },
+  "how": {
+    "title": "How to start?",
+    "subtitle": "3 simple steps",
+    "blocks": [
+      {
+        "title": "Make an account in 2 minutes",
+        "text": "By clicking on the button below you can easily register for free"
+      },
+      {
+        "title": "Search and select your products",
+        "text": "Via our content management dashboard you can easily find and select the products you need."
+      },
+      {
+        "title": "Download content and improve your shop",
+        "text": "Choose file/download type and download your selected product content. file/download types: api,csv,excel,txt"
+      }
+    ],
+    "cta": "Start now"
+  },
+  "faq": {
+    "title": "Frequently asked questions about downloading content",
+    "faqs": [
+      {
+        "question": "What kind of product content can I download?",
+        "answer": "You can download any kind of product content around digital and physical products. Examples are videos, photos, reviews and specifications of a product."
+      },
+      {
+        "question": "What kind of output formats are available?",
+        "answer": "YOUR supports the following types: <code>XML, CSV, JSON, HTML</code>. Extraction via files or API. See the manuals for detailed information about YOUR schema, file types, content types etc."
+      },
+      {
+        "question": "When can I start downloading content?",
+        "answer": "Right now the Alpha version of our platform is live. We are working hard behind the scenes to launch our Beta version. When you register we can keep you informed on this launch and from that moment on you can start downloading quality content."
+      },
+      {
+        "question": "In which Verticals of Categories is YOUR active?",
+        "answer": "YOUR is currently active in the Physical Hardware & Software and Digital NFT products."
+      }
+    ]
+  }
+}

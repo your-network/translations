@@ -1,0 +1,64 @@
+{
+  "seo": {
+    "title": "@{{ name }} - Community"
+  },
+  "mobileBack": "All users",
+  "tabs": {
+    "overview": "Overview",
+    "activity": "Activity"
+  },
+  "changeType": {
+    "plural": {
+      "all": "Summary",
+      "text": "Text",
+      "review": "Reviews",
+      "image": "Images",
+      "video": "Videos",
+      "pdf": "Manuals",
+      "news": "Articles",
+      "qa": "Q&As"
+    },
+    "singular": {
+      "all": "Summary",
+      "text": "Text",
+      "review": "Review",
+      "image": "Image",
+      "video": "Video",
+      "pdf": "Manual",
+      "news": "Article",
+      "qa": "Q&A"
+    }
+  },
+  "overview": {
+    "reputation": {
+      "title": "Reputation level",
+      "text": "You earn points by enriching products with information. The contributions bring you closer to the next level, which unlocks new perks and income."
+    },
+    "skills": {
+      "title": "Most used skills"
+    },
+    "contributions": {
+      "title": "Number of contributions",
+      "cta": "See activity"
+    }
+  },
+  "activity": {
+    "summary": {
+      "title": {
+        "1": "One {{ type }} contribution in the last year",
+        "other": "<count></count> {{ type }} contributions in the last year"
+      },
+      "chart": {
+        "less": "Less",
+        "more": "More"
+      }
+    },
+    "list": {
+      "titleByType": "{{ type }} contributions",
+      "titleAll": "All contributions",
+      "subtitle": "The latest contributions",
+      "entry": "<action></action> for <entity></entity>",
+      "empty": "No contributions found."
+    }
+  }
+}

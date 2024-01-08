@@ -1,0 +1,7 @@
+{
+  "cta": "Upload your videos",
+  "requirements": [
+    "Minimum {{ minSize }} and maximum {{ maxSize }}",
+    "Allowed video formats: {{ format }}"
+  ]
+}

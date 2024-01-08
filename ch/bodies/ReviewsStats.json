@@ -1,0 +1,14 @@
+{
+  "error": "Something went wrong retrieving reviews",
+  "count": "{{ count }} reviews",
+  "count_one": "{{ count }} review",
+  "count_other": "{{ count }} reviews",
+  "scores": "Scores",
+  "stars": "{{ count }} stars",
+  "stars_one": "{{ count }} star",
+  "stars_other": "{{ count }} stars",
+  "empty": {
+    "title": "No reviews",
+    "cta": "Add review"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "required": "Required",
+  "optional": "Optional",
+  "genericGroup": "General product information",
+  "addAttributeInListHelper": "Press enter to add a value",
+  "readOnly": "This product specification is not editable"
+}

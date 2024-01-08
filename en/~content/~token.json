@@ -1,0 +1,237 @@
+{
+  "seo": {
+    "title": "The future for Web3 e-commerce",
+    "description": "YOUR is the content layer for scaling e-commerce experiences by enabling seamless streaming of high-quality product content.",
+    "keywords": ""
+  },
+  "cta": "Launch product",
+  "countdown": {
+    "d": {
+      "one": "1 day",
+      "other": "days"
+    },
+    "h": {
+      "one": "1 hour",
+      "other": "hours"
+    },
+    "m": {
+      "one": "1 minute",
+      "other": "minutes"
+    },
+    "s": {
+      "one": "1 second",
+      "other": "seconds"
+    }
+  },
+  "intro": {
+    "title": "The future for Web3 e-commerce",
+    "text": "YOUR is the content layer for scaling e-commerce experiences by enabling seamless streaming of high-quality product content.",
+    "asSeen": "As seen in",
+    "poweredBy": "Powered by",
+    "countdown": "Countdown",
+    "idoLaunch": "IDO launch"
+  },
+  "partners": {
+    "title": "Backed by"
+  },
+  "vision": {
+    "header": "Vision",
+    "headline": "Vision",
+    "title": "Disrupt ecommerce with our content layer",
+    "text": ["Introducing YOUR, a revolutionary Web3 protocol for the booming $8.8 trillion e-commerce market by 2026. Brands such as Apple and Samsung struggle with content control and accuracy online. YOUR empowers them with full control, ownership, transparency.", "By giving E-commerce shops access to streamed user generated and personalised product content, we not only enhance the shopping experience but also significantly increases conversion rates."]
+  },
+  "product": {
+    "header": "Product",
+    "headline": "Product",
+    "title": "Streaming and creation dApps",
+    "text": [
+      "Celebrate our 1-year milestone with three revolutionary protocol apps, a robust Software Development Kit (SDK), and a Shopify app designed to empower every shop globally in streaming product content effortlessly. Furthermore, our content editor app is fully operational, actively utilized by over <b>5000+</b> creators to curate and create user-generated content.",
+      "As proud members of the Google Startup Program, we've secured a grant for Google Cloud. Join us for a year of innovation and success!"
+    ]
+  },
+  "products": {
+    "shopify": {
+      "title": "Shopify application",
+      "text": "Partnership with Shopify to seamlessly stream product content for webshops, effortlessly elevating the user experience."
+    },
+    "sdk": {
+      "title": "Code integration",
+      "text": "Implement our SDK for dynamic product page content, ensuring compatibility across leading global platforms such as Salesforce."
+    },
+    "create": {
+      "title": "Creation application",
+      "text": "Our content editor app has 2000+ active creators curating and creating user-generated content."
+    }
+  },
+  "growth": {
+    "title": "The most extensive content solution of the world",
+    "headline": "Content growth",
+    "text": "New product content. Every day"
+  },
+  "tokenomics": {
+    "header": "Token",
+    "title": "Tokenomics",
+    "share": {
+      "preSeed": {
+        "title": "Preseed",
+        "text": "5% unlocking at listing, 5% each month thereafter"
+      },
+      "seed": {
+        "title": "Seed",
+        "text": "5% unlocking at listing, 7.5% each month thereafter"
+      },
+      "publicSale": {
+        "title": "Public sale",
+        "text": "40% unlocking at listing, 20% each month thereafter"
+      },
+      "team": {
+        "title": "Team",
+        "text": "100% locked for 6 months, 10% unlocked each month thereafter"
+      },
+      "advisors": {
+        "title": "Advisors",
+        "text": "100% locked for 6 months, 10% unlocked each month thereafter"
+      },
+      "network": {
+        "title": "Network",
+        "text": "Starts with 100% locked and unlocking for each reward given to the community"
+      },
+      "reserves": {
+        "title": "Reserves",
+        "text": "100% locked for 1 year"
+      },
+      "liquidity": {
+        "title": "Liquidity",
+        "text": "100% unlocked at listing"
+      },
+      "marketing": {
+        "title": "Marketing",
+        "text": "50% unlocked, 10% unlocked each month"
+      }
+    },
+    "utility": {
+      "headline": "Token utility",
+      "title": "Sharing the company's success with holders",
+      "text": "$YOUR utilizes a <b>smart reward</b>, <b>buy back</b> and <b>staking mechanism</b> to support the value of the $YOUR token and share the company's success with holders.",
+      "list": {
+        "earn": {
+          "title": "Earn $YOUR tokens",
+          "text": "Content Creators, Curators, Nodes, and Developers that contribute to grow and maintain the protocol, get rewarded in $YOUR tokens."
+        },
+        "pools": {
+          "title": "Continuous buyback cycle",
+          "text": "Content Distribution dApps buy $YOUR Tokens to stream content plus Content Creation dApps buy $YOUR Tokens to store & control content."
+        },
+        "staking": {
+          "title": "Holding benefits",
+          "text": "Protocol users must stake $YOUR tokens for content features access and will also earn APY for long-term staking."
+        }
+      }
+    }
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "list": [
+      {
+        "title": "2023",
+        "actions": [
+          "Private sale",
+          "Centralised infrastructure",
+          "Applications launched",
+          "Shopify partnership"
+        ]
+      },
+      {
+        "title": "Q1 - 2024",
+        "actions": ["IDO sale", "Token listing", "Protocol testnet", "Staking platform", "Shop partnerships"]
+      },
+      {
+        "title": "Q2 - 2024",
+        "actions": ["AI content layers", "Storage nodes network", "Shop partnerships"]
+      },
+      {
+        "title": "Q3/Q4 - 2024",
+        "actions": ["Growth protocol dApps", "Personalisation engine", "Protocol mainnet"]
+      }
+    ]
+  },
+  "team": {
+    "header": "Team",
+    "title": "Core team"
+  },
+  "advisors": {
+    "title": "Advisors"
+  },
+  "faq": {
+    "header": "FAQ",
+    "title": "FAQ"
+  },
+  "join": {
+    "title": "Join us on this journey",
+    "text": "Get on the waitlist for early-access to the first pre-sale"
+  },
+  "footer": {
+    "blocks": {
+      "tokens": {
+        "title": "Buy tokens",
+        "links": [
+          {
+            "text": "Coming soon",
+            "url": "#"
+          }
+        ]
+      },
+      "earn": {
+        "title": "Earn tokens",
+        "links": [
+          {
+            "text": "Create to earn",
+            "route": "content.creator"
+          },
+          {
+            "text": "Stake to earn",
+            "url": "#"
+          }
+        ]
+      },
+      "company": {
+        "title": "Company",
+        "links": [
+          {
+            "text": "About us",
+            "route": "content.about"
+          },
+          {
+            "text": "Learn hub",
+            "url": "https://info.your.io"
+          },
+          {
+            "text": "Blog",
+            "url": "https://yourprotocol.medium.com"
+          }
+        ]
+      },
+      "communities": {
+        "title": "Communities",
+        "links": [
+          {
+            "text": "🇺🇸 English",
+            "url": "https://t.me/your_community"
+          },
+          {
+            "text": "🇰🇷 Korean",
+            "url": "https://t.me/your_community"
+          },
+          {
+            "text": "🇹🇷 Turkish",
+            "url": "https://t.me/your_community"
+          },
+          {
+            "text": "🇷🇺 Russian",
+            "url": "https://t.me/your_community"
+          }
+        ]
+      }
+    }
+  }  
+}

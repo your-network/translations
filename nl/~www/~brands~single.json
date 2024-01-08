@@ -1,0 +1,21 @@
+{
+  "seo": {
+    "title": "{{ brand }} products",
+    "description": "",
+    "keywords": ""
+  },
+  "mobileBack": "All brands",
+  "more": "Read more",
+  "productsNr": "",
+  "productsNr_one": "1 product",
+  "productsNr_other": "<number></number> products",
+  "categoriesNr": "",
+  "categoriesNr_one": "1 category",
+  "categoriesNr_other": "<number></number> categories",
+  "products": {
+    "hash": "products",
+    "title": "{{ brand }} products",
+    "subtitle": "Our worldwide community made content for the following {{ brand }} products",
+    "cta": "See all {{ brand }} products"
+  }
+}

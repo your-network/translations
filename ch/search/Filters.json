@@ -1,0 +1,28 @@
+{
+  "show": "Show filters",
+  "show~mobile": "Filters",
+  "hide": "Hide filters",
+  "sort": "Sort",
+  "sortOptions": {
+    "Popularity": "Popularity (rare to common)",
+    "Popularity_desc": "Popularity (common to rare)",
+    "Rating": "Rating (low to high)",
+    "Rating_desc": "Rating (high to low)",
+    "Ranking": "Moonrank (common to rare)",
+    "Ranking_desc": "Moonrank (rare to common)",
+    "RecentlyAdded": "Recently listed (new to old)",
+    "RecentlyAdded_desc": "Recently listed (old to new)"
+  },
+  "facetBrand": "Brand: {{ name }}",
+  "facetCategory": "Category: {{ name }}",
+  "resetFilters": "Reset filters",
+  "removeFilter": "Remove filter",
+  "filters": {
+    "empty": "No filters available",
+    "loading": "Loading filters...",
+    "summaryEmpty": "Use the filters on the left to find your products"
+  },
+  "filter": "Filter",
+  "searchClear": "clear",
+  "searchPlaceholder": "Search by name"
+}

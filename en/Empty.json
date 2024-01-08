@@ -1,0 +1,32 @@
+{
+  "actionsTitle": "What can you do?",
+  "actionInfo": "Are you looking for information about our service? Go ask our <link>community team</link>.",
+  "category": {
+    "title": "No products here",
+    "text": "Unfortunately! We don't have products for this category {{ value }} yet.",
+    "actions": [
+      "Please let us know we don't have products yet. We can add those products.",
+      "Try another category"
+    ]
+  },
+  "brand": {
+    "title": "No products here",
+    "text": "Unfortunately! We don't have products for this brand {{ value }} yet.",
+    "actions": [
+      "Please let us know we don't have products yet. We can add those products.",
+      "Try another brand"
+    ]
+  },
+  "search": {
+    "title": "No search results",
+    "text": "Unfortunately! We found no matches for your search {{ value }}.",
+    "actions": [
+      "Please check the spelling of your search",
+      "Try another search"
+    ]
+  },
+  "bare": {
+    "title": "No results",
+    "text": "Unfortunately! We found no results."
+  }
+}

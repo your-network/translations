@@ -1,0 +1,35 @@
+{
+  "seo": {
+    "title": "Distribution dApp YOUR",
+    "description": "Build your own content distribution dApp on the YOUR protocol. The gateway to web2/web3 product content for distribution to the ecommerce world. Search, Request and Distribute your product content in an efficient, fast, cost effective and decentralized manner.",
+    "keywords": ""
+  },
+  "hero": {
+    "title": "Content distribution dApps",
+    "paragraphs": [
+      "Build your own content distribution dApp on the YOUR protocol.",
+      "The gateway to web2/web3 product content for distribution to the e-commerce world. Search, request and distribute your product content in an efficient, fast, cost effective and decentralised manner."
+    ],
+    "cta": "Join as dApp"
+  },
+  "intro": {
+    "title": "Streaming content to Ecommerce & Metaverse Platforms"
+  },
+  "block1": {
+    "title": "Build the future of content distribution",
+    "paragraphs": [
+      "The open source protocol of YOUR enables dApps to build their own applications on an efficient, decentralised, innovative and secure network.",
+      "YOUR takes product content distribution to the new era where everyone can search, request, distribute and earn."
+    ],
+    "alt": "content-distribution-dApps"
+  },
+  "block2": {
+    "title": "Stake and build",
+    "paragraphs": [
+      "In order to use the YOUR protocol distribution dApps must first stake a certain amount of tokens.",
+      "Staked dApps can then configure their application to the protocol endpoints and services. Based on their needs concerning cost, relevance, quantify, quality and rewards."
+    ],
+    "alt": "staking-your-distribution-dapps",
+    "cta": "Join as dApp"
+  }
+}

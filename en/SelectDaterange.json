@@ -1,0 +1,10 @@
+{
+  "labels": {
+    "thisYear": "This year",
+    "thisMonth": "This month",
+    "lastMonth": "Last month",
+    "thisWeek": "This week",
+    "lastWeek": "Last week",
+    "today": "Today"
+  }
+}

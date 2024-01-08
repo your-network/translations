@@ -1,0 +1,24 @@
+{
+  "refresh": {
+    "alert": "Refresh your content twice without extra costs",
+    "readMore": "Read more",
+    "more": "Our creators and partners create new product content every day. By clicking on the refresh button you can refresh the content you have previously requested. You can renew the content for free the first two times. After pressing the refresh button the download file will be processed again.",
+    "btn": "",
+    "btn_one": "Refresh data",
+    "btn_other": "Refresh data ({{ count }})"
+  },
+  "download": {
+    "title": "Download product content",
+    "text": "You can easily download product information. We have templates for the well-known CMS systems such as Shopify and Wordpress to make the upload even faster.",
+    "btn": "Download"
+  },
+  "downloaded": {
+    "link": "https://info.your.io/hc/en-nl/categories/7560113934749-Downloading-content",
+    "title": "All done!",
+    "text": [
+      "Congratulations on downloading product content to enhance your product experience.",
+      "<link>Read our tips</link> to import this content into your webshop such as Shopify and Magento."
+    ],
+    "btn": "Done"
+  }
+}

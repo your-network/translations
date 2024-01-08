@@ -1,0 +1,14 @@
+{
+  "conversion": {
+    "title": "Conversion rate increase",
+    "value": "25%"
+  },
+  "bounceRate": {
+    "title": "Decrease in bounce rate",
+    "value": "10%"
+  },
+  "timeOnPage": {
+    "title": "Time on page increase",
+    "value": "5 min."
+  }
+}

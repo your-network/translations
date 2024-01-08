@@ -1,0 +1,37 @@
+{
+  "seo": {
+    "title": "{{ brand }} products",
+    "description": "",
+    "keywords": ""
+  },
+  "browseAll": "Browse all brands",
+  "top": {
+    "title": "Top rated {{ brand }} products",
+    "subtitle": "Our worldwide community has reviewed the following {{ brand }} products"
+  },
+  "videos": {
+    "title": "{{ brand }} videos"
+  },
+  "popular": {
+    "title": "Most popular {{ brand }} products",
+    "subtitle": "Our worldwide community has reviewed the following {{ brand }} products"
+  },
+  "about": {
+    "title": "More about {{ brand }} brand",
+    "stats": {
+      "items": "Items",
+      "owners": "Owners",
+      "floorPrice": "Floor price",
+      "volumeTraded": "Volume traded"
+    },
+    "showMore": "Show more"
+  },
+  "news": {
+    "title": "News about {{ brand }}",
+    "subtitle": "Our worldwide community has reviewed the following {{ brand }} products"
+  },
+  "faq": {
+    "title": "Frequently asked questions about {{ brand }}",
+    "subtitle": "Our worldwide community has reviewed the following {{ brand }} products"
+  }
+}

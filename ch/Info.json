@@ -1,0 +1,26 @@
+{
+  "score": {
+    "title": "Content score",
+    "text": [
+      "The content score is a score from 0 to 100, which indicates how well the product is enriched with content. The lower the score, the more content you can add and earn."
+    ]
+  },
+  "dataExport": {
+    "title": "Content score",
+    "text": [
+      "YOUR provides high-quality product content. Four values are used to characterize the content quality. Basic, good, very good and excellent. The better the score, the more content you can import."
+    ]
+  },
+  "matchRate": {
+    "title": "Match rate",
+    "text": [
+      "The match rate is based on the number of products that were found in our database. Having a percentage lower than 100% means that certain products were not found."
+    ]
+  },
+  "points": {
+    "title": "Points",
+    "text": [
+      "Earn points by contributing content to YOUR. Reach higher levels as you earn points for your contributions such as product photo's, reviews and videos."
+    ]
+  }
+}

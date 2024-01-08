@@ -1,0 +1,92 @@
+{
+  "info": {
+    "secure": "Guaranteed <b>safe & secure</b> checkout",
+    "powered": "powered by <brand></brand>"
+  },
+  "billing": {
+    "title": "Billing information",
+    "privacy": "Your privacy is super important to us - we will only use your information as described in our <terms>Terms of Use</terms> and <privacy>Privacy Policy</privacy>",
+    "cta": "Save and proceed"
+  },
+  "summary": {
+    "title": "Payment details",
+    "subject": "{{ plan }} subscription (per {{ days }} days)",
+    "tax": "Tax ({{ percentage }})",
+    "total": "Total",
+    "cta": "Confirm subscription",
+    "processing": "Processing..."
+  },
+  "payment": {
+    "label": "Payment method",
+    "loading": "Loading payment details...",
+    "processing": "Updating payment details...",
+    "add": "Add payment method",
+    "edit": "Edit payment method",
+    "methods": {
+      "card": "Card"
+    },
+    "ok": {
+      "title": "Payment set-up!",
+      "text": "You have succesfully set-up your payment method.",
+      "textDialog": "Get started by clicking the button below to set-up your snippet.",
+      "cta": "Start streaming"
+    },
+    "fail": {
+      "title": "Payment error",
+      "text": [
+        "We aren't able to process your payment details. Please try again or contact us as soon as possible.",
+        "No problem. We're going to fix this."
+      ],
+      "cta": "Try again",
+      "ctaContact": "Contact us"
+    }
+  },
+  "downgrade": {
+    "prompt": {
+      "title": "Cancel subscription",
+      "text": [
+        "<b>Is something wrong?</b>",
+        "Before you change your subscription talk to us and give us the chance to help you in your needs."
+      ],
+      "ctaChat": "Chat support",
+      "ctaContinue": "Continue"
+    },
+    "feedback": {
+      "title": "Cancel subscription"
+    },
+    "confirm": {
+      "title": "We're sorry to see you go!",
+      "text": "If you would like proceed with canceling your subscription, please select “Cancel subscription” below.",
+      "alert": "Are you sure? You will not have the ability to stream content to your product pages. Your account will remain active with our free plan.",
+      "ok": "Cancel subscription",
+      "cancel": "I changed my mind"
+    }
+  },
+  "sdk": {
+    "purchase": {
+      "title": "Purchase <plan></plan> subscription for <org></org>"
+    },
+    "summary": {
+      "title": "<plan></plan> subscription"
+    },
+    "result": {
+      "ok": {
+        "title": "You are in!",
+        "text": [
+          "Congratulations! You have succesfully set-up your subscription. You'll be able to change your product pages in awesome experiences.",
+          "Get started by clicking the button below to set-up your snippet."
+        ],
+        "cta": "Start streaming"
+      },
+      "fail": {
+        "title": "Payment error",
+        "text": [
+          "We aren't able to process your payment. Please try again or contact us as soon as possible.",
+          "No problem. We're going to fix this."
+        ],
+        "cta": "Try again",
+        "ctaContact": "Contact us"
+      }
+    }
+  }
+}

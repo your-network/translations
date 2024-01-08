@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "name": "Product Manuals",
+    "shortName": "Manuals"
+  },
+  "ui": {
+    "title": "Manuals"
+  },
+  "settings": {}
+}

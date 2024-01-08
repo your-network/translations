@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "title": "Edit product",
+    "description": "",
+    "keywords": ""
+  },
+  "loading": {
+    "actionBar": "Loading...",
+    "text": "Loading the content editor. Gathering all product details."
+  },
+  "empty": {
+    "title": "Whoops",
+    "text": "We could not find this product in our database.",
+    "cta": "Back to products"
+  },
+  "welcome": {
+    "title": "Hi {{ name }}",
+    "text": "Get off to a flying start. Ensure that your product content stands out and become a successful creator!",
+    "cta": "Read our tips and tricks",
+    "ctaHref": "https://info.your.io/hc/en-nl/sections/7562058943261-Tips-Tricks"
+  },
+  "nav": {
+    "products": "Products",
+    "locale": "Edit this product in",
+    "open": "Open product page",
+    "info": "Have a question?"
+  },
+  "summary": {
+    "open": "Summary:",
+    "close": "Hide summary",
+    "view": {
+      "changes": {
+        "title": "Summary",
+        "count": "{{ count }} changes",
+        "count_one": "{{ count }} change",
+        "count_other": "{{ count }} changes"
+      },
+      "errors": {
+        "title": "Errors summary",
+        "count": "{{ count }} errors",
+        "count_one": "{{ count }} error",
+        "count_other": "{{ count }} errors"
+      }
+    },
+    "error": {
+      "title": "Some fields are not correct",
+      "cta": "Go to section"
+    },
+    "image": {
+      "name": "Images",
+      "added": "Added {{ count }} images",
+      "added_one": "Added {{ count }} image",
+      "added_other": "Added {{ count }} images"
+    },
+    "pdf": {
+      "name": "Manuals",
+      "added": "Added {{ count }} pdf"
+    },
+    "video": {
+      "name": "Videos",
+      "added": "Added {{ count }} videos",
+      "added_one": "Added {{ count }} video",
+      "added_other": "Added {{ count }} videos"
+    },
+    "review": {
+      "name": "Review",
+      "addedWithoutTitle": "Added 1 incomplete review"
+    },
+    "news": {
+      "name": "News",
+      "added": "{{ count }} news articles"
+    },
+    "qa": {
+      "name": "Q & A",
+      "answer": {
+        "name": "Answers",
+        "inList": "A{{ number }}: {{ content }}"
+      },
+      "question": {
+        "name": "Questions",
+        "inList": "Q{{ number }}: {{ content }}"
+      }
+    }
+  },
+  "footer": {
+    "showChanges": "Show changes",
+    "showChanges~mobile": "Changes",
+    "hideChanges": "Hide changes",
+    "publish": "Publish"
+  },
+  "sections": {
+    "text": {
+      "title": "Title & description",
+      "title~mobile": "Title & description",
+      "tab": "Add text"
+    },
+    "specs": {
+      "title": "Specifications",
+      "title~mobile": "Specifications",
+      "tab": "Add info"
+    },
+    "image": {
+      "title": "Images",
+      "title~mobile": "Images",
+      "tab": "Add image"
+    },
+    "video": {
+      "title": "Videos",
+      "title~mobile": "Videos",
+      "tab": "Add video"
+    },
+    "review": {
+      "title": "Write a review",
+      "title~mobile": "Write a review",
+      "tab": "Add review"
+    },
+    "qa": {
+      "title": "Questions and Answers",
+      "title~mobile": "Questions and Answers",
+      "tab": "Add FAQ",
+      "ctaText": "Ask or answer questions regarding this product.",
+      "ctaAnswer": "Answer question",
+      "ctaAsk": "Ask new question"
+    },
+    "pdf": {
+      "title": "Manuals",
+      "title~mobile": "Manuals",
+      "tab": "Add PDF"
+    },
+    "news": {
+      "title": "News articles",
+      "title~mobile": "Articles",
+      "tab": "Add article"
+    }
+  },
+  "fail": {
+    "title": "Something went wrong saving this product.",
+    "text": ""
+  },
+  "ok": {
+    "title": "You have created content",
+    "text": "Continue editing content or check the",
+    "cta": "approval status"
+  }
+}

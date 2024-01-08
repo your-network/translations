@@ -1,0 +1,8 @@
+{
+  "title": "Unverified email",
+  "text": "Please click the verification link in your inbox. Haven't received it? <button>Click here to resend it to {{ email }}</button>.",
+  "okResend": {
+    "title": "Email sent!",
+    "text": "Please check your inbox and click the verification link."
+  }
+}

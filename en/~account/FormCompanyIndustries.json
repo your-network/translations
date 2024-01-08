@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "industries": "Select industry"
+  },
+  "placeholders": {
+    "industries": "No industries selected"
+  },
+  "errors": {},
+  "ok": "Changes saved",
+  "fail": "Something went wrong while saving your changes."
+}

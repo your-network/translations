@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "name": "Product Q&As",
+    "shortName": "Question & answers"
+  },
+  "ui": {
+    "title": "Questions & Answers",
+    "questionInfo": "Asked by {{ author }} {{ when }}",
+    "questionWhen": "Asked {{ when }}",
+    "answerInfo": "Answered by {{ author }} {{ when }}",
+    "answerWhen": "Answered {{ when }}",
+    "answerPre": "Answer:",
+    "noAnswers": "Sorry, there are no answers for this question yet.",
+    "loadMore": "Load more"
+  },
+  "settings": {
+    "questionsPerPage": {
+      "label": "Questions per page",
+      "info": "Determines how many questions are loaded at once."
+    },
+    "answersPerPage": {
+      "label": "Answers per page",
+      "info": "Determines how many answers for each question are loaded at once."
+    },
+    "showAuthors": {
+      "label": "Show authors",
+      "info": "Show the author name for each question and answer."
+    }
+  }
+}

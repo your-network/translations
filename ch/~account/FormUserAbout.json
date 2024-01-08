@@ -1,0 +1,10 @@
+{
+  "labels": {},
+  "placeholders": {
+    "about": "Share a brief description about yourself"
+  },
+  "errors": {},
+  "charsLeft": "{{ count }} characters left",
+  "ok": "Changes saved",
+  "fail": "Something went wrong while saving your changes."
+}

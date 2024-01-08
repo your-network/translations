@@ -1,0 +1,11 @@
+{
+  "labels": {
+    "skills": "Select skill"
+  },
+  "placeholders": {
+    "skills": "No skills selected"
+  },
+  "errors": {},
+  "ok": "Changes saved",
+  "fail": "Something went wrong while saving your changes."
+}

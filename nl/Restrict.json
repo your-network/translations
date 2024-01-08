@@ -1,0 +1,24 @@
+{
+  "extractor": {
+    "title": "Restricted",
+    "subtitle": "Your account is not linked to any company.",
+    "cta": "Back"
+  },
+  "contributor": {
+    "title": "Restricted",
+    "subtitle": "This page is reserved to Creator's accounts.",
+    "cta": "Back"
+  },
+  "shop": {
+    "title": "Restricted",
+    "subtitle": "Your account is not linked to any shop.",
+    "cta": "Back"
+  },
+  "superAdmin": {
+    "title": "Restricted",
+    "subtitle": "This content is reserved to administrator users.",
+    "cta": "Back"
+  },
+  "back": "Back",
+  "backHome": "Back home"
+}

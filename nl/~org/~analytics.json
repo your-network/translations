@@ -1,0 +1,27 @@
+{
+  "seo": {
+    "title": "Analytics",
+    "description": "",
+    "keywords": ""
+  },
+  "actionBar": "Analytics",
+  "title": "Analytics",
+  "subtitle": "Statistics refreshed every day",
+  "cards": {
+    "productsMatched": {
+      "title": "Products matched"
+    },
+    "matchRate": {
+      "title": "Match rate"
+    },
+    "requests": {
+      "title": "Requests"
+    },
+    "costs": {
+      "title": "Costs"
+    },
+    "requestsChart": {
+      "title": "Requests"
+    }
+  }
+}

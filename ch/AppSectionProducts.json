@@ -1,0 +1,18 @@
+{
+  "empty": {
+    "category": {
+      "title": "No products here",
+      "text": "Unfortunately! We don't have products for this category {{ value }} yet.",
+      "actions": [
+        "Please let us know we don't have products yet. We can add those products."
+      ]
+    },
+    "brand": {
+      "title": "No products here",
+      "text": "Unfortunately! We don't have products for this brand {{ value }} yet.",
+      "actions": [
+        "Please let us know we don't have products yet. We can add those products."
+      ]
+    }
+  }
+}

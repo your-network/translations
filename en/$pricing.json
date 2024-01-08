@@ -1,0 +1,140 @@
+{
+  "cta": {
+    "startToday": "Start today",
+    "current": "Current plan"
+  },
+  "types": {
+    "beginner": {
+      "label": "Free",
+      "title": "Beginner",
+      "payoff": "The basics",
+      "price": "<price>{{ price }}</price> / Free",
+      "cta": ""
+    },
+    "start": {
+      "label": "Full",
+      "title": "Start",
+      "payoff": "All you need",
+      "price": "from <price>{{ price }}</price> / monthly",
+      "cta": ""
+    },
+    "optimize": {
+      "label": "Most popular",
+      "title": "Optimise",
+      "payoff": "Content optimisation",
+      "price": "from <price>{{ price }}</price> / monthly",
+      "cta": "Talk to sales"
+    },
+    "personalize": {
+      "label": "Professional",
+      "title": "Personalise",
+      "payoff": "Content personalisation",
+      "price": "Talk to sales",
+      "cta": "Talk to sales"
+    }
+  },
+  "features": {
+    "SubscriptionBase": {
+      "title": "Up to {{ countT }} requests"
+    },
+    "FreeRequests": {
+      "title": "Up to {{ countT }} requests"
+    },
+    "PaidRequests": {
+      "title": "Up to {{ countT }} paid requests"
+    },
+    "SubscriptionRequests": {
+      "title": "Up to {{ countT }} requests"
+    },
+    "Content": {
+      "title": "Content"
+    },
+    "Language": {
+      "title": "",
+      "one": "1 language",
+      "other": "{{ countT }}+ languages"
+    },
+    "AllLanguages": {
+      "title": "All languages"
+    },
+    "OneLanguage": {
+      "title": "1 language"
+    },
+    "Brand": {
+      "title": "One brand"
+    },
+    "AllBrands": {
+      "title": "All brands",
+      "one": "1 brand",
+      "other": "{{ countT }} brands"
+    },
+    "Implementation": {
+      "title": "Implementation"
+    },
+    "ConversionIntegration": {
+      "title": "Conversion integration"
+    },
+    "PerformanceOptimisation": {
+      "title": "Performance optimisation"
+    },
+    "Support": {
+      "title": "Support"
+    },
+    "Personalisation": {
+      "title": "AI personalisation engine"
+    },
+    "AccountManager": {
+      "title": "Dedicated accountmanager"
+    },
+    "ProductFeed": {
+      "title": "Product feed"
+    },
+    "EnrichmentRequests": {
+      "title": "Multiple content profiles"
+    },
+    "ContentCustomization": {
+      "title": "AI personalisation engine"
+    },
+    "AudienceIntegration": {
+      "title": "Audience integration"
+    },
+    "$requests": {
+      "title": "Up to {{ countT }} requests"
+    },
+    "$brands": {
+      "title": {
+        "one": "1 brand",
+        "other": "{{ countT }} brands"
+      },
+      "titleAll": "All brands included"
+    },
+    "$languages": {
+      "title": {
+        "one": "1 language",
+        "other": "{{ countT }}+ languages"
+      },
+      "titleAll": "All languages"
+    },
+    "$content": {
+      "title": "All basic content",
+      "title+": "All basic + user generated content"
+    }
+  },
+  "content": {
+    "and": "and",
+    "types": {
+      "description": "Descriptions",
+      "prosCons": "Pros & cons",
+      "image": "Images",
+      "review": "Reviews",
+      "specs": "Specifications",
+      "reasonsToBuy": "Reasons to buy",
+      "video": "Videos",
+      "pdf": "Manuals",
+      "news": "Articles",
+      "qa": "Question & answers",
+      "energy": "Energy label",
+      "title": "Title"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "seo": {
+    "title": "Company Dashboard",
+    "description": "",
+    "keywords": ""
+  },
+  "actionBar": "Dashboard",
+  "title": {
+    "first": "Hi {{ name }}",
+    "usual": "Welcome back {{ name }}"
+  },
+  "cards": {
+    "start": {
+      "title": "Start streaming",
+      "text": "Boost conversions with new product content"
+    },
+    "video": {
+      "title": "Video tutorials",
+      "text": "Learn in a few easy steps how to start streaming"
+    },
+    "subscription": {
+      "title": "Your plan",
+      "text": "Unlock all features with our premium plan",
+      "free": "Free"
+    },
+    "help": {
+      "title": "Need help?",
+      "text": "Reach out to our team if you have any questions",
+      "replayOnboarding": "Replay onboarding"
+    },
+    "productsMatched": {
+      "title": "Products matched"
+    },
+    "matchRate": {
+      "title": "Match rate"
+    },
+    "requests": {
+      "title": "Requests"
+    },
+    "costs": {
+      "title": "Costs"
+    }
+  }
+}

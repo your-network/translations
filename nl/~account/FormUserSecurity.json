@@ -1,0 +1,29 @@
+{
+  "labels": {
+    "email": "Email address",
+    "password": "Current password",
+    "newPassword": "New password",
+    "newPasswordConfirm": "Repeat new password"
+  },
+  "placeholders": {
+    "password": " "
+  },
+  "helpers": {
+    "password": "Type your current password to confirm these changes"
+  },
+  "errors": {},
+  "generatePassword": "Generate new password",
+  "undoChangePassword": "Undo password changes",
+  "fail": "Something went wrong while saving your changes.",
+  "okPassword": {
+    "title": "Password updated successfully"
+  },
+  "okEmail": {
+    "title": "Email changed!",
+    "text": "Check your inbox to verify your email address"
+  },
+  "okAll": {
+    "title": "Email and password changed!",
+    "text": "Check your inbox to verify your email address"
+  }
+}

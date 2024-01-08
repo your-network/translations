@@ -1,0 +1,45 @@
+{
+  "seo": {
+    "title": "Manage content",
+    "description": "",
+    "keywords": ""
+  },
+  "title": "Manage content",
+  "promptToAction": {
+    "title": "Edit your first content",
+    "text": "Start creating content today and earn!",
+    "cta": "Let's begin"
+  },
+  "empty": {
+    "title": "No search results",
+    "text": "Unfortunately! We found no products' changes for your search."
+  },
+  "filters": {
+    "category": "Category",
+    "brand": "Brand",
+    "date": "Date modified",
+    "status": "Status",
+    "ownership": "Ownership"
+  },
+  "headings": {
+    "information": "Information",
+    "type": "Type",
+    "date": "Date",
+    "status": "Status",
+    "ownership": "Ownership",
+    "earnings": "Earnings"
+  },
+  "unavailableProduct": "Unavailable product",
+  "contentType": {
+    "text": "Product information",
+    "specs": "Specifications",
+    "review": "Review",
+    "prosCons": "Pros & Cons",
+    "image": "Photo",
+    "video": "Video",
+    "pdf": "Manual",
+    "news": "News",
+    "qa": "Question & answer"
+  },
+  "entries": "{{ count }} entries"
+}

@@ -1,0 +1,31 @@
+{
+  "labels": {
+    "notifications": {
+      "email": "Email notifications to all users"
+    }
+  },
+  "placeholders": {},
+  "options": {
+    "notifications": {
+      "email": [
+        {
+          "label": "Yes",
+          "value": true
+        },
+        {
+          "label": "No",
+          "value": false
+        }
+      ]
+    }
+  },
+  "errors": {
+    "notifications": {
+      "email": {
+        "required": "A choice is required"
+      }
+    }
+  },
+  "ok": "Changes saved",
+  "fail": "Something went wrong while saving your changes."
+}

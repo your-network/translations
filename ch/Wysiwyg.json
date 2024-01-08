@@ -1,0 +1,18 @@
+{
+  "toolbar": {
+    "undo": "Undo",
+    "redo": "Redo",
+    "paragraph": "Normal text (p)",
+    "h1": "Large heading (h1)",
+    "h2": "Medium heading (h2)",
+    "h3": "Medium heading (h3)",
+    "h4": "Small heading (h4)",
+    "h5": "Small heading (h5)",
+    "h6": "Tiny heading (h6)",
+    "ul": "Unrdered list (ul)",
+    "ol": "Ordered list (ol)",
+    "bold": "Bold",
+    "italic": "Italic",
+    "underline": "Underline"
+  }
+}

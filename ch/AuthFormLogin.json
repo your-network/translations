@@ -1,0 +1,38 @@
+{
+  "title": "Sign in",
+  "subtitle": "Hey you, welcome back!",
+  "continue": "Please sign in to continue.",
+  "labels": {
+    "remember": "Stay signed in"
+  },
+  "placeholders": {
+    "userName": "Your email",
+    "password": "Password"
+  },
+  "errors": {
+    "userName": {
+      "required": "Email is required",
+      "email": "Please provide a valid email address"
+    },
+    "password": {
+      "required": "Password is required",
+      "wrong": "Whoops, the password you entered is incorrect",
+      "generic": "The combination of username and password is not valid"
+    }
+  },
+  "submit": "Sign in",
+  "ok": "Signed in succesfully",
+  "fail": "Something went wrong while signin you in.",
+  "failUnverified": {
+    "title": "Your email has not been verified",
+    "text": "If you have not received the code, <button>click here to resend the verification email</button>"
+  },
+  "okUnverified": {
+    "title": "Email sent!",
+    "text": "Please check your inbox and click the verification link to get back into your account."
+  },
+  "or": "or",
+  "forgotPassword": "Forgot password?",
+  "back": "Back",
+  "backHome": "Back home"
+}

@@ -1,0 +1,21 @@
+{
+  "comingSoon": "Coming soon",
+  "backToWiki": "Back to your.io",
+  "help": "https://info.your.io/hc/en-nl/categories/6973654027293-FAQ",
+  "close": "Close",
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "buy": "Buy",
+  "docx": {
+    "privacy": {
+      "title": "Privacy policy",
+      "close": "Close"
+    },
+    "terms": {
+      "title": "Terms of use",
+      "close": "Close"
+    }
+  }
+}

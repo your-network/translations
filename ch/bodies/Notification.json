@@ -1,0 +1,19 @@
+{
+  "titleMany": "Notifications",
+  "titleSingle": "Notification",
+  "badgeNew": "New",
+  "markAllRead": "Mark all as read",
+  "markRead": "Mark as read",
+  "empty": "You currently have no notifications",
+  "previous": "Previous notifications are visible in your <link>dashboard</link>",
+  "loading": "Looking for new notifications...",
+  "period": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "earlier": "Earlier"
+  },
+  "tabs": {
+    "all": "All",
+    "unread": "Unread"
+  }
+}

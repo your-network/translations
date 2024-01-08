@@ -1,0 +1,36 @@
+{
+  "seo": {
+    "title": "Me - Settings",
+    "description": ""
+  },
+  "title": "Settings",
+  "personal": {
+    "title": "Personal information",
+    "subtitle": "Change personal information",
+    "cta": "Change information"
+  },
+  "security": {
+    "title": "Security & sign in",
+    "subtitle": "Change login information",
+    "cta": "Change security",
+    "desc": "These can be used to make sure it's really you signing in or to reach you if there's suspicious activity in your account"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "subtitle": "Change notifications settings",
+    "cta": "Change notifications",
+    "desc": "Decide your preference about how YOUR can notify you."
+  },
+  "preferences": {
+    "title": "Preferences",
+    "subtitle": "Change preferences settings",
+    "cta": "Change preferences",
+    "desc": "Indicate your preference in which language you want YOUR to communicate with you and in which mode you want to use YOUR."
+  },
+  "billing": {
+    "title": ""
+  },
+  "payment": {
+    "title": ""
+  }
+}

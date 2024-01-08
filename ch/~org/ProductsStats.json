@@ -1,0 +1,17 @@
+{
+  "empty": {
+    "title": "There is no content streamed, <link>start today</link>!",
+    "text": "Data will show up as soon as it's available."
+  },
+  "noResults": {
+    "title": "No data available",
+    "text": "There are no products streamed matching your current filters"
+  },
+  "headings": {
+    "name": "Name",
+    "matchId": "Match ID",
+    "category": "Category",
+    "brand": "Brand",
+    "requests": "Requests"
+  }
+}

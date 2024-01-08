@@ -1,0 +1,59 @@
+{
+  "subtitle": {
+    "Extractor": "Start streaming content!",
+    "Contributor": "Start creating content and earn today!"
+  },
+  "switch": {
+    "Extractor": "As shop",
+    "Contributor": "As creator"
+  },
+  "labels": {
+    "terms": "I agree to the <link>Terms & Conditions</link>"
+  },
+  "placeholders": {
+    "email": "Your Email",
+    "userName": "Your User Name",
+    "displayName": "Your Name",
+    "password": "Create Password",
+    "language": "Content language",
+    "organization": {
+      "name": "Shop"
+    },
+    "website": "Website",
+    "phoneNumber": "Phone number"
+  },
+  "errors": {
+    "email": {
+      "email": "Please enter a valid email address",
+      "required": "Email is required"
+    },
+    "userName": {
+      "required": "Username is required",
+      "min": "Username must be at least 1 character long",
+      "allowedChars": "Please only use alphanumeric characters, underscore (_) or dot (.)"
+    },
+    "displayName": {
+      "required": "Please enter a name",
+      "noSymbols": "Only letters are allowed here"
+    },
+    "terms": {
+      "oneOf": "It is required to read and accept the terms"
+    },
+    "organization": {
+      "name": {
+        "required": "Please enter your shop name"
+      }
+    },
+    "website": {
+      "required": "Please enter the URL of your shop's website",
+      "url": "Please enter a valid URL"
+    }
+  },
+  "or": "or",
+  "generatePassword": "Generate password",
+  "submit": "Sign up",
+  "ok": {
+    "title": "You've got mail!",
+    "text": "Check your inbox to verify your email address"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "memberFor": "Member for <val></val>",
+  "joined": "Joined <val></val>",
+  "level": "Level <val></val>",
+  "top": "Top <val></val>",
+  "contributionsOn": {
+    "0": "No contributions on {{ when }}",
+    "one": "One contribution on {{ when }}",
+    "other": "{{ count }} contributions on {{ when }}"
+  },
+  "reputation": {
+    "level": "{{ name }} level {{ value }}",
+    "ctaLearn": "Learn more",
+    "ctaLearnHref": "https://info.your.io/hc/en-nl/articles/9687002058525-Reputation-Level"
+  },
+  "levels": {
+    "1": "Bronze",
+    "2": "Bronze +",
+    "3": "Silver",
+    "4": "Silver +",
+    "5": "Gold",
+    "6": "Gold +",
+    "7": "Platinum",
+    "8": "Platinum +",
+    "9": "Diamond",
+    "10": "Diamond +"
+  },
+  "skills": {
+    "text": {
+      "full": "Writing product info",
+      "short": "Writing"
+    },
+    "image": {
+      "full": "Shooting photos",
+      "short": "Photo's"
+    },
+    "pdf": {
+      "full": "Finding manuals",
+      "short": "Manual's"
+    },
+    "qa": {
+      "full": "Creating questions & answers",
+      "short": "Q & A"
+    },
+    "review": {
+      "full": "Writing reviews",
+      "short": "Reviews"
+    },
+    "news": {
+      "full": "Gathering news articles",
+      "short": "Articles"
+    },
+    "video": {
+      "full": "Making videos",
+      "short": "Videos"
+    }
+  },
+  "card": {
+    "actions": {
+      "profile": "View profile",
+      "contributions": "Contributions",
+      "chat": "Chat"
+    }
+  }
+}

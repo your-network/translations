@@ -1,0 +1,29 @@
+{
+  "text": {
+    "label": "About"
+  },
+  "prosCons": {
+    "label": "Pros & cons"
+  },
+  "image": {
+    "label": "Images"
+  },
+  "review": {
+    "label": "Reviews"
+  },
+  "specs": {
+    "label": "Info"
+  },
+  "video": {
+    "label": "Videos"
+  },
+  "pdf": {
+    "label": "Manuals"
+  },
+  "news": {
+    "label": "Articles"
+  },
+  "qa": {
+    "label": "Q & A"
+  }
+}

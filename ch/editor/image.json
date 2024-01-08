@@ -1,0 +1,10 @@
+{
+  "cta": "Upload your images",
+  "requirements": [
+    "Minimum {{ minSize }} and maximum {{ maxSize }}",
+    "Minimum resolution: {{ minRes }} pixels",
+    "Maximum resolution: {{ maxRes }} pixels",
+    "Preference for a white background",
+    "CMYK color settings are not accepted"
+  ]
+}

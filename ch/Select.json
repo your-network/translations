@@ -1,0 +1,13 @@
+{
+  "searchPlaceholder": "Search",
+  "noOptionsAvailale": "No options available",
+  "allSelected": "All",
+  "selected": "{{ count }} selected",
+  "selected_one": "{{ count }} selected",
+  "selected_other": "{{ count }} selected",
+  "results": "{{ count }} results",
+  "results_one": "{{ count }} result",
+  "results_other": "{{ count }} results",
+  "noMoreResults": "No more results",
+  "loading": "Loading..."
+}

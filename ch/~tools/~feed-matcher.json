@@ -1,0 +1,95 @@
+{
+  "seo": {
+    "title": "Feed matcher",
+    "description": "",
+    "keywords": ""
+  },
+  "title": "Feed matcher",
+  "breadcrumbs": {
+    "shops": "Shops",
+    "shop": "Sources",
+    "shopSourceNew": "Add source",
+    "shopSourceEdit": "Edit",
+    "mapAttributes": "Map attributes",
+    "mapAttributeGroups": "Map attribute groups",
+    "mapBrands": "Map brands",
+    "mapCategories": "Map categories",
+    "mapFields": "Map fields"
+  },
+  "mapTo": "Map to",
+  "shops": {
+    "description": "Start by selecting a shop",
+    "headings": {
+      "id": "ID",
+      "name": "Name",
+      "nrSources": "Sources",
+      "created": "Created"
+    },
+    "actions": {
+      "select": "Select"
+    },
+    "search": {
+      "empty": "Sorry, there is no data available."
+    }
+  },
+  "sources": {
+    "headings": {
+      "id": "ID",
+      "name": "Name",
+      "locationType": "Location",
+      "fileType": "File",
+      "created": "Created",
+      "status": "Status",
+      "statusFields": "Mapping",
+      "statusMapping": "Mapping"
+    },
+    "actions": {
+      "mapFields": "Map fields",
+      "mapCategories": "Map categories",
+      "mapBrands": "Map brands",
+      "mapAttributeGroups": "Map attrbute groups",
+      "mapAttributes": "Map attributes",
+      "addNew": "Add shop source"
+    },
+    "search": {
+      "empty": "Sorry, there is no data available."
+    }
+  },
+  "sourceNew": {
+    "title": "Add source for"
+  },
+  "sourceEdit": {
+    "title": "Edit source"
+  },
+  "map": {
+    "changes": "Changed mappings",
+    "changes_one": "1 mapping changed",
+    "changes_other": "{{ count }} mappings changed",
+    "save": "Save mapping",
+    "selectPlaceholder": "Select value",
+    "mapped": "<stats></stats> mapped <subject></subject>",
+    "reset": "Reset"
+  },
+  "mapFields": {
+    "viewExample": "View example data",
+    "internalField": {
+      "placeholder": "Select internal field"
+    },
+    "order": {
+      "placeholder": "Order"
+    }
+  },
+  "stats": {
+    "attributeGroups": "Attribute groups",
+    "attributes": "Attributes",
+    "brands": "Brands",
+    "categories": "Categories",
+    "fields": "Fields",
+    "products": "Products"
+  },
+  "download": {
+    "success": "Succeed downloading {{subject}}",
+    "fail": "Failed downloading {{subject}}",
+    "retry": "Retry downloading {{subject}}"
+  }
+}

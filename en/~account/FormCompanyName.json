@@ -1,0 +1,11 @@
+{
+  "labels": {},
+  "placeholders": {},
+  "errors": {
+    "name": {
+      "required": "Please enter the name of the company"
+    }
+  },
+  "ok": "Changes saved",
+  "fail": "Something went wrong while saving your changes."
+}

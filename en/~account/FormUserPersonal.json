@@ -1,0 +1,36 @@
+{
+  "labels": {
+    "displayName": "Name",
+    "address": {
+      "address": "Address",
+      "houseNumber": "",
+      "city": "City and zip code",
+      "zipCode": "",
+      "country": "Country"
+    },
+    "phoneNumber": "Phone number",
+    "dateOfBirth": "Date of birth"
+  },
+  "placeholders": {
+    "displayName": "Your name",
+    "address": {
+      "address": "Address",
+      "houseNumber": "House no.",
+      "city": "City",
+      "zipCode": "Zip code",
+      "country": "Country"
+    },
+    "phoneNumber": "+31 0612345678",
+    "dateOfBirth": ""
+  },
+  "errors": {
+    "displayName": {
+      "required": "You need to fill this in"
+    },
+    "dateOfBirth": {
+      "18+": "We're sorry but you need to be 18 years or older"
+    }
+  },
+  "ok": "Changes saved",
+  "fail": "Something went wrong while saving your changes."
+}

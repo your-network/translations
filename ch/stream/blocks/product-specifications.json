@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "name": "Product Specifications",
+    "shortName": "Specifications"
+  },
+  "ui": {
+    "title": "Specifications",
+    "more": "Show all specifications",
+    "less": "Show less"
+  },
+  "settings": {}
+}

@@ -1,0 +1,10 @@
+{
+  "requirementsTitle": "Requirements",
+  "ctaOrDrag": "Or drag them into this square",
+  "confirmDelete": {
+    "title": "Are you sure?",
+    "text": "Do you really want to delete this? This process cannot be undone.",
+    "proceed": "Delete media",
+    "cancel": "Cancel"
+  }
+}

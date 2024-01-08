@@ -1,0 +1,29 @@
+{
+  "labels": {
+    "name": "Organisation name",
+    "registrationNumber": "Registration number",
+    "address": "Address",
+    "houseNumber": "",
+    "city": "City and zip code",
+    "zipCode": "",
+    "country": "Country",
+    "phoneNumber": "Phone number"
+  },
+  "placeholders": {
+    "name": "Your name",
+    "registrationNumber": "I.e. 52512412",
+    "address": "Address",
+    "houseNumber": "House no.",
+    "city": "City",
+    "zipCode": "Zip code",
+    "country": "Country",
+    "phoneNumber": "+31 0612345678"
+  },
+  "errors": {
+    "name": {
+      "required": "You need to fill this in"
+    }
+  },
+  "ok": "Changes saved",
+  "fail": "Something went wrong while saving your changes."
+}

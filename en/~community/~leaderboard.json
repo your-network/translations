@@ -1,0 +1,29 @@
+{
+  "seo": {
+    "title": "Leaderboard"
+  },
+  "title": "Leaderboard",
+  "search": {
+    "title": "{{ year }} leaderboard",
+    "query": "Search all users",
+    "intervalType": {
+      "w": "Weekly rank",
+      "m": "Monthly rank",
+      "q": "Quarterly rank",
+      "y": "Yearly rank",
+      "a": "All time rank"
+    },
+    "noMatchFilters": "No users match your search criteria",
+    "noMatchQuery": "Sorry! We couldn't find a match for <query></query>.",
+    "empty": "Sorry, this data is not available."
+  },
+  "headings": {
+    "user": "User",
+    "rank": "Rank",
+    "change": "Change",
+    "points": "Points",
+    "views": "Views"
+  },
+  "userLinkTitle": "Browse @{{ name }}'s profile",
+  "pagination": "{{ range }} of {{ total }} users"
+}

@@ -1,0 +1,24 @@
+{
+  "labels": {
+    "url": "Paste your URL"
+  },
+  "placeholders": {
+    "url": "https://"
+  },
+  "errors": {
+    "url": {
+      "required": "Please enter a URL",
+      "url": "Please enter a valid URL",
+      "duplicate": "This URL has already been added.",
+      "unprocessable": "Sorry, we could not process this URL"
+    },
+    "image": {
+      "notFound": "Failed to fetch meta image"
+    }
+  },
+  "btnAdd": "Add article",
+  "dialog": {
+    "trigger": "Add article from URL",
+    "title": "Add article from URL"
+  }
+}

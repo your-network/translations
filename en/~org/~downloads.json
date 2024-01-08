@@ -1,0 +1,46 @@
+{
+  "seo": {
+    "title": "Your downloads",
+    "description": "",
+    "keywords": ""
+  },
+  "title": "Downloads",
+  "actions": {
+    "new": "New download"
+  },
+  "promptToAction": {
+    "title": "Request your first download",
+    "text": "Start enriching your products with detailed information today!",
+    "cta": "Start downloading"
+  },
+  "sections": {
+    "requested": {
+      "title": "Requested",
+      "empty": "There are no pending requested downloads."
+    },
+    "ready": {
+      "title": "Ready to download",
+      "empty": "There are no downloads to display. After completing a payment, your download will appear here."
+    },
+    "archived": {
+      "title": "Archived",
+      "empty": "There are no downloads to display. After 60 days your download is archived. <link>Learn more</link>",
+      "emptyLink": "https://info.your.io/hc/en-nl/sections/7639678598941-Getting-Started-"
+    }
+  },
+  "headings": {
+    "date": "Date",
+    "name": "Name",
+    "products": "Products",
+    "match": "Match rate",
+    "price": "Price",
+    "status": "Status",
+    "actions": "Actions"
+  },
+  "mobile": {
+    "products": "",
+    "products_one": "{{ count }} product",
+    "products_other": "{{ count }} products",
+    "match": "{{ percentage }} match rate"
+  }
+}

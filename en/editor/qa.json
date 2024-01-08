@@ -1,0 +1,36 @@
+{
+  "tabs": {
+    "questions": "Questions",
+    "answers": "Answers"
+  },
+  "addQuestion": "Add question",
+  "search": {
+    "questions": {
+      "placeholder": "Search questions",
+      "results": {
+        "0": "No questions found",
+        "one": "One question found",
+        "other": "{{ count }} questions found"
+      }
+    },
+    "answers": {
+      "placeholder": "Search answers",
+      "results": {
+        "0": "No answers found",
+        "one": "One answer found",
+        "other": "{{ count }} answers found"
+      }
+    }
+  },
+  "draft": {
+    "new": {
+      "question": "New question",
+      "answer": "New answer"
+    },
+    "edit": {
+      "question": "Draft question",
+      "answer": "Draft answer"
+    },
+    "info": "Publish it to get it reviewed"
+  }
+}

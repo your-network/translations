@@ -1,0 +1,7 @@
+{
+  "cta": "Upload your PDFs",
+  "requirements": [
+    "Minimum {{ minSize }} and maximum {{ maxSize }}",
+    "Allowed filetypes: {{ format }}"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "seo": {
+    "title": "{{ category }} products",
+    "description": "",
+    "keywords": ""
+  },
+  "browseAll": "Browse all categories",
+  "top": {
+    "title": "Top rated {{ category }} products",
+    "subtitle": "Our worldwide community has reviewed the following {{ category }} products"
+  },
+  "videos": {
+    "title": "{{ category }} videos"
+  },
+  "popular": {
+    "title": "Most popular {{ category }} products",
+    "subtitle": "Our worldwide community has reviewed the following {{ category }} products"
+  },
+  "news": {
+    "title": "News about {{ category }}",
+    "subtitle": "Our worldwide community has reviewed the following {{ category }} products"
+  },
+  "faq": {
+    "title": "Frequently asked questions about {{ category }}",
+    "subtitle": "Our worldwide community has reviewed the following {{ category }} products"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "dashboard": {
+    "user": "Dashboard",
+    "user~mobile": "Home",
+    "products-overview": "Create content",
+    "products-overview~mobile": "Create",
+    "curate": "Curate content",
+    "curate~mobile": "Curate",
+    "manage": "Manage content",
+    "manage~mobile": "Manage",
+    "earn": "Earn",
+    "earn~mobile": "Earn",
+    "marketplace": "Marketplace",
+    "marketplace~mobile": "Marketplace",
+    "statistics": "Statistics",
+    "statistics~mobile": "Statistics",
+    "wallet": "Wallet",
+    "wallet~mobile": "Wallet",
+    "community": "Community",
+    "community~mobile": "Community",
+    "chat": "Community chat",
+    "chat~mobile": "Chat"
+  },
+  "admin": {
+    "tools": "Tools",
+    "asCreator": "As creator",
+    "asExtractor": "As extractor"
+  },
+  "community": {
+    "leaderboard": "Leaderboard",
+    "leaderboard~mobile": "Leaderboard"
+  },
+  "account": {
+    "user": {
+      "profile": "Edit profile",
+      "profile~mobile": "Profile",
+      "settings": {
+        "index": "Settings",
+        "index~mobile": "Settings"
+      }
+    },
+    "company": {
+      "profile": "Company profile",
+      "profile~mobile": "Company",
+      "settings": {
+        "index": "Company settings",
+        "index~mobile": "Preferences"
+      }
+    }
+  },
+  "org": {
+    "analytics": "Analytics",
+    "analytics~mobile": "Analytics",
+    "dashboard": "Dashboard",
+    "dashboard~mobile": "Home",
+    "download": "Download content",
+    "download~mobile": "Download",
+    "downloads": {
+      "index": "Your downloads",
+      "index~mobile": "Your downloads"
+    },
+    "pricing": "Pricing plans",
+    "pricing~mobile": "Pricing",
+    "stream": {
+      "index": "Stream content",
+      "index~mobile": "Stream",
+      "customize": "Styling",
+      "customize~mobile": "Stream styling",
+      "settings": "Settings",
+      "settings~mobile": "Stream settings"
+    }
+  },
+  "tools": {
+    "feed-matcher": {
+      "index": "Feed matcher",
+      "index~mobile": "Feed matcher"
+    }
+  }
+}

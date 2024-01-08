@@ -1,0 +1,20 @@
+{
+  "seo": {
+    "title": "Community"
+  },
+  "title": "All users",
+  "search": {
+    "query": "Search all users",
+    "sort": {
+      "label": "Sort",
+      "ranking_desc": "Reputation",
+      "ranking": "Reputation (low to high)",
+      "created_desc": "New users",
+      "created": "Long time users"
+    },
+    "noMatchFilters": "No users match your search criteria",
+    "noMatchQuery": "Sorry! We couldn't find a match for <query></query>.",
+    "empty": "Sorry, this data is not available."
+  },
+  "pagination": "{{ range }} of {{ total }} users"
+}

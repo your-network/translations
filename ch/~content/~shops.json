@@ -1,0 +1,139 @@
+{
+  "seo": {
+    "title": "Shops",
+    "description": "",
+    "keywords": ""
+  },
+  "intro": {
+    "headline": "For shops",
+    "title": "Boost online sales by streaming product content",
+    "text": "Integrate our one-line of code or shopify app  to stream high-quality content directly to your shop.",
+    "cta": "Start today"
+  },
+  "why": {
+    "title":"Why would you stream our content?"
+  },
+  "solutions": {
+    "title": "Our solution to your challenge",
+    "problem": "Problem",
+    "solution": "Solution",
+    "list": [
+      {
+        "problem": "E-commerce shops <mark>losing sales</mark> because of a lack of high-quality content",
+        "solution": "High-quality (personalized) product content <mark>increases</mark> engagement and <mark>sales</mark>."
+      },
+      {
+        "problem": "<mark>High costs</mark> for content creation, storage and integration",
+        "solution": "By streaming content, it <mark>saves</mark> a shop <mark>time and money</mark> creating, storing and updating product content"
+      },
+      {
+        "problem": "Duplicate and <mark>outdated</mark> product content on webshops.",
+        "solution": "<mark>Up to date</mark> content getting refreshed every day"
+      }
+    ]
+  },
+  "contentTypes": {
+    "title": "What content can you stream?"
+  },
+  "personalise": {
+    "headline": "Content personalisation",
+    "title": "Elevate your content to new heights with personalised content",
+    "text": "Tailor product content for each customer type, unlocking higher engagement and better conversions. Prioritise content types based on the audience preferences for example between gender.",
+    "cta": "Schedule a call"
+  },
+  "pricing": {
+    "title": "Pricing plans",
+    "subtitle": "Benefit from YOUR in 4 ways"
+  },
+  "schedule": {
+    "anchor": "schedule",
+    "title": "Schedule a call with us"
+  },
+  "partners": {
+    "headline": "Partners",
+    "title": "120+ satisfied customers",
+    "moreStories": "More customer stories"
+  },
+  "faq": {
+    "title": "Frequently asked questions about streaming content",
+    "faqs": [
+      {
+        "question": "What are the benefits of streaming product content?",
+        "answer": [
+          "1. Saving time and money",
+          "Creating content and integrating content in your webshop is expensive and extremely time-consuming. Managing this content with PIM-systems is hard and requires technical knowledge. With content streaming, time and money are saved, leaving you with more time for other important tasks related to your webshop",
+          "2. No content storage",
+          "Content storage and maintaining content require knowledge and is expensive. In contrast to purchasing product content, content streaming does not confer ownership of the content. As a result, there is no need to handle or maintain large files with product content, leading to reducing costs for content storage or specialized employees in content storage.",
+          "3. New products, new assortiment",
+          "By adding new products to your store, our system automatically updates the content for these items. As a result, you are relieved from the task of writing new product content every time you acquire new items. This guarantees that potential customers are consistently provided with the most accurate and up-to-date product information."
+        ]
+      },
+      {
+        "question": "What are the costs to stream product content?",
+        "answer": [
+          "Our product content comes with a free plan that is available to all retailers. This plan provides basic product content features and benefits, allowing you to access high-quality product content from top brand manufacturers at no cost.",
+          "However, we also offer paid plans that come with exclusive benefits and additional features, as shown in the above pricing model",
+          "With our paid plans, retailers can enjoy enhanced functionalities, priority customer support, advanced optimisation, and more. These upgraded plans are designed to cater to your specific needs and help you achieve even greater success in your business.",
+          "Rest assured that whether you choose the free plan or one of our paid plans, we are committed to providing exceptional service and support to all our valued retailers.",
+          "Feel free to reach out to our team at <a href='mailto:team@your.io'>team@your.io</a> if you have any questions or if you'd like to explore the benefits of our paid plans in more detail."
+        ]
+      },
+      {
+        "question": "Which product content categories and languages are available to stream?",
+        "answer": [
+          "We've worked collaboratively with brand manufacturers, creators, and AI to build a product content database where diversity meets accessibility. We take great pride in presenting an unparalleled collection that encompasses every language in the world (60+) and spans all conceivable categories, from electronics and fashion to furniture, toys, and much more.",
+          "But that's not all - we believe in the power of community engagement and user participation. That's why we've also integrated user-generated content into our database. Our platform allows users to contribute their reviews, feedback, and even create product content in their preferred languages. By harnessing the collective knowledge and experiences of our users, we foster a vibrant community that enriches the database with valuable insights and perspectives."
+        ]
+      },
+      {
+        "question": "How does the matching process occur between the products in my webshop and the product content provided by YOUR?",
+        "answer": [
+          "This guide will help you understand the essential product identifiers we use to match your products accurately with product information. Two key product identifiers are at the heart of our process:",
+          "<b>1. MPN</b>",
+          "<i>MPN - Manufacturer Part Number</i>",
+          "<ul><li>MPN, short for Manufacturer Part Number, is a unique alphanumeric code issued by manufacturers to identify their individual products.</li><li>You will typically find MPNs on product barcodes as manufacturers print them alongside the barcode.</li><li>For instance: MHGP3ZD/A (<a href='https://your.io/demo/sdk?matchId=0194252030202&lang=en'>product example</a>).</li></ul>",
+          "<b>2. GTIN / EAN</b>",
+          "<i>GTIN - Global Trade Item Number</i>",
+          "<ul><li>GTIN, which stands for Global Trade Item Number, is a globally recognized product identifier.</li><li>Types of GTINs: The length of a GTIN depends on the product type and the location where the product is sold. You may find the following GTINs:<ul><li>UPC (in North America / GTIN-12): 12-digit number (8-digit UPC-E codes must be converted to 12-digit UPC-A codes.)</li><li>EAN (in Europe / GTIN-13): 13-digit number</li><li>JAN (in Japan / GTIN-13): 8 or 13 digit number</li><li>ISBN (for books): 13-digit number (ISBN-10 values must be converted to ISBN-13)</li><li>ITF-14 (for multipacks/GTIN-14): 14-digit number</li></ul></li><li>You can locate the GTIN displayed next to the barcode on the product's packaging or book cover.</li><li>For example: 0194252030202 (product example)</li>",
+          "<b>Proper use of MPN and EAN</b>",  
+          "<ul><li>It's vital to use the correct MPN and/or EAN for each product to ensure precise identification and matching.<p><i>*Important note: please provide this identifier within the 'barcode' Shopify field.</i></p></li><li>In most cases, each variant of a product (varying in colors or sizes) has its own distinct MPN and/or EAN.</li><li>An important exception to this rule is with different sizes of apparel products, as they often share the same MPN.</li></ul>",
+          "Thank you for taking the time to familiarize yourself with our product identification process. By correctly utilizing GTIN and MPN, you play a key role in maintaining the accuracy and efficiency of the product content such as descriptions, videos and photos for your products.",
+          "Your shop's integration via Shopify communicates directly with our system to retrieve available product content, providing accurate and up-to-date information for your customers."
+        ]
+      },
+      {
+        "question": "Is it necessary to integrate “YOUR” for each product/brand separately?",
+        "answer": [
+          "No, a single integration (15-30 minutes) on the product detail page template covers the entire shop and every product from all manufacturers. When new suppliers adopt “YOUR”, their product profiles become instantly available in the shop without requiring any additional effort."
+        ]
+      },
+      {
+        "question": "Does streaming product affect a retailer's SEO?",
+        "answer": [
+          "No, “YOUR” does not impact the retailer's SEO (Search Engine Optimisation). This means that how well the shop's website shows up in search engine results won't be affected by “YOUR”. The product profiles are stored in “YOUR” cloud and then inserted into the retailer's shop using a special frame called an iframe.",
+          "Therefore, “YOUR” doesn't interfere with the way the shop's website appears to search engines, ensuring that its visibility and ranking in search results remain unaffected."
+        ]
+      },
+      {
+        "question": "If streaming product content has no impact on SEO, how can I still optimize my website for search engines?",
+        "answer": [
+          "You can continue to improve how your shop shows up on Google by using the right keywords for better search results. Additionally, you have the option to create filters for searches within your shop, like you normally would."
+        ]
+      },
+      {
+        "question": "Does streaming product content negatively affect the performance of the shop?",
+        "answer": [
+          "Absolutely not. YOUR is subsequently loaded in your shop, meaning it does not affect the loading time of your shop. Speed is an essential factor, and we've made sure to keep your shop running smoothly."
+        ]
+      }
+    ]
+  },
+  "ready": {
+    "title": "Ready to improve your products?",
+    "usps": [
+      "Save costs creating content",
+      "Improve conversion rates"
+    ],
+    "cta": "Schedule a call"
+  }
+}

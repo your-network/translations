@@ -1,0 +1,36 @@
+{
+  "seo": {
+    "title": "Take your online store to the next level",
+    "description": "Elevate your product pages with the most complete content solution of the world",
+    "keywords": ""
+  },
+  "intro": {
+    "title": "Take your online store to the next level",
+    "cta": "Show full-screen comparison"
+  },
+  "ready": {
+    "title": "Ready to elevate your product pages?",
+    "cta": "Get started"
+  },
+  "comparison": {
+    "before": "Before",
+    "after": "After",
+    "description": {
+      "title": "About the product",
+      "all": "Show more"
+    },
+    "image": {
+      "all": "Show all pictures"
+    },
+    "prosCons": {
+      "title": "Pros and cons",
+      "all": "Show all pros and cons"
+    },
+    "reasonsToBuy": {
+      "all": "Show more"
+    },
+    "review": {
+      "title": "Reviews"
+    }
+  }
+}

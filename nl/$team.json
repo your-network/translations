@@ -1,0 +1,103 @@
+{
+  "core": [
+    {
+      "slug": "ted",
+      "name": "Ted",
+      "sub": "Founder"
+    },
+    {
+      "slug": "thijmen",
+      "name": "Thijmen",
+      "sub": "Founder"
+    },
+    {
+      "slug": "kuus",
+      "name": "Kuus",
+      "sub": "Developer"
+    },
+    {
+      "slug": "dieuwertje",
+      "name": "Dieuwertje",
+      "sub": "Marketing & partnerships"
+    },
+    {
+      "slug": "aleksei",
+      "name": "Aleksei",
+      "sub": "Developer"
+    },
+    {
+      "slug": "roy",
+      "name": "Roy",
+      "sub": "Finance"
+    },
+    {
+      "slug": "dave",
+      "name": "Dave",
+      "sub": "Design"
+    },
+    {
+      "slug": "laurens",
+      "name": "Laurens",
+      "sub": "Strategy"
+    },
+    {
+      "slug": "niels",
+      "name": "Niels",
+      "sub": "Community"
+    }
+  ],
+  "others": [
+    {
+      "slug": "basar",
+      "name": "Başar",
+      "sub": "Community manager"
+    },
+    {
+      "slug": "ibrahim",
+      "name": "Ibrahim",
+      "sub": "Community specialist"
+    },
+    {
+      "slug": "ridwan",
+      "name": "Ridwan",
+      "sub": "Community specialist"
+    },
+    {
+      "slug": "ibrahim2",
+      "name": "Ibrahim",
+      "sub": "Community specialist"
+    },
+    {
+      "slug": "wolf",
+      "name": "Wolf",
+      "sub": "Happiness manager"
+    }
+  ],
+  "advisors": [
+    {
+      "slug": "kareem",
+      "name": "Kareem",
+      "sub": "Research Consultant"
+    },
+    {
+      "slug": "tote",
+      "name": "Tote",
+      "sub": "Director Magicsquare"
+    },
+    {
+      "slug": "quincy",
+      "name": "Quincy",
+      "sub": "Founder Crowny"
+    },
+    {
+      "slug": "jesse",
+      "name": "Jesse",
+      "sub": "Founder Nosana"
+    },
+    {
+      "slug": "sjoerd",
+      "name": "Sjoerd",
+      "sub": "Founder Nosana"
+    }
+  ]
+}
