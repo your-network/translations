@@ -1,33 +1,33 @@
 {
   "seo": {
-    "title": "YOUR Protocol Use Cases",
-    "description": "Decentralized applications (dApps) for creating and distributing content on the YOUR protocol are revolutionizing the way we produce, consume, and share information",
+    "title": "YOUR协议用例",
+    "description": "去中心化应用 (dApps) 在YOUR协议上创建和分发内容的方式正在彻底改变我们生产、消费和共享信息的方式",
     "keywords": ""
   },
   "hero": {
-    "title": "Protocol use-cases",
+    "title": "协议用例",
     "paragraphs": [
-      "Decentralized applications (dApps) for creating and distributing content on the YOUR protocol are revolutionizing the way we produce, consume, and share information.",
-      "YOUR protocol dApps are built without the need for a central authority or intermediary. Let's explore some of the use cases."
+      "去中心化应用 (dApps) 在YOUR协议上创建和分发内容的方式正在彻底改变我们生产、消费和共享信息的方式.",
+      "YOUR协议dapp是在不需要中央机构或中介的情况下构建的。让我们来探索一些用例."
     ]
   },
   "intro": {
-    "title": "The Web3 foundation for future ecommerce"
+    "title": "未来电子商务的Web3基础"
   },
   "block1": {
-    "title": "Metaverse ecommerce experience",
+    "title": "虚拟商务经验",
     "paragraphs": [
-      "One use case is a dApp for streaming content to a metaverse such as Roblox and Decentraland. Within a metaverse, there are many virtual shops and stores where users can purchase digital products, such as clothing for their avatars or in-game items.",
-      "Streaming content from the YOUR protocol would provide a more immersive and interactive way for users to learn about and interact with digital products. This leads to increased engagement and sales for digital products which benefits both the metaverse and brands."
+      "一个用例是dApp，用于将内容流式传输到元世界，如Roblox和Decentraland。在虚拟世界中，有许多虚拟商店和商店，用户可以在那里购买数字产品，例如为他们的角色购买服装或游戏内物品.",
+      "来自YOUR协议的流媒体内容将为用户提供一种更加身临其境和互动的方式，让他们了解数字产品并与之互动。这将提高数字产品的粘性和销量，这对虚拟世界和品牌都有利."
     ],
-    "alt": "metaverse-product-content"
+    "alt": "元宇宙产品内容"
   },
   "block2": {
-    "title": "Ecommerce platform Shopify",
+    "title": "电子商务平台Shopify",
     "paragraphs": [
-      "Through distributions dApps running on the YOUR protocol ecommerce platforms can benefit from high quality product content. Shopify is one of those e-commerce platforms that allows businesses to create online stores to sell physical products. These businesses are all spending a significant amount of money to create the same duplicate content such as descriptions and images, to showcase their products to potential customers and to drive sales.",
-      "YOUR protocol has an active dApp for content creators to create content around those products. All the contributors such as content creators are rewarded with $YOUR tokens based on the popularity and quality of their content."
+      "通过运行在YOUR协议上的分布式应用程序，电子商务平台可以从高质量的产品内容中受益。Shopify是允许企业创建在线商店销售实体产品的电子商务平台之一。这些企业都花费大量资金来创建相同的重复内容，如描述和图像，向潜在客户展示他们的产品并推动销售.",
+      "YOUR协议有一个活动dApp，供内容创建者围绕这些产品创建内容。根据内容的受欢迎程度和质量，所有贡献者(如内容创作者)都会获得$YOUR代币奖励."
     ],
-    "alt": "product-content-shopify-integration"
+    "alt": "产品内容shopify集成产品内容shopify集成"
   }
 }
