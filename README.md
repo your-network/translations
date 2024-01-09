@@ -118,3 +118,7 @@ To make a list:
 ```json
   "text": "<ul><li>List element one</li><li>List element two</li></ul>",
 ```
+
+## Dev notes
+
+Use [`act`](https://github.com/nektos/act) to test the [github action](https://github.com/knitkode/koine/tree/main/actions/i18n) locally.

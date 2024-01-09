@@ -1,0 +1,7 @@
+name: i18n
+on: [push]
+jobs:
+  i18n:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: knitkode/koine/actions/i18n@main
