@@ -1,80 +1,80 @@
 {
   "seo": {
-    "title": "YOUR | Instantly change your page into an experience",
-    "description": "Elevate your product pages with the most complete content solution of the world",
+    "title": "YOUR | 立即把你的页面变成一种体验",
+    "description": "用世界上最完整的内容解决方案提升您的产品页面",
     "keywords": ""
   },
   "intro": {
-    "title": "Instantly change your page into an experience",
-    "subtitle": "Elevate your product pages with the most complete content solution of the world",
+    "title": "立即把你的页面变成一种体验",
+    "subtitle": "用世界上最完整的内容解决方案提升您的产品页面",
     "highlights": [
-      "Try before you buy",
-      "60+ languages",
-      "Support included"
+      "买前尝试",
+      "60+种语言",
+      "包含支持"
     ],
-    "cta": "Get started",
+    "cta": "开始",
     "switch": {
-      "physical": "Physical",
-      "digital": "Digital"
+      "physical": "实体",
+      "digital": "数字"
     }
   },
   "kpi": {
     "conversion": {
       "value": "25%",
-      "title": "Conversion rate increase"
+      "title": "转化率提升"
     },
     "bounce": {
       "value": "10%",
-      "title": "Decrease in bounce rate"
+      "title": "回弹率降低"
     },
     "time": {
-      "value": "5 min.",
-      "title": "Time on page increase"
+      "value": "5分钟.",
+      "title": "页面停留时间变长"
     }
   },
   "engagement": {
-    "title": "Increase engagement and conversion",
-    "text": "Save money and earn more  by streaming high-quality product content",
+    "title": "提高用户粘性和转化率",
+    "text": "通过流媒体播放高质量的产品内容，既省钱又赚钱",
     "list": [
-      "All content types you need",
-      "60+ languages available",
-      "Cutting-edge AI enrichment",
-      "Next-level streaming integration"
+      "您需要的所有内容类型",
+      "60+种语言可用",
+      "尖端AI浓缩",
+      "高端流集成"
     ]
   },
   "contentTypes": {
-    "title": "Enable customers to make informed buying decisions"
+    "title": "使客户能够做出明智的购买决定"
   },
   "integrations": {
-    "headline": "Content integration",
-    "title": "Integration possibilities are endless",
+    "headline": "内容集成",
+    "title": "集成的可能性是无限的",
     "custom": {
-      "text": "Custom build shop? No problem!",
-      "cta": "Learn more"
+      "text": "自定义构建商店?没有问题!",
+      "cta": "了解更多"
     }
   },
   "shopify": {
-    "title": "All in one app",
+    "title": "一体化app",
     "paragraphs": [
-      "Seamless integration of product content such as <b>descriptions, images, videos and reviews</b> offering a time and cost-effective solution that's user-friendly and has the potential to <b>boost sales</b> with high-quality content delivery."
+      "无缝集成产品内容，如 <b>描述、图像、视频和评论</b> 提供一个时间和成本效益的解决方案，是用户友好的，有潜力 <b>促进销售</b> 提供高质量的内容交付."
     ],
-    "cta": "Learn more"
+    "cta": "了解更多"
   },
   "personalise": {
-    "headline": "Content personalisation",
-    "title": "Be truly personal for every customer visiting your page",
-    "text": "In a world filled with generic messages, personalization is the key to standing out and creating a dynamic, engaging experience tailored to each individual's unique needs and interests.",
-    "cta": "Get started",
+    "headline": "个性化的内容",
+    "title": "为每一个访问你网页的客户提供真正个性化的服务",
+    "text": "在一个充斥着通用信息的世界里，个性化是脱颖而出并根据每个人的独特需求和兴趣量身定制动态、引人入胜的体验的关键.",
+    "cta": "开始",
     "switch": {
-      "men": "Men",
-      "women": "Women"
+      "men": "男性",
+      "women": "女性"
     }
   },
   "faq": {
-    "title": "FAQ"
+    "title": "常见问题"
   },
   "ready": {
-    "title": "Ready to elevate your product pages?",
-    "cta": "Get started"
+    "title": "准备好提升你的产品页面了吗?",
+    "cta": "开始"
   }
 }
