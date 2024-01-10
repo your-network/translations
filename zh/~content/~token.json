@@ -1,52 +1,52 @@
 {
   "seo": {
-    "title": "The future for Web3 e-commerce",
-    "description": "YOUR is the content layer for scaling e-commerce experiences by enabling seamless streaming of high-quality product content.",
+    "title": "Web3电子商务的未来",
+    "description": "YOUR是一个内容层，通过实现高质量产品内容的无缝流来扩展电子商务体验",
     "keywords": ""
   },
-  "cta": "Launch product",
+  "cta": "推出的产品",
   "countdown": {
     "d": {
-      "one": "1 day",
-      "other": "days"
+      "one": "一天",
+      "other": "日"
     },
     "h": {
-      "one": "1 hour",
-      "other": "hours"
+      "one": "一小时",
+      "other": "时间"
     },
     "m": {
-      "one": "1 minute",
-      "other": "minutes"
+      "one": "一分钟",
+      "other": "分钟"
     },
     "s": {
-      "one": "1 second",
-      "other": "seconds"
+      "one": "一秒",
+      "other": "秒"
     }
   },
   "intro": {
-    "title": "The future for Web3 e-commerce",
-    "text": "YOUR is the content layer for scaling e-commerce experiences by enabling seamless streaming of high-quality product content.",
-    "asSeen": "As seen in",
-    "poweredBy": "Powered by",
-    "countdown": "Countdown",
-    "idoLaunch": "IDO launch"
+    "title": "Web3电子商务的未来",
+    "text": "YOUR是一个内容层，通过实现高质量产品内容的无缝流来扩展电子商务体验",
+    "asSeen": "如所见",
+    "poweredBy": "由",
+    "countdown": "倒计时",
+    "idoLaunch": "IDO上市"
   },
   "partners": {
-    "title": "Backed by"
+    "title": "以支持"
   },
   "vision": {
-    "header": "Vision",
-    "headline": "Vision",
-    "title": "Disrupt ecommerce with our content layer",
-    "text": ["Introducing YOUR, a revolutionary Web3 protocol for the booming $8.8 trillion e-commerce market by 2026. Brands such as Apple and Samsung struggle with content control and accuracy online. YOUR empowers them with full control, ownership, transparency.", "By giving E-commerce shops access to streamed user generated and personalised product content, we not only enhance the shopping experience but also significantly increases conversion rates."]
+    "header": "愿景",
+    "headline": "愿景",
+    "title": "用我们的内容层颠覆电子商务",
+    "text": ["为2026年蓬勃发展的8.8万亿美元电子商务市场推出革命性的Web3协议YOUR。苹果(Apple)和三星(Samsung)等品牌在网上的内容控制和准确性方面遇到了困难。YOUR赋予他们完全的控制权、所有权和透明度", "通过让电子商务商店访问流媒体用户生成和个性化的产品内容，我们不仅提高了购物体验，还显著提高了转化率"]
   },
   "product": {
-    "header": "Product",
-    "headline": "Product",
-    "title": "Streaming and creation dApps",
+    "header": "产品",
+    "headline": "产品",
+    "title": "流式传输和创建dapp",
     "text": [
-      "Celebrate our 1-year milestone with three revolutionary protocol apps, a robust Software Development Kit (SDK), and a Shopify app designed to empower every shop globally in streaming product content effortlessly. Furthermore, our content editor app is fully operational, actively utilized by over <b>5000+</b> creators to curate and create user-generated content.",
-      "As proud members of the Google Startup Program, we've secured a grant for Google Cloud. Join us for a year of innovation and success!"
+      "通过三个革命性的协议应用程序，一个强大的软件开发工具包(SDK)和一个Shopify应用程序来庆祝我们的1年里程碑，该应用程序旨在使全球每家商店都能轻松地流式传输产品内容。此外，我们的内容编辑器应用程序是全面运作的，被2000多个创作者积极利用来策划和创建用户生成的内容",
+      "作为谷歌创业计划的骄傲成员，我们已经为谷歌云获得了一笔拨款。加入我们，迎接创新与成功的一年!"
     ]
   },
   "products": {
@@ -55,179 +55,180 @@
       "text": "Partnership with Shopify to seamlessly stream product content for webshops, effortlessly elevating the user experience."
     },
     "sdk": {
-      "title": "Code integration",
-      "text": "Implement our SDK for dynamic product page content, ensuring compatibility across leading global platforms such as Salesforce."
+      "title": "代码插入",
+      "text": "为动态产品页面内容实现我们的SDK，确保跨领先的全球平台(如Salesforce)的兼容性"
     },
     "create": {
-      "title": "Creation application",
-      "text": "Our content editor app has 2000+ active creators curating and creating user-generated content."
+      "title": "创建应用程序",
+      "text": "我们的内容编辑器应用程序有2000+活跃的创作者策划和创建用户生成的内容"
     }
   },
   "growth": {
-    "title": "The most extensive content solution of the world",
-    "headline": "Content growth",
-    "text": "New product content. Every day"
+    "title": "世界上最广泛的内容解决方案",
+    "headline": "内容增长",
+    "text": "每日新产品内容"
   },
   "tokenomics": {
-    "header": "Token",
-    "title": "Tokenomics",
+    "header": "代币",
+    "title": "代币经济",
     "share": {
       "preSeed": {
-        "title": "Preseed",
-        "text": "5% unlocking at listing, 5% each month thereafter"
+        "title": "预置",
+        "text": "上市时解锁5%，之后每月5%"
       },
       "seed": {
-        "title": "Seed",
-        "text": "5% unlocking at listing, 7.5% each month thereafter"
+        "title": "种子",
+        "text": "上市时解锁5%，之后每月解锁7.5%"
       },
       "publicSale": {
-        "title": "Public sale",
-        "text": "40% unlocking at listing, 20% each month thereafter"
+        "title": "公开发售",
+        "text": "上市时解锁40%，之后每月解锁20%"
       },
       "team": {
-        "title": "Team",
-        "text": "100% locked for 6 months, 10% unlocked each month thereafter"
+        "title": "团队",
+        "text": "100%锁定6个月，之后每月解锁10%"
       },
       "advisors": {
-        "title": "Advisors",
-        "text": "100% locked for 6 months, 10% unlocked each month thereafter"
+        "title": "顾问",
+        "text": "100%锁定6个月，之后每月解锁10%"
       },
       "network": {
-        "title": "Network",
-        "text": "Starts with 100% locked and unlocking for each reward given to the community"
+        "title": "网络",
+        "text": "从100%锁定开始，并为每个给予社区的奖励解锁"
       },
       "reserves": {
-        "title": "Reserves",
-        "text": "100% locked for 1 year"
+        "title": "储备",
+        "text": "100%锁定1年"
       },
       "liquidity": {
-        "title": "Liquidity",
-        "text": "100% unlocked at listing"
+        "title": "流动性",
+        "text": "上市时100%解锁"
       },
       "marketing": {
-        "title": "Marketing",
-        "text": "50% unlocked, 10% unlocked each month"
+        "title": "市场营销",
+        "text": "50%解锁，每月解锁10%"
       }
     },
     "utility": {
-      "headline": "Token utility",
-      "title": "Sharing the company's success with holders",
-      "text": "$YOUR utilizes a <b>smart reward</b>, <b>buy back</b> and <b>staking mechanism</b> to support the value of the $YOUR token and share the company's success with holders.",
+      "headline": "代币效益",
+      "title": "与股东分享公司的成功",
+      "text": "$YOUR使用 <b>智能奖励</b>, <b>买回</b> 和 <b>下注机制</b> 来支持$YOUR代币的价值，并与持有者分享公司的成功",
       "list": {
         "earn": {
-          "title": "Earn $YOUR tokens",
-          "text": "Content Creators, Curators, Nodes, and Developers that contribute to grow and maintain the protocol, get rewarded in $YOUR tokens."
+          "title": "赚取$YOUR代币",
+          "text": "为协议的发展和维护做出贡献的内容创建者、管理员、节点和开发人员将获得$YOUR代币奖励"
         },
         "pools": {
-          "title": "Continuous buyback cycle",
-          "text": "Content Distribution dApps buy $YOUR Tokens to stream content plus Content Creation dApps buy $YOUR Tokens to store & control content."
+          "title": "连续回购周期",
+          "text": "内容分发dapp购买$YOUR令牌来流式传输内容，以及内容创建dapp购买$YOUR令牌来存储和控制内容"
         },
         "staking": {
-          "title": "Holding benefits",
-          "text": "Protocol users must stake $YOUR tokens for content features access and will also earn APY for long-term staking."
+          "title": "持有的好处",
+          "text": "协议用户必须押注$YOUR令牌才能访问内容功能，并且还将获得长期押注的APY"
         }
       }
     }
   },
   "roadmap": {
-    "title": "Roadmap",
+    "title": "路线图",
     "list": [
       {
         "title": "2023",
         "actions": [
-          "Private sale",
-          "Centralised infrastructure",
-          "Applications launched",
-          "Shopify partnership"
+          "非公开出售",
+          "集中式基础设施",
+          "应用上市",
+          "Shopify合作伙伴"
         ]
       },
       {
         "title": "Q1 - 2024",
-        "actions": ["IDO sale", "Token listing", "Protocol testnet", "Staking platform", "Shop partnerships"]
+        "actions": ["IDO售卖", "代币上市", "协议测试网", "下注平台", "商店合作"]
       },
       {
         "title": "Q2 - 2024",
-        "actions": ["AI content layers", "Storage nodes network", "Shop partnerships"]
+        "actions": ["AI内容层", "存储节点网络", "商店合作伙伴关系"]
       },
       {
         "title": "Q3/Q4 - 2024",
-        "actions": ["Growth protocol dApps", "Personalisation engine", "Protocol mainnet"]
+        "actions": ["增长协议dApp", "个性化引擎", "协议主网"]
       }
     ]
   },
   "team": {
-    "header": "Team",
-    "title": "Core team"
+    "header": "团队",
+    "title": "核心团队"
   },
   "advisors": {
-    "title": "Advisors"
+    "title": "顾问"
   },
   "faq": {
     "header": "FAQ",
     "title": "FAQ"
   },
   "join": {
-    "title": "Join us on this journey",
-    "text": "Get on the waitlist for early-access to the first pre-sale"
+    "title": "加入我们的旅程",
+    "text": "请加入提前参加第一次预售的等候名单"
   },
   "footer": {
+    "description": "YOUR协议为未来的产品内容建立了web3的基础",
     "blocks": {
       "tokens": {
-        "title": "Buy tokens",
+        "title": "购买代币",
         "links": [
           {
-            "text": "Coming soon",
+            "text": "即将到来",
             "url": "#"
           }
         ]
       },
       "earn": {
-        "title": "Earn tokens",
+        "title": "赚取代币",
         "links": [
           {
-            "text": "Create to earn",
-            "route": "content.creator"
+            "text": "创建获得",
+            "route": "内容 内容作者"
           },
           {
-            "text": "Stake to earn",
+            "text": "股份获得",
             "url": "#"
           }
         ]
       },
       "company": {
-        "title": "Company",
+        "title": "公司",
         "links": [
           {
-            "text": "About us",
-            "route": "content.about"
+            "text": "关于我们",
+            "route": "关于内容"
           },
           {
-            "text": "Learn hub",
+            "text": "学习中心",
             "url": "https://info.your.io"
           },
           {
-            "text": "Blog",
+            "text": "博客",
             "url": "https://yourprotocol.medium.com"
           }
         ]
       },
       "communities": {
-        "title": "Communities",
+        "title": "社区",
         "links": [
           {
-            "text": "🇺🇸 English",
+            "text": "🇺🇸 英语",
             "url": "https://t.me/your_community"
           },
           {
-            "text": "🇰🇷 Korean",
+            "text": "🇰🇷 韩语",
             "url": "https://t.me/your_community"
           },
           {
-            "text": "🇹🇷 Turkish",
+            "text": "🇹🇷 土耳其语",
             "url": "https://t.me/your_community"
           },
           {
-            "text": "🇷🇺 Russian",
+            "text": "🇷🇺 俄语",
             "url": "https://t.me/your_community"
           }
         ]
