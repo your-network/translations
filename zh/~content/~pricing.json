@@ -1,23 +1,23 @@
 {
   "seo": {
-    "title": "Pricing plans",
-    "description": "Elevate your product pages with the most complete content solution of the world",
+    "title": "定价计划",
+    "description": "用世界上最完整的内容解决方案提升您的产品页面",
     "keywords": ""
   },
   "intro": {
-    "title": "Pricing plans",
-    "text": "Benefit from YOUR in 4 ways",
+    "title": "定价计划",
+    "text": "从YOUR的4个方面受益",
     "usp": [
-      "Try before you buy",
-      "60+ languages",
-      "Support included"
+      "购买前试用",
+      "60+种语言",
+      "支持包括"
     ]
   },
   "ready": {
-    "title": "Ready to elevate your product pages?",
-    "cta": "Get started"
+    "title": "准备好提升你的产品页面了吗?",
+    "cta": "现在开始"
   },
   "faq": {
-    "title": "Questions & answers"
+    "title": "问答"
   }
 }
