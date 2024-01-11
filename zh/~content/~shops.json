@@ -1,139 +1,139 @@
 {
   "seo": {
-    "title": "Shops",
+    "title": "商店",
     "description": "",
     "keywords": ""
   },
   "intro": {
-    "headline": "For shops",
-    "title": "Boost online sales by streaming product content",
-    "text": "Integrate our one-line of code or shopify app  to stream high-quality content directly to your shop.",
-    "cta": "Start today"
+    "headline": "对商店",
+    "title": "通过流媒体产品内容促进在线销售",
+    "text": "整合我们的一行代码或shopify应用程序，将高质量的内容直接传输到您的商店",
+    "cta": "现在就加入！"
   },
   "why": {
-    "title":"Why would you stream our content?"
+    "title":"为什么要流媒体传输我们的内容?"
   },
   "solutions": {
-    "title": "Our solution to your challenge",
-    "problem": "Problem",
-    "solution": "Solution",
+    "title": "我们对于可能挑战的方案",
+    "problem": "问题",
+    "solution": "解决方案",
     "list": [
       {
-        "problem": "E-commerce shops <mark>losing sales</mark> because of a lack of high-quality content",
-        "solution": "High-quality (personalized) product content <mark>increases</mark> engagement and <mark>sales</mark>."
+        "problem": "电子商务商店 <mark>失去销售额</mark> 因为缺乏高质量产品内容",
+        "solution": "高品质(个性化)产品内容 <mark>增加</mark> 管理与 <mark>销售额</mark>."
       },
       {
-        "problem": "<mark>High costs</mark> for content creation, storage and integration",
-        "solution": "By streaming content, it <mark>saves</mark> a shop <mark>time and money</mark> creating, storing and updating product content"
+        "problem": "<mark>高投入</mark> 用于内容创建, 存储和集成",
+        "solution": "通过流媒体内容，<mark>节约</mark> 一个网店的 <mark>时间与金钱</mark> 创建、存储和更新产品内容"
       },
       {
-        "problem": "Duplicate and <mark>outdated</mark> product content on webshops.",
-        "solution": "<mark>Up to date</mark> content getting refreshed every day"
+        "problem": "重复且 <mark>过时的</mark> 网店产品内容",
+        "solution": "<mark>最新的</mark> 内容每日更新"
       }
     ]
   },
   "contentTypes": {
-    "title": "What content can you stream?"
+    "title": "我可以传输什么内容？"
   },
   "personalise": {
-    "headline": "Content personalisation",
-    "title": "Elevate your content to new heights with personalised content",
-    "text": "Tailor product content for each customer type, unlocking higher engagement and better conversions. Prioritise content types based on the audience preferences for example between gender.",
-    "cta": "Schedule a call"
+    "headline": "内容个人化",
+    "title": "以个性化的内容将您的内容提升到新的高度",
+    "text": "为每种客户类型定制产品内容，解锁更高的参与度和更好的转化率。根据受众偏好(例如性别)对内容类型进行优先排序",
+    "cta": "预约通话"
   },
   "pricing": {
-    "title": "Pricing plans",
-    "subtitle": "Benefit from YOUR in 4 ways"
+    "title": "购买计划",
+    "subtitle": "从YOUR的4个方面受益"
   },
   "schedule": {
-    "anchor": "schedule",
-    "title": "Schedule a call with us"
+    "anchor": "预约",
+    "title": "与我们预约通话"
   },
   "partners": {
-    "headline": "Partners",
-    "title": "120+ satisfied customers",
-    "moreStories": "More customer stories"
+    "headline": "合作者",
+    "title": "超过120位满意用户",
+    "moreStories": "更多顾客网店"
   },
   "faq": {
-    "title": "Frequently asked questions about streaming content",
+    "title": "关于流媒体内容的常见问题",
     "faqs": [
       {
-        "question": "What are the benefits of streaming product content?",
+        "question": "流媒体产品内容的好处是什么?",
         "answer": [
-          "1. Saving time and money",
-          "Creating content and integrating content in your webshop is expensive and extremely time-consuming. Managing this content with PIM-systems is hard and requires technical knowledge. With content streaming, time and money are saved, leaving you with more time for other important tasks related to your webshop",
-          "2. No content storage",
-          "Content storage and maintaining content require knowledge and is expensive. In contrast to purchasing product content, content streaming does not confer ownership of the content. As a result, there is no need to handle or maintain large files with product content, leading to reducing costs for content storage or specialized employees in content storage.",
-          "3. New products, new assortiment",
-          "By adding new products to your store, our system automatically updates the content for these items. As a result, you are relieved from the task of writing new product content every time you acquire new items. This guarantees that potential customers are consistently provided with the most accurate and up-to-date product information."
+          "1. 省时省钱",
+          "在你的网店中创建内容和整合内容既昂贵又非常耗时。使用pim系统管理这些内容是困难的，并且需要技术知识。通过内容流，可以节省时间和金钱，使您有更多的时间用于与您的网店相关的其他重要任务",
+          "2. 没有内容储存占用",
+          "内容存储和维护需要知识，而且成本很高。与购买产品内容相比，内容流并不授予内容的所有权。因此，不需要处理或维护包含产品内容的大型文件，从而降低了内容存储或内容存储专业人员的成本",
+          "3. 新产品，新组合",
+          "通过向您的商店添加新产品，我们的系统会自动更新这些产品的内容。因此，每次获得新产品时，您都可以从编写新产品内容的任务中解脱出来。这保证了潜在客户始终如一地获得最准确和最新的产品信息"
         ]
       },
       {
-        "question": "What are the costs to stream product content?",
+        "question": "流媒体产品内容的成本是多少?",
         "answer": [
-          "Our product content comes with a free plan that is available to all retailers. This plan provides basic product content features and benefits, allowing you to access high-quality product content from top brand manufacturers at no cost.",
-          "However, we also offer paid plans that come with exclusive benefits and additional features, as shown in the above pricing model",
-          "With our paid plans, retailers can enjoy enhanced functionalities, priority customer support, advanced optimisation, and more. These upgraded plans are designed to cater to your specific needs and help you achieve even greater success in your business.",
-          "Rest assured that whether you choose the free plan or one of our paid plans, we are committed to providing exceptional service and support to all our valued retailers.",
-          "Feel free to reach out to our team at <a href='mailto:team@your.io'>team@your.io</a> if you have any questions or if you'd like to explore the benefits of our paid plans in more detail."
+          "我们的产品内容附带一个免费计划，可向所有零售商提供。此计划提供基本的产品内容功能和好处，允许您免费访问顶级品牌制造商的高质量产品内容",
+          "然而，我们也提供付费计划，包括独家利益和附加功能，如上述定价模型所示",
+          "通过我们的付费计划，零售商可以享受增强的功能、优先客户支持、高级优化等。这些升级计划旨在满足您的特定需求，并帮助您在业务中取得更大的成功",
+          "请放心，无论您选择免费计划还是我们的付费计划之一，我们都致力于为我们所有尊贵的零售商提供卓越的服务和支持",
+          "请随时联系我们的团队 <a href='mailto:team@your.io'>team@your.io</a> 如果您有任何问题，或者您想更详细地了解我们付费计划的好处"
         ]
       },
       {
-        "question": "Which product content categories and languages are available to stream?",
+        "question": "哪些产品内容类别和语言可用于流媒体?",
         "answer": [
-          "We've worked collaboratively with brand manufacturers, creators, and AI to build a product content database where diversity meets accessibility. We take great pride in presenting an unparalleled collection that encompasses every language in the world (60+) and spans all conceivable categories, from electronics and fashion to furniture, toys, and much more.",
-          "But that's not all - we believe in the power of community engagement and user participation. That's why we've also integrated user-generated content into our database. Our platform allows users to contribute their reviews, feedback, and even create product content in their preferred languages. By harnessing the collective knowledge and experiences of our users, we foster a vibrant community that enriches the database with valuable insights and perspectives."
+          "我们与品牌制造商、创作者和人工智能合作，建立了一个多样性和可访问性并存的产品内容数据库。我们非常自豪地展示了一个无与伦比的收藏，涵盖了世界上每一种语言(60+)，涵盖了所有可以想象的类别，从电子产品和时尚到家具，玩具等等",
+          "但这还不是全部——我们相信社区参与和用户参与的力量。这就是为什么我们也将用户生成的内容整合到我们的数据库中。我们的平台允许用户贡献他们的评论、反馈，甚至用他们喜欢的语言创建产品内容。通过利用用户的集体知识和经验，我们培育了一个充满活力的社区，通过有价值的见解和观点丰富了数据库"
         ]
       },
       {
-        "question": "How does the matching process occur between the products in my webshop and the product content provided by YOUR?",
+        "question": "我网店的产品和贵司提供的产品内容是如何匹配的?",
         "answer": [
-          "This guide will help you understand the essential product identifiers we use to match your products accurately with product information. Two key product identifiers are at the heart of our process:",
+          "本指南将帮助您了解我们用于将您的产品与产品信息准确匹配的基本产品标识符。两个关键的产品标识符是我们流程的核心:",
           "<b>1. MPN</b>",
-          "<i>MPN - Manufacturer Part Number</i>",
-          "<ul><li>MPN, short for Manufacturer Part Number, is a unique alphanumeric code issued by manufacturers to identify their individual products.</li><li>You will typically find MPNs on product barcodes as manufacturers print them alongside the barcode.</li><li>For instance: MHGP3ZD/A (<a href='https://your.io/demo/sdk?matchId=0194252030202&lang=en'>product example</a>).</li></ul>",
+          "<i>MPN - 制造商部件号</i>",
+          "<ul><li>MPN是制造商零件号的缩写，是由制造商发布的唯一的字母数字代码，用于标识其单独的产品</li><li>您通常会在产品条形码上找到MPN，因为制造商将它们与条形码一起打印</li><li>例如: MHGP3ZD/A (<a href='https://your.io/demo/sdk?matchId=0194252030202&lang=en'>product example</a>).</li></ul>",
           "<b>2. GTIN / EAN</b>",
-          "<i>GTIN - Global Trade Item Number</i>",
-          "<ul><li>GTIN, which stands for Global Trade Item Number, is a globally recognized product identifier.</li><li>Types of GTINs: The length of a GTIN depends on the product type and the location where the product is sold. You may find the following GTINs:<ul><li>UPC (in North America / GTIN-12): 12-digit number (8-digit UPC-E codes must be converted to 12-digit UPC-A codes.)</li><li>EAN (in Europe / GTIN-13): 13-digit number</li><li>JAN (in Japan / GTIN-13): 8 or 13 digit number</li><li>ISBN (for books): 13-digit number (ISBN-10 values must be converted to ISBN-13)</li><li>ITF-14 (for multipacks/GTIN-14): 14-digit number</li></ul></li><li>You can locate the GTIN displayed next to the barcode on the product's packaging or book cover.</li><li>For example: 0194252030202 (product example)</li>",
-          "<b>Proper use of MPN and EAN</b>",  
-          "<ul><li>It's vital to use the correct MPN and/or EAN for each product to ensure precise identification and matching.<p><i>*Important note: please provide this identifier within the 'barcode' Shopify field.</i></p></li><li>In most cases, each variant of a product (varying in colors or sizes) has its own distinct MPN and/or EAN.</li><li>An important exception to this rule is with different sizes of apparel products, as they often share the same MPN.</li></ul>",
-          "Thank you for taking the time to familiarize yourself with our product identification process. By correctly utilizing GTIN and MPN, you play a key role in maintaining the accuracy and efficiency of the product content such as descriptions, videos and photos for your products.",
-          "Your shop's integration via Shopify communicates directly with our system to retrieve available product content, providing accurate and up-to-date information for your customers."
+          "<i>GTIN - 全球贸易项目编号</i>",
+          "<ul><li>GTIN，即全球贸易项目编号，是全球公认的产品标识符</li><li>GTIN的类型:GTIN的长度取决于产品类型和销售产品的位置。您可以找到以下gtin:<ul><li>UPC (北美 / GTIN-12): 12位数 (8位UPC-E码必须转换为12位UPC-A码)</li><li>EAN (欧洲 / GTIN-13): 13位数</li><li>JAN (日本 / GTIN-13): 8到13位数</li><li>ISBN (书籍): 13位数 (ISBN-10的值必须转换为ISBN-13)</li><li>ITF-14 (合装包/GTIN-14): 14位数</li></ul></li><li>您可以在产品包装或书籍封面上的条形码旁边找到GTIN</li><li>例如: 0194252030202 (product example)</li>",
+          "<b>正确使用MPN和EAN</b>",  
+          "<ul><li>为每个产品使用正确的MPN和/或EAN以确保精确识别和匹配是至关重要的<p><i>*重要提示:请在Shopify的“条形码”字段中提供此标识符</i></p></li><li>在大多数情况下，产品的每个变体(颜色或大小不同)都有自己独特的MPN和/或EAN</li><li>这条规则的一个重要例外是不同尺寸的服装产品，因为它们通常共享相同的MPN</li></ul>",
+          "感谢您抽出时间来熟悉我们的产品识别流程。通过正确使用GTIN和MPN，您可以在保持产品内容的准确性和效率方面发挥关键作用，例如产品的描述，视频和照片",
+          "您的商店通过Shopify集成直接与我们的系统通信，以检索可用的产品内容，为您的客户提供准确和最新的信息"
         ]
       },
       {
-        "question": "Is it necessary to integrate “YOUR” for each product/brand separately?",
+        "question": "是否需要为每个产品/品牌单独整合“YOUR”?",
         "answer": [
-          "No, a single integration (15-30 minutes) on the product detail page template covers the entire shop and every product from all manufacturers. When new suppliers adopt “YOUR”, their product profiles become instantly available in the shop without requiring any additional effort."
+          "不，产品详细信息页面模板上的单个集成(15-30分钟)涵盖了整个商店和所有制造商的每个产品。当新的供应商采用“YOUR”时，他们的产品简介立即在商店中可用，而不需要任何额外的努力"
         ]
       },
       {
-        "question": "Does streaming product affect a retailer's SEO?",
+        "question": "流媒体产品会影响零售商的SEO吗?",
         "answer": [
-          "No, “YOUR” does not impact the retailer's SEO (Search Engine Optimisation). This means that how well the shop's website shows up in search engine results won't be affected by “YOUR”. The product profiles are stored in “YOUR” cloud and then inserted into the retailer's shop using a special frame called an iframe.",
-          "Therefore, “YOUR” doesn't interfere with the way the shop's website appears to search engines, ensuring that its visibility and ranking in search results remain unaffected."
+          "不，“YOUR”并不影响零售商的搜索引擎优化(SEO)。这意味着商店网站在搜索引擎结果中的表现不会受到“YOUR”的影响。产品配置文件存储在“YOUR”云中，然后使用称为iframe的特殊框架插入零售商的商店",
+          "因此，“YOUR”不会干扰商店网站在搜索引擎中的显示方式，确保其在搜索结果中的可见性和排名不受影响"
         ]
       },
       {
-        "question": "If streaming product content has no impact on SEO, how can I still optimize my website for search engines?",
+        "question": "如果流媒体产品内容对搜索引擎优化没有影响，我如何为搜索引擎优化我的网站?",
         "answer": [
-          "You can continue to improve how your shop shows up on Google by using the right keywords for better search results. Additionally, you have the option to create filters for searches within your shop, like you normally would."
+          "你可以通过使用正确的关键词来获得更好的搜索结果，从而继续提高你的商店在谷歌上的显示效果。此外，您还可以选择为您的商店中的搜索创建过滤器，就像您通常所做的那样"
         ]
       },
       {
-        "question": "Does streaming product content negatively affect the performance of the shop?",
+        "question": "流媒体产品内容是否会对商店的业绩产生负面影响?",
         "answer": [
-          "Absolutely not. YOUR is subsequently loaded in your shop, meaning it does not affect the loading time of your shop. Speed is an essential factor, and we've made sure to keep your shop running smoothly."
+          "当然不是。YOUR随后在你的店铺加载，这意味着它不影响你的店铺的加载时间。速度是至关重要的因素，我们确保您的商店顺利运行。"
         ]
       }
     ]
   },
   "ready": {
-    "title": "Ready to improve your products?",
+    "title": "准备好改进你的产品了吗?",
     "usps": [
-      "Save costs creating content",
-      "Improve conversion rates"
+      "节省创建内容的成本",
+      "改善转化率"
     ],
-    "cta": "Schedule a call"
+    "cta": "预约通话"
   }
 }
