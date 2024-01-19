@@ -9,3 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: knitkode/koine/actions/i18n@main
+        permissions:
+          contents: write
