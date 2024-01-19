@@ -1,4 +1,4 @@
-# Localization
+# Translations
 
 > Notes for translators
 
