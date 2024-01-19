@@ -5,11 +5,10 @@ on:
       - acceptance
       - main
 
-permissions:
-  contents: write
-
 jobs:
   i18n:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: knitkode/koine/actions/i18n@main
