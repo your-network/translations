@@ -4,10 +4,12 @@ on:
     branches-ignore:    
       - acceptance
       - main
+
+permissions:
+  contents: write
+
 jobs:
   i18n:
     runs-on: ubuntu-latest
     steps:
       - uses: knitkode/koine/actions/i18n@main
-        permissions:
-          contents: write
