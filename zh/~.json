@@ -96,8 +96,7 @@
   },
   "tools": {
     "feed-matcher": {
-      "index": "/tools/feed-matcher",
-      "[spa]": "/tools/feed-matcher/{{ spa }}*",
+      "index": "/tools/feed-matcher/*",
       "shops": {
         "index": "/shops",
         "[id]": {

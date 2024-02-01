@@ -16,10 +16,8 @@
       "title": "Account",
       "profile": "Edit profile",
       "profile~mobile": "Profile",
-      "settings": {
-        "index": "Settings",
-        "index~mobile": "Settings"
-      }
+      "settings": "Settings",
+      "settings~mobile": "Settings"
     },
     "company": {
       "title": "Company",
@@ -27,10 +25,8 @@
       "profile~mobile": "Company",
       "api": "API authentication",
       "api~mobile": "API authentication",
-      "settings": {
-        "index": "Company settings",
-        "index~mobile": "Preferences"
-      }
+      "settings": "Company settings",
+      "settings~mobile": "Preferences"
     }
   },
   "help": "Help",
