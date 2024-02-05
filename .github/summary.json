@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 69443,
+    "characters": 69415,
     "files": [
       {
         "characters": 131,
@@ -3543,11 +3543,11 @@
         "words": 13
       },
       {
-        "characters": 63,
+        "characters": 35,
         "locale": "zh",
         "path": "CookieBanner.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/CookieBanner.json",
-        "words": 11
+        "words": 3
       },
       {
         "characters": 51,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 10956
+    "words": 10948
   }
 }
