@@ -1,10 +1,10 @@
 {
   "conversion": {
-    "title": "转化率增加",
+    "title": "转化率提升",
     "value": "25%"
   },
   "bounceRate": {
-    "title": "减少跳出率",
+    "title": "跳出率降低",
     "value": "10%"
   },
   "timeOnPage": {
