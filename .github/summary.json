@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73090,
+    "characters": 73111,
     "files": [
       {
         "characters": 131,
@@ -2962,11 +2962,11 @@
         "words": 16
       },
       {
-        "characters": 594,
+        "characters": 615,
         "locale": "zh",
         "path": "~content/~build-use-cases.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/~build-use-cases.json",
-        "words": 18
+        "words": 21
       },
       {
         "characters": 158,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11393
+    "words": 11396
   }
 }
