@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 72976,
+    "characters": 73055,
     "files": [
       {
         "characters": 131,
@@ -2920,11 +2920,11 @@
         "words": 57
       },
       {
-        "characters": 361,
+        "characters": 440,
         "locale": "zh",
         "path": "~content/~build-dapps-content-creation.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/~build-dapps-content-creation.json",
-        "words": 16
+        "words": 18
       },
       {
         "characters": 421,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11401
+    "words": 11403
   }
 }
