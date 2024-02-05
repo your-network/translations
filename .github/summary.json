@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73051,
+    "characters": 73059,
     "files": [
       {
         "characters": 131,
@@ -3074,7 +3074,7 @@
         "words": 14
       },
       {
-        "characters": 76,
+        "characters": 84,
         "locale": "zh",
         "path": "~content/BlockUsp.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/BlockUsp.json",
