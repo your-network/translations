@@ -1,98 +1,98 @@
 {
-  "description": "YOUR is the foundation for scaling e-commerce experiences by enabling seamless streaming of high-quality product content.",
-  "copyright": "© {{year}} www.your.io, Inc. All Rights Reserved.",
-  "blocks": {
-    "about": {
-      "title": "About YOUR",
-      "links": [
-        {
-          "text": "About us",
-          "route": "content.about"
+    "description": "YOUR通过提供高质量产品内容的无缝流式传输，为扩展电子商务体验奠定了坚实基础。",
+    "copyright": "© {{year}} www.your.io, Inc.版权所有。",
+    "blocks": {
+        "about": {
+            "title": "关于YOUR",
+            "links": [
+                {
+                    "text": "关于我们",
+                    "route": "关于内容"
+                },
+                {
+                    "text": "成为创作者",
+                    "route": "内容创作者"
+                }
+            ]
         },
-        {
-          "text": "Become a creator",
-          "route": "content.creator"
+        "business": {
+            "title": "去中心化应用（dApp）",
+            "links": [
+                {
+                    "text": "创作者去中心化应用（dApp）",
+                    "route": "内容构建去中心化应用（dApp）内容创作"
+                },
+                {
+                    "text": "分发去中心化应用（dApp）",
+                    "route": "内容构建去中心化应用（dApp）内容分发"
+                },
+                {
+                    "text": "注册去中心化应用（dApp）",
+                    "route": "内容构建去中心化应用（dApp）注册"
+                }
+            ]
+        },
+        "information": {
+            "title": "学习",
+            "links": [
+                {
+                    "text": "学习中心",
+                    "url": "https://info.your.io"
+                },
+                {
+                    "text": "帮助中心",
+                    "url": "https://info.your.io/hc/en-nl/requests/new"
+                },
+                {
+                    "text": "代币",
+                    "route": "内容代币"
+                },
+                {
+                    "text": "文章",
+                    "url": "https://yourprotocol.medium.com"
+                }
+            ]
+        },
+        "communities": {
+            "title": "社群",
+            "links": [
+                {
+                    "text": "🇺🇸 英语",
+                    "url": "https://t.me/your_community"
+                },
+                {
+                    "text": "🇨🇳 中文",
+                    "url": "https://t.me/your_community"
+                },
+                {
+                    "text": "🇰🇷 韩语",
+                    "url": "https://t.me/your_community"
+                },
+                {
+                    "text": "🇹🇷 土耳其语",
+                    "url": "https://t.me/your_community"
+                },
+                {
+                    "text": "🇷🇺 俄语",
+                    "url": "https://t.me/your_community"
+                }
+            ]
+        },
+        "others": {
+            "links": [
+                {
+                    "text": "Cookie声明",
+                    "route": "内容Cookie"
+                },
+                {
+                    "text": "隐私政策",
+                    "route": "内容隐私"
+                },
+                {
+                    "text": "使用条款",
+                    "route": "内容条款"
+                }
+            ]
         }
-      ]
-    },
-    "business": {
-      "title": "dApps",
-      "links": [
-        {
-          "text": "Creator dApps",
-          "route": "content.build-dapps-content-creation"
-        },
-        {
-          "text": "Distribution dApps",
-          "route": "content.build-dapps-content-distribution"
-        },
-        {
-          "text": "Signup as dApp",
-          "route": "content.build-dapps-signup"
-        }
-      ]
-    },
-    "information": {
-      "title": "Learn",
-      "links": [
-        {
-          "text": "Learn hub",
-          "url": "https://info.your.io"
-        },
-        {
-          "text": "Help center",
-          "url": "https://info.your.io/hc/en-nl/requests/new"
-        },
-        {
-          "text": "Token",
-          "route": "content.token"
-        },
-        {
-          "text": "Articles",
-          "url": "https://yourprotocol.medium.com"
-        }
-      ]
-    },
-    "communities": {
-      "title": "Communities",
-      "links": [
-        {
-          "text": "🇺🇸 English",
-          "url": "https://t.me/your_community"
-        },
-        {
-          "text": "🇨🇳 Chinese",
-          "url": "https://t.me/your_community"
-        },
-        {
-          "text": "🇰🇷 Korean",
-          "url": "https://t.me/your_community"
-        },
-        {
-          "text": "🇹🇷 Turkish",
-          "url": "https://t.me/your_community"
-        },
-        {
-          "text": "🇷🇺 Russian",
-          "url": "https://t.me/your_community"
-        }
-      ]
-    },
-    "others": {
-      "links": [
-        {
-          "text": "Cookie statement",
-          "route": "content.cookies"
-        },
-        {
-          "text": "Privacy policy",
-          "route": "content.privacy"
-        },
-        {
-          "text": "Terms of use",
-          "route": "content.terms"
-        }
-      ]
     }
-  }
 }
