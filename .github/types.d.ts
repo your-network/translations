@@ -196,6 +196,7 @@ declare namespace Koine {
       usps: string[];
       cta: { demo: string; about: string };
     };
+    Pagination: { summary: string };
     PromptAuthDialogFooter: {
       title: string;
       text: string;
@@ -203,7 +204,6 @@ declare namespace Koine {
       ctaSignup: string;
       ctaCreator: string;
     };
-    Pagination: { summary: string };
     Info: {
       score: { title: string; text: string[] };
       dataExport: { title: string; text: string[] };
@@ -717,9 +717,6 @@ declare namespace Koine {
       };
       download: { success: string; fail: string; retry: string };
     };
-    "~demo/~sdk": {
-      seo: { title: string; description: string; keywords: string };
-    };
     "~org/~stream~settings": {
       seo: { title: string; description: string; keywords: string };
       title: string;
@@ -903,6 +900,9 @@ declare namespace Koine {
       empty: { title: string; text: string };
       noResults: { title: string; text: string };
     };
+    "~demo/~sdk": {
+      seo: { title: string; description: string; keywords: string };
+    };
     "~dashboard/~wallet": {
       seo: { title: string; description: string; keywords: string };
       title: string;
@@ -997,6 +997,9 @@ declare namespace Koine {
       };
       entries: string;
     };
+    "~dashboard/~curate": {
+      seo: { title: string; description: string; keywords: string };
+    };
     "~dashboard/~editor-product": {
       seo: { title: string; description: string; keywords: string };
       loading: { actionBar: string; text: string };
@@ -1047,9 +1050,6 @@ declare namespace Koine {
       };
       fail: { title: string; text: string };
       ok: { title: string; text: string; cta: string };
-    };
-    "~dashboard/~curate": {
-      seo: { title: string; description: string; keywords: string };
     };
     "~dashboard/~chat": {
       seo: { title: string; description: string; keywords: string };
@@ -1615,16 +1615,16 @@ declare namespace Koine {
       subtitle: string;
       backSignin: string;
     };
-    "~auth/~confirm-email": {
-      seo: { title: string; description: string };
-      title: string;
-      subtitle: string;
-    };
     "~auth/~password-forgot": {
       seo: { title: string; description: string };
       title: string;
       subtitle: string;
       backSignin: string;
+    };
+    "~auth/~confirm-email": {
+      seo: { title: string; description: string };
+      title: string;
+      subtitle: string;
     };
     "~auth/Password": {
       password: {
