@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 72884,
+    "characters": 72560,
     "files": [
       {
         "characters": 131,
@@ -3396,11 +3396,11 @@
         "words": 12
       },
       {
-        "characters": 505,
+        "characters": 181,
         "locale": "zh",
         "path": "AuthFormLogin.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/AuthFormLogin.json",
-        "words": 100
+        "words": 22
       },
       {
         "characters": 575,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11180
+    "words": 11102
   }
 }
