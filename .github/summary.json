@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73357,
+    "characters": 73229,
     "files": [
       {
         "characters": 131,
@@ -3389,11 +3389,11 @@
         "words": 9
       },
       {
-        "characters": 267,
+        "characters": 139,
         "locale": "zh",
         "path": "AppSectionProducts.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/AppSectionProducts.json",
-        "words": 58
+        "words": 12
       },
       {
         "characters": 505,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11277
+    "words": 11231
   }
 }
