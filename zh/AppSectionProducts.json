@@ -1,18 +1,18 @@
 {
-  "empty": {
-    "category": {
-      "title": "No products here",
-      "text": "Unfortunately! We don't have products for this category {{ value }} yet.",
-      "actions": [
-        "Please let us know we don't have products yet. We can add those products."
-      ]
-    },
-    "brand": {
-      "title": "No products here",
-      "text": "Unfortunately! We don't have products for this brand {{ value }} yet.",
-      "actions": [
-        "Please let us know we don't have products yet. We can add those products."
-      ]
+    "empty": {
+        "category": {
+            "title": "这里没有产品",
+            "text": "很遗憾！我们目前还没有适用于该类别的产品 {{ value }}。",
+            "actions": [
+                "我们目前还没有相关的产品。您可以告诉我们，我们会努力添加这些产品。"
+            ]
+        },
+        "brand": {
+            "title": "这里没有产品。",
+            "text": "很遗憾！我们目前还没有适用于该类别的产品 {{ value }}。",
+            "actions": [
+                "我们目前还没有相关的产品。您可以告诉我们，我们会努力添加这些产品。"
+            ]
+        }
     }
-  }
 }
