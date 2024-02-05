@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 69752,
+    "characters": 69493,
     "files": [
       {
         "characters": 131,
@@ -3648,11 +3648,11 @@
         "words": 112
       },
       {
-        "characters": 778,
+        "characters": 519,
         "locale": "zh",
         "path": "Footer.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/Footer.json",
-        "words": 80
+        "words": 48
       },
       {
         "characters": 134,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 10989
+    "words": 10957
   }
 }
