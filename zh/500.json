@@ -1,8 +1,8 @@
 {
   "seo": {
-    "title": "500 - Server error"
+    "title": "500 - 服务器错误"
   },
-  "title": "500, server error",
-  "text": "Whoops, we are on it.",
-  "cta": "Back home"
+  "title": "500，服务器错误",
+  "text": "糟糕，我们正在处理中。",
+  "cta": "返回主页"
 }
