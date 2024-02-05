@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73300,
+    "characters": 73250,
     "files": [
       {
         "characters": 131,
@@ -3697,11 +3697,11 @@
         "words": 26
       },
       {
-        "characters": 83,
+        "characters": 33,
         "locale": "zh",
         "path": "PromptImproveProducts.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/PromptImproveProducts.json",
-        "words": 17
+        "words": 5
       },
       {
         "characters": 16,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11335
+    "words": 11323
   }
 }
