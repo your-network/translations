@@ -1,24 +1,24 @@
 {
-  "extractor": {
-    "title": "Restricted",
-    "subtitle": "Your account is not linked to any company.",
-    "cta": "Back"
-  },
-  "contributor": {
-    "title": "Restricted",
-    "subtitle": "This page is reserved to Creator's accounts.",
-    "cta": "Back"
-  },
-  "shop": {
-    "title": "Restricted",
-    "subtitle": "Your account is not linked to any shop.",
-    "cta": "Back"
-  },
-  "superAdmin": {
-    "title": "Restricted",
-    "subtitle": "This content is reserved to administrator users.",
-    "cta": "Back"
-  },
-  "back": "Back",
-  "backHome": "Back home"
+    "extractor": {
+        "title": "受限制",
+        "subtitle": "您的账户未关联任何公司。",
+        "cta": "返回"
+    },
+    "contributor": {
+        "title": "受限制",
+        "subtitle": "此页面仅限于创作者账户。",
+        "cta": "返回"
+    },
+    "shop": {
+        "title": "受限制",
+        "subtitle": "您的账户未关联任何商店。",
+        "cta": "返回"
+    },
+    "superAdmin": {
+        "title": "受限制",
+        "subtitle": "此内容仅限于管理员用户。",
+        "cta": "返回"
+    },
+    "back": "返回",
+    "backHome": "返回首页"
 }
