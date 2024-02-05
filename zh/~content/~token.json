@@ -1,238 +1,254 @@
 {
-  "seo": {
-    "title": "Web3电子商务的未来",
-    "description": "YOUR是一个内容层，通过实现高质量产品内容的无缝流来扩展电子商务体验",
-    "keywords": ""
-  },
-  "cta": "推出的产品",
-  "countdown": {
-    "d": {
-      "one": "一天",
-      "other": "日"
+    "seo": {
+        "title": "Web3电子商务的未来",
+        "description": "YOUR通过实现高质量产品内容的无缝流式传输来扩展电子商务体验的内容层。",
+        "keywords": ""
     },
-    "h": {
-      "one": "一小时",
-      "other": "时间"
-    },
-    "m": {
-      "one": "一分钟",
-      "other": "分钟"
-    },
-    "s": {
-      "one": "一秒",
-      "other": "秒"
-    }
-  },
-  "intro": {
-    "title": "Web3电子商务的未来",
-    "text": "YOUR是一个内容层，通过实现高质量产品内容的无缝流来扩展电子商务体验",
-    "asSeen": "如所见",
-    "poweredBy": "由",
-    "countdown": "倒计时",
-    "idoLaunch": "IDO上市"
-  },
-  "partners": {
-    "title": "以支持"
-  },
-  "vision": {
-    "header": "愿景",
-    "headline": "愿景",
-    "title": "用我们的内容层颠覆电子商务",
-    "text": ["为2026年蓬勃发展的8.8万亿美元电子商务市场推出革命性的Web3协议YOUR。苹果(Apple)和三星(Samsung)等品牌在网上的内容控制和准确性方面遇到了困难。YOUR赋予他们完全的控制权、所有权和透明度", "通过让电子商务商店访问流媒体用户生成和个性化的产品内容，我们不仅提高了购物体验，还显著提高了转化率"]
-  },
-  "product": {
-    "header": "产品",
-    "headline": "产品",
-    "title": "流式传输和创建dapp",
-    "text": [
-      "通过三个革命性的协议应用程序，一个强大的软件开发工具包(SDK)和一个Shopify应用程序来庆祝我们的1年里程碑，该应用程序旨在使全球每家商店都能轻松地流式传输产品内容。此外，我们的内容编辑器应用程序是全面运作的，被2000多个创作者积极利用来策划和创建用户生成的内容",
-      "作为谷歌创业计划的骄傲成员，我们已经为谷歌云获得了一笔拨款。加入我们，迎接创新与成功的一年!"
-    ]
-  },
-  "products": {
-    "shopify": {
-      "title": "Shopify application",
-      "text": "Partnership with Shopify to seamlessly stream product content for webshops, effortlessly elevating the user experience."
-    },
-    "sdk": {
-      "title": "代码插入",
-      "text": "为动态产品页面内容实现我们的SDK，确保跨领先的全球平台(如Salesforce)的兼容性"
-    },
-    "create": {
-      "title": "创建应用程序",
-      "text": "我们的内容编辑器应用程序有5000+活跃的创作者策划和创建用户生成的内容"
-    }
-  },
-  "growth": {
-    "title": "世界上最广泛的内容解决方案",
-    "headline": "内容增长",
-    "text": "每日新产品内容"
-  },
-  "tokenomics": {
-    "header": "代币",
-    "title": "代币经济",
-    "share": {
-      "preSeed": {
-        "title": "预置",
-        "text": "上市时解锁5%，之后每月5%"
-      },
-      "seed": {
-        "title": "种子",
-        "text": "上市时解锁5%，之后每月解锁7.5%"
-      },
-      "publicSale": {
-        "title": "公开发售",
-        "text": "上市时解锁40%，之后每月解锁20%"
-      },
-      "team": {
-        "title": "团队",
-        "text": "100%锁定6个月，之后每月解锁10%"
-      },
-      "advisors": {
-        "title": "顾问",
-        "text": "100%锁定6个月，之后每月解锁10%"
-      },
-      "network": {
-        "title": "网络",
-        "text": "从100%锁定开始，并为每个给予社区的奖励解锁"
-      },
-      "reserves": {
-        "title": "储备",
-        "text": "100%锁定1年"
-      },
-      "liquidity": {
-        "title": "流动性",
-        "text": "上市时100%解锁"
-      },
-      "marketing": {
-        "title": "市场营销",
-        "text": "50%解锁，每月解锁10%"
-      }
-    },
-    "utility": {
-      "headline": "代币效益",
-      "title": "与股东分享公司的成功",
-      "text": "$YOUR使用 <b>智能奖励</b>, <b>买回</b> 和 <b>下注机制</b> 来支持$YOUR代币的价值，并与持有者分享公司的成功",
-      "list": {
-        "earn": {
-          "title": "赚取$YOUR代币",
-          "text": "为协议的发展和维护做出贡献的内容创建者、管理员、节点和开发人员将获得$YOUR代币奖励"
+    "cta": "推出产品",
+    "countdown": {
+        "d": {
+            "one": "1天",
+            "other": "天"
         },
-        "pools": {
-          "title": "连续回购周期",
-          "text": "内容分发dapp购买$YOUR令牌来流式传输内容，以及内容创建dapp购买$YOUR令牌来存储和控制内容"
+        "h": {
+            "one": "1小时",
+            "other": "小时"
         },
-        "staking": {
-          "title": "持有的好处",
-          "text": "协议用户必须押注$YOUR令牌才能访问内容功能，并且还将获得长期押注的APY"
+        "m": {
+            "one": "1分钟",
+            "other": "分钟"
+        },
+        "s": {
+            "one": "1秒钟",
+            "other": "秒钟"
         }
-      }
+    },
+    "intro": {
+        "title": "Web3电子商务的未来",
+        "text": "YOUR通过实现高质量产品内容的无缝流式传输来扩展电子商务体验的内容层。",
+        "asSeen": "如下所见",
+        "poweredBy": "以下提供支持",
+        "countdown": "倒计时",
+        "idoLaunch": "IDO发布"
+    },
+    "partners": {
+        "title": "获得以下支持"
+    },
+    "vision": {
+        "header": "愿景",
+        "headline": "愿景",
+        "title": "通过我们的内容层，颠覆电子商务",
+        "text": [
+            "YOUR是一个具有影响力的Web3协议，致力于支持2026年规模庞大的8.8万亿美元电子商务市场。众多知名品牌，如苹果和三星，在在线内容控制和准确性方面面临挑战。YOUR为他们提供了全面的控制、所有权和透明度，从而解决了这些问题。通过为电子商务商店提供流式用户生成和个性化产品内容的访问权限，我们不仅显著提升了购物体验，还实现了转化率的显著提升。"
+        ]
+    },
+    "product": {
+        "header": "产品",
+        "headline": "产品",
+        "title": "流媒体和创作去中心化应用（dApp）",
+        "text": [
+            "在三款革命性的协议应用程序、强大的软件开发工具包（SDK）以及一个专为全球每个商店提供流式产品内容的Shopify应用程序的共同助力下，我们迎来了成立一周年的重要里程碑。此外，我们的内容编辑应用程序已经全面投入运营，并得到了2000多位内容创作者的积极使用，他们通过这一平台策划和创建用户生成的内容。",
+            "作为Google创业计划的成员，我们已获得Google Cloud的资助。欢迎加入我们，共同开启一段充满创新与成功的新篇章！"
+        ]
+    },
+    "products": {
+        "shopify": {
+            "title": "Shopify应用",
+            "text": "我们与Shopify紧密合作，为您的网店提供无缝的产品内容流，助力提升用户体验。"
+        },
+        "sdk": {
+            "title": "代码集成",
+            "text": "借助我们的软件开发工具包（SDK），轻松实现动态产品页面内容的集成，确保与全球领先平台如Salesforce等的兼容性。"
+        },
+        "create": {
+            "title": "创作应用",
+            "text": "我们的内容编辑应用拥有2000多位活跃的内容创作者，他们致力于策划和创建用户生成的内容，为您的网店增添活力。"
+        }
+    },
+    "growth": {
+        "title": "世界上最全面的内容解决方案",
+        "headline": "内容增长",
+        "text": "每天都有新的产品内容。"
+    },
+    "tokenomics": {
+        "header": "代币",
+        "title": "代币经济学",
+        "share": {
+            "preSeed": {
+                "title": "种子轮前期投资",
+                "text": "上市时解锁5%，之后每月解锁5%。"
+            },
+            "seed": {
+                "title": "种子轮",
+                "text": "上市时解锁5%，之后每月解锁7.5%。"
+            },
+            "publicSale": {
+                "title": "公开销售",
+                "text": "上市时解锁40%，之后每月解锁20%。"
+            },
+            "team": {
+                "title": "团队",
+                "text": "锁定100%持续6个月，之后每月解锁10%。"
+            },
+            "advisors": {
+                "title": "顾问",
+                "text": "锁定100%持续6个月，之后每月解锁10%。"
+            },
+            "network": {
+                "title": "网络",
+                "text": "初始为100%锁定，每次给社区奖励时解锁。"
+            },
+            "reserves": {
+                "title": "储备",
+                "text": "锁定100%持续1年。"
+            },
+            "liquidity": {
+                "title": "流动性",
+                "text": "上市时100%解锁。"
+            },
+            "marketing": {
+                "title": "营销",
+                "text": "解锁50%，每月解锁10%。"
+            }
+        },
+        "utility": {
+            "headline": "代币效用",
+            "title": "与持有人分享公司的成功",
+            "text": "$YOUR利用<b>智能奖励</b>、<b>回购</b>和<b>质押机制</b>来支撑$YOUR代币的价值，并与持有人分享公司的成功。",
+            "list": {
+                "earn": {
+                    "title": "赚取$YOUR代币",
+                    "text": "内容创作者、策展人、节点和开发者对协议做出贡献将获得$YOUR代币作为奖励。"
+                },
+                "pools": {
+                    "title": "持续回购周期",
+                    "text": "内容分发去中心化应用（dApp）购买$YOUR代币以流式传输内容，内容创作去中心化应用（dApp）购买$YOUR代币以存储和控制内容。"
+                },
+                "staking": {
+                    "title": "持有的好处",
+                    "text": "为了获得内容功能，协议用户需要抵押$YOUR代币。此外，他们还将享有长期质押的年化收益率。"
+                }
+            }
+        }
+    },
+    "roadmap": {
+        "title": "路线图",
+        "list": [
+            {
+                "title": "2023年",
+                "actions": [
+                    "私募销售",
+                    "中心化基础设施",
+                    "发布的应用程序",
+                    "Shopify合作伙伴关系"
+                ]
+            },
+            {
+                "title": "Q1 - 2024",
+                "actions": [
+                    "首次代币发行（IDO）销售",
+                    "代币上市",
+                    "协议测试网络",
+                    "质押平台",
+                    "商店合作伙伴关系"
+                ]
+            },
+            {
+                "title": "Q2 - 2024",
+                "actions": [
+                    "AI内容层",
+                    "存储节点网络",
+                    "商店合作伙伴关系"
+                ]
+            },
+            {
+                "title": "Q3/Q4 - 2024",
+                "actions": [
+                    "增长协议去中心化应用（dApp)",
+                    "个性化引擎",
+                    "协议主网"
+                ]
+            }
+        ]
+    },
+    "team": {
+        "header": "团队",
+        "title": "核心团队"
+    },
+    "advisors": {
+        "title": "顾问"
+    },
+    "faq": {
+        "header": "常见问题",
+        "title": "常见问题"
+    },
+    "join": {
+        "title": "加入我们的旅程",
+        "text": "加入等待名单，优先体验首次预售"
+    },
+    "footer": {
+        "description": "YOUR协议为未来的产品内容构建Web3基础",
+        "blocks": {
+            "tokens": {
+                "title": "购买代币",
+                "links": [
+                    {
+                        "text": "即将推出",
+                        "url": "#"
+                    }
+                ]
+            },
+            "earn": {
+                "title": "赚取代币",
+                "links": [
+                    {
+                        "text": "创作以赚取代币",
+                        "route": "内容创作者"
+                    },
+                    {
+                        "text": "质押以赚取代币",
+                        "url": "#"
+                    }
+                ]
+            },
+            "company": {
+                "title": "公司",
+                "links": [
+                    {
+                        "text": "关于我们",
+                        "route": "U安于内容"
+                    },
+                    {
+                        "text": "学习中心",
+                        "url": "https://info.your.io"
+                    },
+                    {
+                        "text": "博客",
+                        "url": "https://yourprotocol.medium.com"
+                    }
+                ]
+            },
+            "communities": {
+                "title": "社区",
+                "links": [
+                    {
+                        "text": "🇺🇸 英语",
+                        "url": "https://t.me/your_community"
+                    },
+                    {
+                        "text": "🇰🇷 韩语",
+                        "url": "https://t.me/your_community"
+                    },
+                    {
+                        "text": "🇹🇷 土耳其语",
+                        "url": "https://t.me/your_community"
+                    },
+                    {
+                        "text": "🇷🇺 俄语",
+                        "url": "https://t.me/your_community"
+                    }
+                ]
+            }
+        }
     }
-  },
-  "roadmap": {
-    "title": "路线图",
-    "list": [
-      {
-        "title": "2023",
-        "actions": [
-          "非公开出售",
-          "集中式基础设施",
-          "应用上市",
-          "Shopify合作伙伴"
-        ]
-      },
-      {
-        "title": "Q1 - 2024",
-        "actions": ["IDO售卖", "代币上市", "协议测试网", "下注平台", "商店合作"]
-      },
-      {
-        "title": "Q2 - 2024",
-        "actions": ["AI内容层", "存储节点网络", "商店合作伙伴关系"]
-      },
-      {
-        "title": "Q3/Q4 - 2024",
-        "actions": ["增长协议dApp", "个性化引擎", "协议主网"]
-      }
-    ]
-  },
-  "team": {
-    "header": "团队",
-    "title": "核心团队"
-  },
-  "advisors": {
-    "title": "顾问"
-  },
-  "faq": {
-    "header": "FAQ",
-    "title": "FAQ"
-  },
-  "join": {
-    "title": "加入我们的旅程",
-    "text": "请加入提前参加第一次预售的等候名单"
-  },
-  "footer": {
-    "description": "YOUR协议为未来的产品内容建立了web3的基础",
-    "blocks": {
-      "tokens": {
-        "title": "购买代币",
-        "links": [
-          {
-            "text": "即将到来",
-            "url": "#"
-          }
-        ]
-      },
-      "earn": {
-        "title": "赚取代币",
-        "links": [
-          {
-            "text": "创建获得",
-            "route": "内容 内容作者"
-          },
-          {
-            "text": "股份获得",
-            "url": "#"
-          }
-        ]
-      },
-      "company": {
-        "title": "公司",
-        "links": [
-          {
-            "text": "关于我们",
-            "route": "关于内容"
-          },
-          {
-            "text": "学习中心",
-            "url": "https://info.your.io"
-          },
-          {
-            "text": "博客",
-            "url": "https://yourprotocol.medium.com"
-          }
-        ]
-      },
-      "communities": {
-        "title": "社区",
-        "links": [
-          {
-            "text": "🇺🇸 英语",
-            "url": "https://t.me/your_community"
-          },
-          {
-            "text": "🇰🇷 韩语",
-            "url": "https://t.me/your_community"
-          },
-          {
-            "text": "🇹🇷 土耳其语",
-            "url": "https://t.me/your_community"
-          },
-          {
-            "text": "🇷🇺 俄语",
-            "url": "https://t.me/your_community"
-          }
-        ]
-      }
-    }
-  }  
 }
