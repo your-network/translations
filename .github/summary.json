@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73250,
+    "characters": 73255,
     "files": [
       {
         "characters": 131,
@@ -3060,7 +3060,7 @@
         "words": 9
       },
       {
-        "characters": 31,
+        "characters": 36,
         "locale": "zh",
         "path": "~content/BlockContentTypes.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/BlockContentTypes.json",
