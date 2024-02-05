@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73229,
+    "characters": 73195,
     "files": [
       {
         "characters": 131,
@@ -3746,11 +3746,11 @@
         "words": 33
       },
       {
-        "characters": 47,
+        "characters": 13,
         "locale": "zh",
         "path": "SelectDaterange.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/SelectDaterange.json",
-        "words": 11
+        "words": 6
       },
       {
         "characters": 61,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11231
+    "words": 11226
   }
 }
