@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73195,
+    "characters": 73183,
     "files": [
       {
         "characters": 131,
@@ -3704,11 +3704,11 @@
         "words": 5
       },
       {
-        "characters": 16,
+        "characters": 4,
         "locale": "zh",
         "path": "ReadMore.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/ReadMore.json",
-        "words": 4
+        "words": 2
       },
       {
         "characters": 215,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11226
+    "words": 11224
   }
 }
