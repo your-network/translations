@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73111,
+    "characters": 73203,
     "files": [
       {
         "characters": 131,
@@ -2934,7 +2934,7 @@
         "words": 16
       },
       {
-        "characters": 278,
+        "characters": 370,
         "locale": "zh",
         "path": "~content/~build-dapps-signup.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/~build-dapps-signup.json",
