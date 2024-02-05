@@ -1,38 +1,38 @@
 {
-  "title": "Sign in",
-  "subtitle": "Hey you, welcome back!",
-  "continue": "Please sign in to continue.",
-  "labels": {
-    "remember": "Stay signed in"
-  },
-  "placeholders": {
-    "userName": "Your email",
-    "password": "Password"
-  },
-  "errors": {
-    "userName": {
-      "required": "Email is required",
-      "email": "Please provide a valid email address"
+    "title": "登录",
+    "subtitle": "嗨，欢迎回来！",
+    "continue": "请登录以继续使用。",
+    "labels": {
+        "remember": "保持登录状态"
     },
-    "password": {
-      "required": "Password is required",
-      "wrong": "Whoops, the password you entered is incorrect",
-      "generic": "The combination of username and password is not valid"
-    }
-  },
-  "submit": "Sign in",
-  "ok": "Signed in succesfully",
-  "fail": "Something went wrong while signin you in.",
-  "failUnverified": {
-    "title": "Your email has not been verified",
-    "text": "If you have not received the code, <button>click here to resend the verification email</button>"
-  },
-  "okUnverified": {
-    "title": "Email sent!",
-    "text": "Please check your inbox and click the verification link to get back into your account."
-  },
-  "or": "or",
-  "forgotPassword": "Forgot password?",
-  "back": "Back",
-  "backHome": "Back home"
+    "placeholders": {
+        "userName": "您的邮箱",
+        "password": "密码"
+    },
+    "errors": {
+        "userName": {
+            "required": "邮箱必填",
+            "email": "请提供有效的电子邮件地址"
+        },
+        "password": {
+            "required": "密码必填",
+            "wrong": "糟糕，您输入的密码不正确",
+            "generic": "用户名和密码的组合无效"
+        }
+    },
+    "submit": "登录",
+    "ok": "登录成功",
+    "fail": "登录时出现问题。",
+    "failUnverified": {
+        "title": "您的邮箱尚未验证",
+        "text": "如果您没有收到验证码，请<button>点击此处重新发送验证电子邮件</button>"
+    },
+    "okUnverified": {
+        "title": "邮件已发送！",
+        "text": "请检查您的收件箱并点击验证链接以重新访问您的账户。"
+    },
+    "or": "或",
+    "forgotPassword": "忘记密码？",
+    "back": "返回",
+    "backHome": "返回主页"
 }
