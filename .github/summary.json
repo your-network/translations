@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73218,
+    "characters": 73203,
     "files": [
       {
         "characters": 131,
@@ -2948,7 +2948,7 @@
         "words": 31
       },
       {
-        "characters": 314,
+        "characters": 299,
         "locale": "zh",
         "path": "~content/~build-developers.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/~build-developers.json",
