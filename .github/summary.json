@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73356,
+    "characters": 73221,
     "files": [
       {
         "characters": 131,
@@ -3375,11 +3375,11 @@
         "words": 14
       },
       {
-        "characters": 181,
+        "characters": 46,
         "locale": "zh",
         "path": "AlertEmailUnconfirmed.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/AlertEmailUnconfirmed.json",
-        "words": 33
+        "words": 4
       },
       {
         "characters": 49,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11392
+    "words": 11363
   }
 }
