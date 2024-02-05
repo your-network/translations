@@ -1,8 +1,8 @@
 {
   "seo": {
-    "title": "404 - Not found"
+    "title": "404 - 未找到"
   },
-  "title": "404, page not found",
-  "text": "We could not find this page on our servers",
-  "cta": "Back home"
+  "title": "404，页面未找到",
+  "text": "我们在服务器上找不到此页面",
+  "cta": "返回主页"
 }
