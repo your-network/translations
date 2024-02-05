@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73255,
+    "characters": 73457,
     "files": [
       {
         "characters": 131,
@@ -3025,11 +3025,11 @@
         "words": 1
       },
       {
-        "characters": 2912,
+        "characters": 3114,
         "locale": "zh",
         "path": "~content/~shops.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/~shops.json",
-        "words": 121
+        "words": 87
       },
       {
         "characters": 2912,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11323
+    "words": 11289
   }
 }
