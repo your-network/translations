@@ -1,8 +1,8 @@
 {
-  "title": "Ready to improve your products?",
-  "usps": ["Largest content database", "Download in 5 minutes"],
+  "title": "准备好改进您的产品了？",
+  "usps": ["最大的内容数据库", "5分钟内下载"],
   "cta": {
-    "demo": "Book a demo",
-    "about": "About us"
+    "demo": "预约演示",
+    "about": "关于我们"
   }
 }
