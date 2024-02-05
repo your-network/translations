@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73267,
+    "characters": 73356,
     "files": [
       {
         "characters": 131,
@@ -2927,7 +2927,7 @@
         "words": 18
       },
       {
-        "characters": 421,
+        "characters": 510,
         "locale": "zh",
         "path": "~content/~build-dapps-content-distribution.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/~build-dapps-content-distribution.json",
