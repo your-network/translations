@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73199,
+    "characters": 73218,
     "files": [
       {
         "characters": 131,
@@ -3011,11 +3011,11 @@
         "words": 384
       },
       {
-        "characters": 77,
+        "characters": 96,
         "locale": "zh",
         "path": "~content/~pricing.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/~pricing.json",
-        "words": 10
+        "words": 11
       },
       {
         "characters": 4,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11355
+    "words": 11356
   }
 }
