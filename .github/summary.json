@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 69764,
+    "characters": 69732,
     "files": [
       {
         "characters": 131,
@@ -3382,11 +3382,11 @@
         "words": 4
       },
       {
-        "characters": 49,
+        "characters": 17,
         "locale": "zh",
         "path": "AnnouncementLaunch.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/AnnouncementLaunch.json",
-        "words": 9
+        "words": 3
       },
       {
         "characters": 139,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 10998
+    "words": 10992
   }
 }
