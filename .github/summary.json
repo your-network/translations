@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73464,
+    "characters": 73357,
     "files": [
       {
         "characters": 131,
@@ -2969,11 +2969,11 @@
         "words": 21
       },
       {
-        "characters": 158,
+        "characters": 51,
         "locale": "zh",
         "path": "~content/~community-governance.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/~community-governance.json",
-        "words": 28
+        "words": 14
       },
       {
         "characters": 8,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11291
+    "words": 11277
   }
 }
