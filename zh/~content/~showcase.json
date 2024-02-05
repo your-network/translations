@@ -1,36 +1,36 @@
 {
-  "seo": {
-    "title": "将您的在线商店提升至全新水平",
-    "description": "借助全球领先的内容解决方案，全面提升您的产品页面质量。",
-    "keywords": ""
-  },
-  "intro": {
-    "title": "将您的在线商店提升到新的水平",
-    "cta": "显示全屏对比"
-  },
-  "ready": {
-    "title": "准备提升您的产品页面？",
-    "cta": "开始"
-  },
-  "comparison": {
-    "before": "使用前",
-    "after": "使用后",
-    "description": {
-      "title": "关于产品",
-      "all": "显示更多"
+    "seo": {
+        "title": "将您的在线商店提升至全新水平",
+        "description": "借助全球领先的内容解决方案，全面提升您的产品页面质量。",
+        "keywords": ""
     },
-    "image": {
-      "all": "显示所有图片"
+    "intro": {
+        "title": "将您的在线商店提升到新的水平",
+        "cta": "显示全屏对比"
     },
-    "prosCons": {
-      "title": "优点和缺点",
-      "all": "显示所有优点和缺点"
+    "ready": {
+        "title": "准备提升您的产品页面？",
+        "cta": "开始"
     },
-    "reasonsToBuy": {
-      "all": "显示更多"
-    },
-    "review": {
-      "title": "评论"
+    "comparison": {
+        "before": "使用前",
+        "after": "使用后",
+        "description": {
+            "title": "关于产品",
+            "all": "显示更多"
+        },
+        "image": {
+            "all": "显示所有图片"
+        },
+        "prosCons": {
+            "title": "优点和缺点",
+            "all": "显示所有优点和缺点"
+        },
+        "reasonsToBuy": {
+            "all": "显示更多"
+        },
+        "review": {
+            "title": "评论"
+        }
     }
-  }
 }
