@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73221,
+    "characters": 73199,
     "files": [
       {
         "characters": 131,
@@ -3368,11 +3368,11 @@
         "words": 6
       },
       {
-        "characters": 55,
+        "characters": 33,
         "locale": "zh",
         "path": "500.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/500.json",
-        "words": 14
+        "words": 6
       },
       {
         "characters": 46,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11363
+    "words": 11355
   }
 }
