@@ -1,10 +1,10 @@
 {
-  "labels": {
-    "thisYear": "This year",
-    "thisMonth": "This month",
-    "lastMonth": "Last month",
-    "thisWeek": "This week",
-    "lastWeek": "Last week",
-    "today": "Today"
-  }
+    "labels": {
+        "thisYear": "今年",
+        "thisMonth": "本月",
+        "lastMonth": "上个月",
+        "thisWeek": "本周",
+        "lastWeek": "上周",
+        "today": "今天"
+    }
 }
