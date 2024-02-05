@@ -1,8 +1,8 @@
 {
-  "title": "Unverified email",
-  "text": "Please click the verification link in your inbox. Haven't received it? <button>Click here to resend it to {{ email }}</button>.",
+  "title": "未验证的电子邮件",
+  "text": "电子邮件</button>。",
   "okResend": {
-    "title": "Email sent!",
-    "text": "Please check your inbox and click the verification link."
+    "title": "电子邮件已发送！",
+    "text": "请检查您的收件箱并点击验证链接。"
   }
 }
