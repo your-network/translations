@@ -1,13 +1,13 @@
 {
-  "searchPlaceholder": "Search",
-  "noOptionsAvailale": "No options available",
-  "allSelected": "All",
-  "selected": "{{ count }} selected",
-  "selected_one": "{{ count }} selected",
-  "selected_other": "{{ count }} selected",
-  "results": "{{ count }} results",
-  "results_one": "{{ count }} result",
-  "results_other": "{{ count }} results",
-  "noMoreResults": "No more results",
-  "loading": "Loading..."
+    "searchPlaceholder": "搜索",
+    "noOptionsAvailale": "没有可用选项",
+    "allSelected": "全部",
+    "selected": "选择了 {{ count }} 个",
+    "selected_one": "选择了 {{ count }} 个",
+    "selected_other": "选择了 {{ count }} 个",
+    "results": "{{ count }} 个结果",
+    "results_one": "{{ count }} 个结果",
+    "results_other": " {{ count }} 个结果",
+    "noMoreResults": "没有更多结果",
+    "loading": "正在加载..."
 }
