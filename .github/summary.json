@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73457,
+    "characters": 73464,
     "files": [
       {
         "characters": 131,
@@ -3067,11 +3067,11 @@
         "words": 9
       },
       {
-        "characters": 155,
+        "characters": 162,
         "locale": "zh",
         "path": "~content/BlockStartStreaming.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/BlockStartStreaming.json",
-        "words": 14
+        "words": 16
       },
       {
         "characters": 84,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11289
+    "words": 11291
   }
 }
