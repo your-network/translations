@@ -1,38 +1,38 @@
 {
-  "locales": "Change language",
-  "solution": {
-    "label": "Solution",
-    "shops": "For shops",
-    "creators": "For creators",
-    "start": "Get started"
-  },
-  "showcase": "Showcase",
-  "learn": "Learn",
-  "pricing": "Pricing",
-  "token": "Token",
-  "signin": "Login",
-  "demo": "Book a demo",
-  "start": "Get started",
-  "my": {
-    "label": "Account",
-    "headline": "See your profile",
-    "dashboard": "Dashboard",
-    "profile": "Edit profile",
-    "settings": "Settings",
-    "company": {
-      "fallback": "My company",
-      "profile": "{{ company }}'s profile",
-      "settings": "{{ company }}'s settings"
+    "locales": "更改语言",
+    "solution": {
+        "label": "解决方案",
+        "shops": "适用于商店",
+        "creators": "适用于创作者",
+        "start": "开始使用"
     },
-    "notifications": "Notifications",
-    "help": "Help",
-    "logout": "Logout"
-  },
-  "community": {
-    "label": "Community",
-    "users": "All users",
-    "leaderboard": "Leaderboard",
-    "creator": "Become a creator",
-    "governance": "DAO Governance"
-  }
+    "showcase": "展示",
+    "learn": "学习",
+    "pricing": "定价",
+    "token": "代币",
+    "signin": "登录",
+    "demo": "预约演示",
+    "start": "开始使用",
+    "my": {
+        "label": "账户",
+        "headline": "查看您的个人资料",
+        "dashboard": "仪表盘",
+        "profile": "编辑个人资料",
+        "settings": "设置",
+        "company": {
+            "fallback": "我的公司",
+            "profile": "{{ company }}的资料",
+            "settings": "{{ company }}的设置"
+        },
+        "notifications": "通知",
+        "help": "帮助",
+        "logout": "登出"
+    },
+    "community": {
+        "label": "社区",
+        "users": "所有用户",
+        "leaderboard": "排行榜",
+        "creator": "成为创作者",
+        "governance": "DAO治理"
+    }
 }
