@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73055,
+    "characters": 73051,
     "files": [
       {
         "characters": 131,
@@ -3508,7 +3508,7 @@
         "words": 85
       },
       {
-        "characters": 8,
+        "characters": 4,
         "locale": "zh",
         "path": "Breadcrumbs.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/Breadcrumbs.json",
