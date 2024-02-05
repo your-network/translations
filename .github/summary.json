@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 73183,
+    "characters": 73042,
     "files": [
       {
         "characters": 131,
@@ -3711,11 +3711,11 @@
         "words": 2
       },
       {
-        "characters": 215,
+        "characters": 74,
         "locale": "zh",
         "path": "Restrict.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/Restrict.json",
-        "words": 41
+        "words": 14
       },
       {
         "characters": 50,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 11224
+    "words": 11197
   }
 }
