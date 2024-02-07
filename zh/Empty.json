@@ -1,32 +1,32 @@
 {
-  "actionsTitle": "What can you do?",
-  "actionInfo": "Are you looking for information about our service? Go ask our <link>community team</link>.",
+  "actionsTitle": "您可以做什么？",
+  "actionInfo": "您是否正在寻找有关我们服务的信息？请向我们的<link>社区团队</link>提问。",
   "category": {
-    "title": "No products here",
-    "text": "Unfortunately! We don't have products for this category {{ value }} yet.",
+    "title": "此处没有产品",
+    "text": "很遗憾！我们还没有该类别{{value}}的产品。",
     "actions": [
-      "Please let us know we don't have products yet. We can add those products.",
-      "Try another category"
+      "如果我们还没有这些产品，请告诉我们。我们可以添加这些产品。",
+      "尝试其他类别"
     ]
   },
   "brand": {
-    "title": "No products here",
-    "text": "Unfortunately! We don't have products for this brand {{ value }} yet.",
+    "title": "此处没有产品",
+    "text": "很遗憾！我们还没有该品牌{{value}}的产品。",
     "actions": [
-      "Please let us know we don't have products yet. We can add those products.",
-      "Try another brand"
+      "如果我们还没有这些产品，请告诉我们。我们可以添加这些产品。",
+      "尝试其他品牌"
     ]
   },
   "search": {
-    "title": "No search results",
-    "text": "Unfortunately! We found no matches for your search {{ value }}.",
+    "title": "没有搜索结果",
+    "text": "很遗憾！我们找不到与您的搜索{{value}}相匹配的结果。",
     "actions": [
-      "Please check the spelling of your search",
-      "Try another search"
+      "请检查您的搜索拼写是否正确",
+      "再次尝试搜索"
     ]
   },
   "bare": {
-    "title": "No results",
-    "text": "Unfortunately! We found no results."
+    "title": "没有结果",
+    "text": "很遗憾！我们找不到结果。"
   }
 }
