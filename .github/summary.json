@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 65729,
+    "characters": 65674,
     "files": [
       {
         "characters": 91,
@@ -3417,11 +3417,11 @@
         "words": 3
       },
       {
-        "characters": 70,
+        "characters": 15,
         "locale": "zh",
         "path": "AuthFormSignupExtractor.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/AuthFormSignupExtractor.json",
-        "words": 9
+        "words": 3
       },
       {
         "characters": 1077,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 10169
+    "words": 10163
   }
 }
