@@ -1,59 +1,59 @@
 {
-  "subtitle": {
-    "Extractor": "Start streaming content!",
-    "Contributor": "Start creating content and earn today!"
-  },
-  "switch": {
-    "Extractor": "As shop",
-    "Contributor": "As creator"
-  },
-  "labels": {
-    "terms": "I agree to the <link>Terms & Conditions</link>"
-  },
-  "placeholders": {
-    "email": "Your Email",
-    "userName": "Your User Name",
-    "displayName": "Your Name",
-    "password": "Create Password",
-    "language": "Content language",
-    "organization": {
-      "name": "Shop"
+    "subtitle": {
+        "Extractor": "开始流媒体内容！",
+        "Contributor": "立即开始创建内容并赚取收益！"
     },
-    "website": "Website",
-    "phoneNumber": "Phone number"
-  },
-  "errors": {
-    "email": {
-      "email": "Please enter a valid email address",
-      "required": "Email is required"
+    "switch": {
+        "Extractor": "作为商家",
+        "Contributor": "作为创作者"
     },
-    "userName": {
-      "required": "Username is required",
-      "min": "Username must be at least 1 character long",
-      "allowedChars": "Please only use alphanumeric characters, underscore (_) or dot (.)"
+    "labels": {
+        "terms": "我同意 <link>条款和条件</link>"
     },
-    "displayName": {
-      "required": "Please enter a name",
-      "noSymbols": "Only letters are allowed here"
+    "placeholders": {
+        "email": "您的邮箱",
+        "userName": "您的用户名",
+        "displayName": "您的姓名",
+        "password": "创建密码",
+        "language": "内容语言",
+        "organization": {
+            "name": "商店"
+        },
+        "website": "网站",
+        "phoneNumber": "电话号码"
     },
-    "terms": {
-      "oneOf": "It is required to read and accept the terms"
+    "errors": {
+        "email": {
+            "email": "请输入有效的邮箱地址",
+            "required": "邮箱是必填项"
+        },
+        "userName": {
+            "required": "用户名是必填项",
+            "min": "用户名长度至少为1个字符",
+            "allowedChars": "只能使用字母、数字、下划线(_)或点(.)"
+        },
+        "displayName": {
+            "required": "请输入姓名",
+            "noSymbols": "此处仅允许使用字母"
+        },
+        "terms": {
+            "oneOf": "必需阅读并接受条款"
+        },
+        "organization": {
+            "name": {
+                "required": "请输入您的商店名称"
+            }
+        },
+        "website": {
+            "required": "请输入您网店的网址",
+            "url": "请输入有效的网址"
+        }
     },
-    "organization": {
-      "name": {
-        "required": "Please enter your shop name"
-      }
-    },
-    "website": {
-      "required": "Please enter the URL of your shop's website",
-      "url": "Please enter a valid URL"
+    "or": "或者",
+    "generatePassword": "生成密码",
+    "submit": "注册",
+    "ok": {
+        "title": "您收到了一封邮件！",
+        "text": "请查看您的收件箱以验证您的邮箱地址"
     }
-  },
-  "or": "or",
-  "generatePassword": "Generate password",
-  "submit": "Sign up",
-  "ok": {
-    "title": "You've got mail!",
-    "text": "Check your inbox to verify your email address"
-  }
 }
