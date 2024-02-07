@@ -1,26 +1,26 @@
 {
   "score": {
-    "title": "Content score",
+    "title": "内容评分",
     "text": [
-      "The content score is a score from 0 to 100, which indicates how well the product is enriched with content. The lower the score, the more content you can add and earn."
+      "内容评分是一个从0到100的分数，表示产品的内容丰富程度。分数越低，您可以添加的内容越多，也能获得更多收益。"
     ]
   },
   "dataExport": {
-    "title": "Content score",
+    "title": "内容评分",
     "text": [
-      "YOUR provides high-quality product content. Four values are used to characterize the content quality. Basic, good, very good and excellent. The better the score, the more content you can import."
+      "YOUR 提供高质量的产品内容。有四个值用来描述内容质量，分别是基本、良好、非常好和优秀。分数越高，您可以导入的内容就越多。"
     ]
   },
   "matchRate": {
-    "title": "Match rate",
+    "title": "匹配率",
     "text": [
-      "The match rate is based on the number of products that were found in our database. Having a percentage lower than 100% means that certain products were not found."
+      "匹配率是基于在我们的数据库中找到的产品数量。如果百分比低于100%，意味着某些产品未找到。"
     ]
   },
   "points": {
-    "title": "Points",
+    "title": "积分",
     "text": [
-      "Earn points by contributing content to YOUR. Reach higher levels as you earn points for your contributions such as product photo's, reviews and videos."
+      "通过为 YOUR 提供内容获得积分。通过贡献产品照片、评论和视频等内容获得积分，从而提升等级。"
     ]
   }
 }
