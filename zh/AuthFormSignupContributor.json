@@ -1,5 +1,5 @@
 {
-  "submit": "Sign up",
-  "ok": "Sign up was successfull.",
-  "fail": "Something went wrong while signin up"
+    "submit": "注册",
+    "ok": "注册成功。",
+    "fail": "注册时出现了问题。"
 }
