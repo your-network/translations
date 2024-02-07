@@ -1,21 +1,21 @@
 {
-  "comingSoon": "Coming soon",
-  "backToWiki": "Back to your.io",
+  "comingSoon": "即将推出",
+  "backToWiki": "返回 your.io",
   "help": "https://info.your.io/hc/en-nl/categories/6973654027293-FAQ",
-  "close": "Close",
+  "close": "关闭",
   "theme": {
-    "light": "Light",
-    "dark": "Dark"
+    "light": "光亮",
+    "dark": "黑暗"
   },
-  "buy": "Buy",
+  "buy": "购买",
   "docx": {
     "privacy": {
-      "title": "Privacy policy",
-      "close": "Close"
+      "title": "隐私政策",
+      "close": "关闭"
     },
     "terms": {
-      "title": "Terms of use",
-      "close": "Close"
+      "title": "使用条款",
+      "close": "关闭"
     }
   }
 }
