@@ -1,140 +1,140 @@
 {
-  "cta": {
-    "startToday": "Start today",
-    "current": "Current plan"
-  },
-  "types": {
-    "beginner": {
-      "label": "Free",
-      "title": "Beginner",
-      "payoff": "The basics",
-      "price": "<price>{{ price }}</price> / Free",
-      "cta": ""
+    "cta": {
+        "startToday": "立即开始",
+        "current": "当前计划"
     },
-    "start": {
-      "label": "Full",
-      "title": "Start",
-      "payoff": "All you need",
-      "price": "from <price>{{ price }}</price> / monthly",
-      "cta": ""
-    },
-    "optimize": {
-      "label": "Most popular",
-      "title": "Optimise",
-      "payoff": "Content optimisation",
-      "price": "from <price>{{ price }}</price> / monthly",
-      "cta": "Talk to sales"
-    },
-    "personalize": {
-      "label": "Professional",
-      "title": "Personalise",
-      "payoff": "Content personalisation",
-      "price": "Talk to sales",
-      "cta": "Talk to sales"
-    }
-  },
-  "features": {
-    "SubscriptionBase": {
-      "title": "Up to {{ countT }} requests"
-    },
-    "FreeRequests": {
-      "title": "Up to {{ countT }} requests"
-    },
-    "PaidRequests": {
-      "title": "Up to {{ countT }} paid requests"
-    },
-    "SubscriptionRequests": {
-      "title": "Up to {{ countT }} requests"
-    },
-    "Content": {
-      "title": "Content"
-    },
-    "Language": {
-      "title": "",
-      "one": "1 language",
-      "other": "{{ countT }}+ languages"
-    },
-    "AllLanguages": {
-      "title": "All languages"
-    },
-    "OneLanguage": {
-      "title": "1 language"
-    },
-    "Brand": {
-      "title": "One brand"
-    },
-    "AllBrands": {
-      "title": "All brands",
-      "one": "1 brand",
-      "other": "{{ countT }} brands"
-    },
-    "Implementation": {
-      "title": "Implementation"
-    },
-    "ConversionIntegration": {
-      "title": "Conversion integration"
-    },
-    "PerformanceOptimisation": {
-      "title": "Performance optimisation"
-    },
-    "Support": {
-      "title": "Support"
-    },
-    "Personalisation": {
-      "title": "AI personalisation engine"
-    },
-    "AccountManager": {
-      "title": "Dedicated accountmanager"
-    },
-    "ProductFeed": {
-      "title": "Product feed"
-    },
-    "EnrichmentRequests": {
-      "title": "Multiple content profiles"
-    },
-    "ContentCustomization": {
-      "title": "AI personalisation engine"
-    },
-    "AudienceIntegration": {
-      "title": "Audience integration"
-    },
-    "$requests": {
-      "title": "Up to {{ countT }} requests"
-    },
-    "$brands": {
-      "title": {
-        "one": "1 brand",
-        "other": "{{ countT }} brands"
-      },
-      "titleAll": "All brands included"
-    },
-    "$languages": {
-      "title": {
-        "one": "1 language",
-        "other": "{{ countT }}+ languages"
-      },
-      "titleAll": "All languages"
-    },
-    "$content": {
-      "title": "All basic content",
-      "title+": "All basic + user generated content"
-    }
-  },
-  "content": {
-    "and": "and",
     "types": {
-      "description": "Descriptions",
-      "prosCons": "Pros & cons",
-      "image": "Images",
-      "review": "Reviews",
-      "specs": "Specifications",
-      "reasonsToBuy": "Reasons to buy",
-      "video": "Videos",
-      "pdf": "Manuals",
-      "news": "Articles",
-      "qa": "Question & answers",
-      "energy": "Energy label",
-      "title": "Title"
+        "beginner": {
+            "label": "免费",
+            "title": "新手",
+            "payoff": "基础知识",
+            "price": "<price>{{ price }}</price> / 免费",
+            "cta": ""
+        },
+        "start": {
+            "label": "完整",
+            "title": "开始",
+            "payoff": "您所需的一切",
+            "price": " <price>{{ price }}</price> /月起",
+            "cta": ""
+        },
+        "optimize": {
+            "label": "最受欢迎",
+            "title": "优化",
+            "payoff": "内容优化",
+            "price": " <price>{{ price }}</price> /月起",
+            "cta": "与销售人员沟通"
+        },
+        "personalize": {
+            "label": "专业版",
+            "title": "个性化",
+            "payoff": "内容个性化",
+            "price": "与销售人员沟通",
+            "cta": "与销售人员沟通"
+        }
+    },
+    "features": {
+        "SubscriptionBase": {
+            "title": "最多{{ countT }}个请求"
+        },
+        "FreeRequests": {
+            "title": "最多{{ countT }}个请求"
+        },
+        "PaidRequests": {
+            "title": "最多{{ countT }}个付费请求"
+        },
+        "SubscriptionRequests": {
+            "title": "最多{{ countT }}个请求"
+        },
+        "Content": {
+            "title": "内容"
+        },
+        "Language": {
+            "title": "",
+            "one": "1种语言",
+            "other": "超过{{ countT }} 种语言"
+        },
+        "AllLanguages": {
+            "title": "所有语言"
+        },
+        "OneLanguage": {
+            "title": "1种语言"
+        },
+        "Brand": {
+            "title": "一个品牌"
+        },
+        "AllBrands": {
+            "title": "所有品牌",
+            "one": "1个品牌",
+            "other": "{{ countT }}个品牌"
+        },
+        "Implementation": {
+            "title": "实施"
+        },
+        "ConversionIntegration": {
+            "title": "转化集成"
+        },
+        "PerformanceOptimisation": {
+            "title": "性能优化"
+        },
+        "Support": {
+            "title": "支持"
+        },
+        "Personalisation": {
+            "title": "AI个性化引擎"
+        },
+        "AccountManager": {
+            "title": "专属客户经理"
+        },
+        "ProductFeed": {
+            "title": "产品数据源"
+        },
+        "EnrichmentRequests": {
+            "title": "多个内容配置文件"
+        },
+        "ContentCustomization": {
+            "title": "AI个性化引擎"
+        },
+        "AudienceIntegration": {
+            "title": "受众集成"
+        },
+        "$requests": {
+            "title": "最多{{ countT }}个请求"
+        },
+        "$brands": {
+            "title": {
+                "one": "1个品牌",
+                "other": "{{ countT }}个品牌"
+            },
+            "titleAll": "包括所有品牌"
+        },
+        "$languages": {
+            "title": {
+                "one": "1种语言",
+                "other": "超过{{ countT }}种语言"
+            },
+            "titleAll": "所有语言"
+        },
+        "$content": {
+            "title": "所有基础内容",
+            "title+": "所有基础内容 + 用户生成内容"
+        }
+    },
+    "content": {
+        "and": "和",
+        "types": {
+            "description": "描述",
+            "prosCons": "优点和缺点",
+            "image": "图片",
+            "review": "评论",
+            "specs": "规格",
+            "reasonsToBuy": "购买原因",
+            "video": "视频",
+            "pdf": "手册",
+            "news": "文章",
+            "qa": "常见问答",
+            "energy": "能效标签",
+            "title": "标题"
+        }
     }
-  }
 }
