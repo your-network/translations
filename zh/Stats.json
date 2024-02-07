@@ -1,22 +1,22 @@
 {
-  "Brand": {
-    "label": "Brands",
-    "value": ""
-  },
-  "Category": {
-    "label": "Categories",
-    "value": ""
-  },
-  "Changeset": {
-    "label": "Content edits",
-    "value": ""
-  },
-  "Product": {
-    "label": "Products",
-    "value": "{{ number }} million"
-  },
-  "UserContributor": {
-    "label": "Creators",
-    "value": ""
-  }
+    "Brand": {
+        "label": "品牌",
+        "value": ""
+    },
+    "Category": {
+        "label": "类别",
+        "value": ""
+    },
+    "Changeset": {
+        "label": "内容编辑",
+        "value": ""
+    },
+    "Product": {
+        "label": "产品",
+        "value": "{{number}}百万"
+    },
+    "UserContributor": {
+        "label": "创作者",
+        "value": ""
+    }
 }
