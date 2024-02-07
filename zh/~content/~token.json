@@ -65,10 +65,14 @@
             "text": "我们的内容编辑应用拥有2000多位活跃的内容创作者，他们致力于策划和创建用户生成的内容，为您的网店增添活力。"
         }
     },
-    "growth": {
-        "title": "世界上最全面的内容解决方案",
-        "headline": "内容增长",
-        "text": "每天都有新的产品内容。"
+    "protocol": {
+      "title": "World's first content layer for Web3 e-commerce",
+      "headline": "YOUR protocol",
+      "text": [
+        "BRC-20 tokenisation of content assets",
+        "Smart reward mechanism for protocol contributors",
+        "AI-driven personalised product content"
+      ]
     },
     "tokenomics": {
         "header": "代币",
@@ -130,6 +134,15 @@
                 }
             }
         }
+    },
+    "security": {
+      "headline": "Security",
+      "title": "Battle-tested smart contract",
+      "text": [
+        "We're excited to share that Zokyo, a leading Web3 cybersecurity firm, has successfully audited our smart contract.",
+        "With their expertise, we can confidently state that our smart contract meets the highest security standards, reinforcing our commitment to the safety and trust of our community."
+      ],
+      "cta": "Read report"
     },
     "roadmap": {
         "title": "路线图",
