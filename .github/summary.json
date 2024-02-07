@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 65674,
+    "characters": 65645,
     "files": [
       {
         "characters": 91,
@@ -3515,11 +3515,11 @@
         "words": 2
       },
       {
-        "characters": 89,
+        "characters": 60,
         "locale": "zh",
         "path": "CardHowTo.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/CardHowTo.json",
-        "words": 12
+        "words": 6
       },
       {
         "characters": 72,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 10163
+    "words": 10157
   }
 }
