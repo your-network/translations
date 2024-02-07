@@ -1,7 +1,7 @@
 {
-  "title": "Sign up. Create content. Earn money.",
-  "text": "Join other creators around the world creating product information",
-  "text2": "Join <number></number> other creators today.",
-  "ctaSignup": "Create an account",
-  "ctaCreator": "Become a creator"
+    "title": "注册。创作内容。赚钱。",
+    "text": "加入全球其他创作者创作产品信息",
+    "text2": "立即加入其他<number></number>位创作者。",
+    "ctaSignup": "创建账户",
+    "ctaCreator": "成为创作者"
 }
