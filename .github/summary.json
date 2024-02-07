@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 64791,
+    "characters": 64697,
     "files": [
       {
         "characters": 91,
@@ -3690,11 +3690,11 @@
         "words": 1
       },
       {
-        "characters": 157,
+        "characters": 63,
         "locale": "zh",
         "path": "PromptAuthDialogFooter.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/PromptAuthDialogFooter.json",
-        "words": 26
+        "words": 5
       },
       {
         "characters": 33,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 9906
+    "words": 9885
   }
 }
