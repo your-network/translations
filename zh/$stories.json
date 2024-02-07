@@ -1,11 +1,11 @@
 {
-  "all": [
-    {
-      "text": "Without the ability to collect public web data from the internet, we are unable to know when a brand was present across all mediums, there's no way that we could keep <b>growing</b> at the speed in which we are without Bright Data's <b>support</b>",
-      "author": {
-        "name": "Sarah Melville",
-        "about": "Media Director at Otto"
-      }
-    }
-  ]
+    "all": [
+        {
+            "text": "如果没有从互联网上收集公共网页数据的能力，我们将无法全面了解某个品牌在各种媒体上的出现情况。如果没有Bright Data的<b>支持</b>，我们无法以当前的速度继续保持<b>增长</b>态势。",
+            "author": {
+                "name": "莎拉·梅尔维尔",
+                "about": "Otto媒体总监"
+            }
+        }
+    ]
 }
