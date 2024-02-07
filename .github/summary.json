@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 65604,
+    "characters": 65587,
     "files": [
       {
         "characters": 91,
@@ -3529,11 +3529,11 @@
         "words": 3
       },
       {
-        "characters": 29,
+        "characters": 12,
         "locale": "zh",
         "path": "ContentScore.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/ContentScore.json",
-        "words": 6
+        "words": 5
       },
       {
         "characters": 55,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 10143
+    "words": 10142
   }
 }
