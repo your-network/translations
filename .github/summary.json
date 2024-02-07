@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 65645,
+    "characters": 65604,
     "files": [
       {
         "characters": 91,
@@ -3522,11 +3522,11 @@
         "words": 6
       },
       {
-        "characters": 72,
+        "characters": 31,
         "locale": "zh",
         "path": "ComingSoon.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/ComingSoon.json",
-        "words": 17
+        "words": 3
       },
       {
         "characters": 29,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 10157
+    "words": 10143
   }
 }
