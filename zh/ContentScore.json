@@ -1,7 +1,7 @@
 {
-  "excellent": "Excellent",
-  "veryGood": "Very good",
-  "good": "Good",
-  "basic": "Basic",
-  "unknown": "N/A"
+    "excellent": "优秀",
+    "veryGood": "非常好",
+    "good": "良好",
+    "basic": "一般",
+    "unknown": "N/A"
 }
