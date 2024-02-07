@@ -1,103 +1,103 @@
 {
-  "core": [
-    {
-      "slug": "ted",
-      "name": "Ted",
-      "sub": "Founder"
-    },
-    {
-      "slug": "thijmen",
-      "name": "Thijmen",
-      "sub": "Founder"
-    },
-    {
-      "slug": "kuus",
-      "name": "Kuus",
-      "sub": "Developer"
-    },
-    {
-      "slug": "dieuwertje",
-      "name": "Dieuwertje",
-      "sub": "Marketing & partnerships"
-    },
-    {
-      "slug": "aleksei",
-      "name": "Aleksei",
-      "sub": "Developer"
-    },
-    {
-      "slug": "roy",
-      "name": "Roy",
-      "sub": "Finance"
-    },
-    {
-      "slug": "dave",
-      "name": "Dave",
-      "sub": "Design"
-    },
-    {
-      "slug": "laurens",
-      "name": "Laurens",
-      "sub": "Strategy"
-    },
-    {
-      "slug": "niels",
-      "name": "Niels",
-      "sub": "Community"
-    }
-  ],
-  "others": [
-    {
-      "slug": "basar",
-      "name": "Başar",
-      "sub": "Community manager"
-    },
-    {
-      "slug": "ibrahim",
-      "name": "Ibrahim",
-      "sub": "Community specialist"
-    },
-    {
-      "slug": "ridwan",
-      "name": "Ridwan",
-      "sub": "Community specialist"
-    },
-    {
-      "slug": "ibrahim2",
-      "name": "Ibrahim",
-      "sub": "Community specialist"
-    },
-    {
-      "slug": "wolf",
-      "name": "Wolf",
-      "sub": "Happiness manager"
-    }
-  ],
-  "advisors": [
-    {
-      "slug": "kareem",
-      "name": "Kareem",
-      "sub": "Research Consultant"
-    },
-    {
-      "slug": "tote",
-      "name": "Tote",
-      "sub": "Director Magicsquare"
-    },
-    {
-      "slug": "quincy",
-      "name": "Quincy",
-      "sub": "Founder Crowny"
-    },
-    {
-      "slug": "jesse",
-      "name": "Jesse",
-      "sub": "Founder Nosana"
-    },
-    {
-      "slug": "sjoerd",
-      "name": "Sjoerd",
-      "sub": "Founder Nosana"
-    }
-  ]
+    "core": [
+        {
+            "slug": "泰德",
+            "name": "泰德",
+            "sub": "创始人"
+        },
+        {
+            "slug": "泰门",
+            "name": "泰门",
+            "sub": "创始人"
+        },
+        {
+            "slug": "库斯",
+            "name": "库斯",
+            "sub": "开发人员"
+        },
+        {
+            "slug": "迪维尔蒂",
+            "name": "迪维尔蒂",
+            "sub": "市场营销与合作伙伴关系"
+        },
+        {
+            "slug": "亚历克谢",
+            "name": "亚历克谢",
+            "sub": "开发人员"
+        },
+        {
+            "slug": "罗伊",
+            "name": "罗伊",
+            "sub": "财务"
+        },
+        {
+            "slug": "戴夫",
+            "name": "戴夫",
+            "sub": "设计"
+        },
+        {
+            "slug": "劳伦斯",
+            "name": "劳伦斯",
+            "sub": "战略"
+        },
+        {
+            "slug": "尼尔斯",
+            "name": "尼尔斯",
+            "sub": "社区"
+        }
+    ],
+    "others": [
+        {
+            "slug": "巴萨尔",
+            "name": "巴萨尔",
+            "sub": "社区经理"
+        },
+        {
+            "slug": "易卜拉欣",
+            "name": "易卜拉欣",
+            "sub": "社区专员"
+        },
+        {
+            "slug": "里德万",
+            "name": "里德万",
+            "sub": "社区专员"
+        },
+        {
+            "slug": "易卜拉欣2",
+            "name": "易卜拉欣",
+            "sub": "社区专员"
+        },
+        {
+            "slug": "沃尔夫",
+            "name": "沃尔夫",
+            "sub": "幸福经理"
+        }
+    ],
+    "advisors": [
+        {
+            "slug": "卡里姆",
+            "name": "卡里姆",
+            "sub": "研究顾问"
+        },
+        {
+            "slug": "托特",
+            "name": "托特",
+            "sub": "Magicsquare总监"
+        },
+        {
+            "slug": "昆西",
+            "name": "昆西",
+            "sub": "Crowny创始人"
+        },
+        {
+            "slug": "杰西",
+            "name": "杰西",
+            "sub": "Nosana创始人"
+        },
+        {
+            "slug": "斯约尔德",
+            "name": "斯约尔德",
+            "sub": "Nosana创始人"
+        }
+    ]
 }
