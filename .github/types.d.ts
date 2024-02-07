@@ -368,6 +368,7 @@ declare namespace Koine {
     $stories: {
       all: { text: string; author: { name: string; about: string } }[];
     };
+    $locales: { en: string; nl: string; zh: string };
     $pricing: {
       cta: { startToday: string; current: string };
       types: {
@@ -444,79 +445,7 @@ declare namespace Koine {
         };
       };
     };
-    $locales: { en: string; nl: string; zh: string };
     $faq: { home: { question: string; answer: string }[] };
-    "~tools/~feed-matcher": {
-      seo: { title: string; description: string; keywords: string };
-      title: string;
-      breadcrumbs: {
-        shops: string;
-        shop: string;
-        shopSourceNew: string;
-        shopSourceEdit: string;
-        mapAttributes: string;
-        mapAttributeGroups: string;
-        mapBrands: string;
-        mapCategories: string;
-        mapFields: string;
-      };
-      mapTo: string;
-      shops: {
-        description: string;
-        headings: {
-          id: string;
-          name: string;
-          nrSources: string;
-          created: string;
-        };
-        actions: { select: string };
-        search: { empty: string };
-      };
-      sources: {
-        headings: {
-          id: string;
-          name: string;
-          locationType: string;
-          fileType: string;
-          created: string;
-          status: string;
-          statusFields: string;
-          statusMapping: string;
-        };
-        actions: {
-          mapFields: string;
-          mapCategories: string;
-          mapBrands: string;
-          mapAttributeGroups: string;
-          mapAttributes: string;
-          addNew: string;
-        };
-        search: { empty: string };
-      };
-      sourceNew: { title: string };
-      sourceEdit: { title: string };
-      map: {
-        changes: string;
-        save: string;
-        selectPlaceholder: string;
-        mapped: string;
-        reset: string;
-      };
-      mapFields: {
-        viewExample: string;
-        internalField: { placeholder: string };
-        order: { placeholder: string };
-      };
-      stats: {
-        attributeGroups: string;
-        attributes: string;
-        brands: string;
-        categories: string;
-        fields: string;
-        products: string;
-      };
-      download: { success: string; fail: string; retry: string };
-    };
     "~www/~search": {
       seo: { title: string; description: string; keywords: string };
       title: {
@@ -717,8 +646,76 @@ declare namespace Koine {
       faq: { title: string; subtitle: string };
     };
     "~www/_": { breadcrumbs: { brands: string; categories: string } };
-    "~demo/~sdk": {
+    "~tools/~feed-matcher": {
       seo: { title: string; description: string; keywords: string };
+      title: string;
+      breadcrumbs: {
+        shops: string;
+        shop: string;
+        shopSourceNew: string;
+        shopSourceEdit: string;
+        mapAttributes: string;
+        mapAttributeGroups: string;
+        mapBrands: string;
+        mapCategories: string;
+        mapFields: string;
+      };
+      mapTo: string;
+      shops: {
+        description: string;
+        headings: {
+          id: string;
+          name: string;
+          nrSources: string;
+          created: string;
+        };
+        actions: { select: string };
+        search: { empty: string };
+      };
+      sources: {
+        headings: {
+          id: string;
+          name: string;
+          locationType: string;
+          fileType: string;
+          created: string;
+          status: string;
+          statusFields: string;
+          statusMapping: string;
+        };
+        actions: {
+          mapFields: string;
+          mapCategories: string;
+          mapBrands: string;
+          mapAttributeGroups: string;
+          mapAttributes: string;
+          addNew: string;
+        };
+        search: { empty: string };
+      };
+      sourceNew: { title: string };
+      sourceEdit: { title: string };
+      map: {
+        changes: string;
+        save: string;
+        selectPlaceholder: string;
+        mapped: string;
+        reset: string;
+      };
+      mapFields: {
+        viewExample: string;
+        internalField: { placeholder: string };
+        order: { placeholder: string };
+      };
+      stats: {
+        attributeGroups: string;
+        attributes: string;
+        brands: string;
+        categories: string;
+        fields: string;
+        products: string;
+      };
+      download: { success: string; fail: string; retry: string };
     };
     "~org/~stream~settings": {
       seo: { title: string; description: string; keywords: string };
@@ -902,6 +899,9 @@ declare namespace Koine {
       title: string;
       empty: { title: string; text: string };
       noResults: { title: string; text: string };
+    };
+    "~demo/~sdk": {
+      seo: { title: string; description: string; keywords: string };
     };
     "~dashboard/~wallet": {
       seo: { title: string; description: string; keywords: string };
@@ -1120,7 +1120,6 @@ declare namespace Koine {
         title: string;
         text: string;
         asSeen: string;
-        poweredBy: string;
         countdown: string;
         idoLaunch: string;
       };
@@ -1142,7 +1141,7 @@ declare namespace Koine {
         sdk: { title: string; text: string };
         create: { title: string; text: string };
       };
-      growth: { title: string; headline: string; text: string };
+      protocol: { title: string; headline: string; text: string[] };
       tokenomics: {
         header: string;
         title: string;
@@ -1167,6 +1166,12 @@ declare namespace Koine {
             staking: { title: string; text: string };
           };
         };
+      };
+      security: {
+        headline: string;
+        title: string;
+        text: string[];
+        cta: string;
       };
       roadmap: { title: string; list: { title: string; actions: string[] }[] };
       team: { header: string; title: string };
@@ -1202,6 +1207,9 @@ declare namespace Koine {
         review: { title: string };
       };
     };
+    "~content/~privacy": {
+      seo: { title: string; description: string; keywords: string };
+    };
     "~content/~shops": {
       seo: { title: string; description: string; keywords: string };
       intro: { headline: string; title: string; text: string; cta: string };
@@ -1224,9 +1232,6 @@ declare namespace Koine {
       partners: { headline: string; title: string; moreStories: string };
       faq: { title: string; faqs: { question: string; answer: string[] }[] };
       ready: { title: string; usps: string[]; cta: string };
-    };
-    "~content/~privacy": {
-      seo: { title: string; description: string; keywords: string };
     };
     "~content/~pricing": {
       seo: { title: string; description: string; keywords: string };
@@ -1792,13 +1797,6 @@ declare namespace Koine {
       ok: string;
       fail: string;
     };
-    "~account/FormUserSkills": {
-      labels: { skills: string };
-      placeholders: { skills: string };
-      errors: {};
-      ok: string;
-      fail: string;
-    };
     "~account/FormUserSecurity": {
       labels: {
         email: string;
@@ -1815,6 +1813,13 @@ declare namespace Koine {
       okPassword: { title: string };
       okEmail: { title: string; text: string };
       okAll: { title: string; text: string };
+    };
+    "~account/FormUserSkills": {
+      labels: { skills: string };
+      placeholders: { skills: string };
+      errors: {};
+      ok: string;
+      fail: string;
     };
     "~account/FormUserPreferences": {
       labels: { darkMode: string };
@@ -2285,6 +2290,7 @@ declare namespace Koine {
       };
     };
     "editor/pdf": { cta: string; requirements: string[] };
+    "editor/image": { cta: string; requirements: string[] };
     "editor/news": {
       labels: { url: string };
       placeholders: { url: string };
@@ -2300,7 +2306,6 @@ declare namespace Koine {
       btnAdd: string;
       dialog: { trigger: string; title: string };
     };
-    "editor/image": { cta: string; requirements: string[] };
     "editor/_": {
       discard: {
         btn: string;

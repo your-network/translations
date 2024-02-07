@@ -1,6 +1,6 @@
 {
   "en": {
-    "characters": 87558,
+    "characters": 87927,
     "files": [
       {
         "characters": 131,
@@ -444,11 +444,11 @@
         "words": 3
       },
       {
-        "characters": 3480,
+        "characters": 3849,
         "locale": "en",
         "path": "~content/~token.json",
         "url": "https://github.com/your-network/translations/blob/dev/en/~content/~token.json",
-        "words": 578
+        "words": 634
       },
       {
         "characters": 262,
@@ -1298,7 +1298,7 @@
         "words": 32
       }
     ],
-    "words": 15702
+    "words": 15758
   },
   "nl": {
     "characters": 87529,
