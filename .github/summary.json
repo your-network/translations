@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 64793,
+    "characters": 64791,
     "files": [
       {
         "characters": 91,
@@ -3683,11 +3683,11 @@
         "words": 10
       },
       {
-        "characters": 25,
+        "characters": 23,
         "locale": "zh",
         "path": "Pagination.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/Pagination.json",
-        "words": 8
+        "words": 1
       },
       {
         "characters": 157,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 9913
+    "words": 9906
   }
 }
