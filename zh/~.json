@@ -1,118 +1,118 @@
 {
   "account": {
     "user": {
-      "profile": "/account/user",
+      "profile": "/账户/用户",
       "settings": {
-        "index": "/account/user/settings",
-        "personal": "/account/user/settings/personal",
-        "notifications": "/account/user/settings/notifications",
-        "preferences": "/account/user/settings/preferences",
-        "security": "/account/user/settings/security"
+        "index": "/账户/用户/设置",
+        "personal": "/账户/用户/设置/个人信息",
+        "notifications": "/账户/用户/设置/通知",
+        "preferences": "/账户/用户/设置/偏好",
+        "security": "/账户/用户/设置/安全"
       }
     },
     "company": {
-      "profile": "/account/company",
+      "profile": "/账户/公司",
       "settings": {
-        "index": "/account/company/settings",
-        "personal": "/account/company/settings/personal",
-        "billing": "/account/company/settings/billing",
-        "payment": "/account/company/settings/payment",
-        "notifications": "/account/company/settings/notifications"
+        "index": "/账户/公司/设置",
+        "personal": "/账户/公司/设置/个人信息",
+        "billing": "/账户/公司/设置/账单",
+        "payment": "/账户/公司/设置/支付",
+        "notifications": "/账户/公司/设置/通知"
       }
     }
   },
   "auth": {
-    "confirm-email": "/account-verification",
-    "password-forgot": "/password-recovery",
-    "password-reset": "/password-reset",
-    "signin": "/signin",
-    "signup": "/signup",
-    "signup-contributor": "/signup-contributor",
-    "signup-extractor": "/signup-shop",
-    "two-factor": "/two-factor",
-    "verify": "/account-created"
+    "confirm-email": "/账户验证",
+    "password-forgot": "/密码恢复",
+    "password-reset": "/密码重置",
+    "signin": "/登录",
+    "signup": "/注册",
+    "signup-contributor": "/注册-贡献者",
+    "signup-extractor": "/注册-商家",
+    "two-factor": "/双因子",
+    "verify": "/账户已创建"
   },
   "community": {
-    "leaderboard": "/leaderboard",
+    "leaderboard": "/排行榜",
     "user": {
       "[id]": "/u/{{ id }}"
     },
     "users": {
-      "index": "/users",
-      "[userName]": "/users/{{ userName }}"
+      "index": "/用户",
+      "[userName]": "/用户/{{ userName }}"
     }
   },
   "content": {
-    "about": "/about-us",
-    "build-developers": "/build/developers",
-    "build-dapps-signup": "/build/dapps/signup",
-    "build-dapps-content-creation": "/build/dapps/content-creation",
-    "build-dapps-content-distribution": "/build/dapps/content-distribution",
-    "build-dapps": "/build/dapps",
-    "build-nodes": "/build/nodes",
-    "build-use-cases": "/build/use-cases",
-    "community-governance": "/community/governance",
-    "cookies": "/cookie-statement",
-    "creator": "/creator",
-    "extractor": "/extractor",
+    "about": "/关于我们",
+    "build-developers": "/构建/开发者",
+    "build-dapps-signup": "/构建/去中心应用/注册",
+    "build-dapps-content-creation": "/构建/去中心应用/内容创作",
+    "build-dapps-content-distribution": "/构建/去中心应用/内容分发",
+    "build-dapps": "/构建/去中心应用",
+    "build-nodes": "/构建/节点",
+    "build-use-cases": "/构建/用例",
+    "community-governance": "/社区/治理",
+    "cookies": "/cookie声明",
+    "creator": "/创作者",
+    "extractor": "/提取工具",
     "intro": "/",
-    "pricing": "/pricing",
-    "privacy": "/privacy-policy",
-    "shops": "/shops",
-    "showcase": "/showcase",
-    "terms": "/terms-of-use",
-    "token": "/token"
+    "pricing": "/定价",
+    "privacy": "/隐私政策",
+    "shops": "/商店",
+    "showcase": "/展示",
+    "terms": "/使用条款",
+    "token": "/代币"
   },
   "dashboard": {
-    "chat": "/chat",
-    "curate": "/curate",
+    "chat": "/聊天",
+    "curate": "/策展",
     "editor-product": {
-      "[id]": "/content-editor/{{ id }}"
+      "[id]": "/内容编辑器/{{ id }}"
     },
-    "manage": "/manage-content",
-    "marketplace": "/marketplace",
-    "products-overview": "/products",
-    "statistics": "/statistics",
-    "user": "/dashboard",
-    "wallet": "/wallet"
+    "manage": "/管理内容",
+    "marketplace": "/市场",
+    "products-overview": "/产品",
+    "statistics": "/统计数据",
+    "user": "/仪表板",
+    "wallet": "/钱包"
   },
   "demo": {
-    "sdk": "/demo/sdk"
+    "sdk": "/演示/sdk"
   },
   "org": {
-    "dashboard": "/org",
-    "analytics": "/org/analytics",
-    "download": "/org/download",
+    "dashboard": "/组织",
+    "analytics": "/组织/分析",
+    "download": "/组织/下载",
     "downloads": {
-      "index": "/org/downloads",
-      "[id]": "/org/downloads/{{ id }}"
+      "index": "/组织/下载",
+      "[id]": "/组织/下载/{{ id }}"
     },
-    "onboarding": "/org/onboarding",
-    "pricing": "/org/pricing",
+    "onboarding": "/组织/加入",
+    "pricing": "/组织/定价",
     "stream": {
-      "customize": "/org/stream/style",
-      "settings": "/org/stream/settings"
+      "customize": "/组织/流/风格",
+      "settings": "/组织/流/设置"
     }
   },
   "tools": {
     "feed-matcher": {
-      "index": "/tools/feed-matcher",
-      "[spa]": "/tools/feed-matcher/{{ spa }}*",
+      "index": "/工具/订阅匹配",
+      "[spa]": "/工具/订阅匹配/{{ spa }}*",
       "shops": {
-        "index": "/shops",
+        "index": "/商店",
         "[id]": {
-          "index": "/shops/{{ id }}",
+          "index": "/商店/{{ id }}",
           "source": {
-            "index": "/shops/{{ id }}/source",
-            "new": "/shops/{{ id }}/source/new",
+            "index": "/商店/{{ id }}/来源",
+            "new": "/商店/{{ id }}/来源/新建",
             "[sourceId]": {
-              "index": "/shops/{{ id }}/source/{{ sourceId }}",
-              "edit": "/shops/{{ id }}/source/{{ sourceId }}/edit",
-              "mapFields": "/shops/{{ id }}/source/{{ sourceId }}/map-fields",
-              "mapAttributes": "/shops/{{ id }}/source/{{ sourceId }}/map-attributes",
-              "mapAttributeGroups": "/shops/{{ id }}/source/{{ sourceId }}/map-attribute-groups",
-              "mapBrands": "/shops/{{ id }}/source/{{ sourceId }}/map-brands",
-              "mapCategories": "/shops/{{ id }}/source/{{ sourceId }}/map-categories"
+              "index": "/商店/{{ id }}/来源/{{ sourceId }}",
+              "edit": "/商店/{{ id }}/来源/{{ sourceId }}/编辑",
+              "mapFields": "/商店/{{ id }}/来源/{{ sourceId }}/映射字段",
+              "mapAttributes": "/商店/{{ id }}/来源/{{ sourceId }}/映射属性",
+              "mapAttributeGroups": "/商店/{{ id }}/来源/{{ sourceId }}/映射属性组",
+              "mapBrands": "/商店/{{ id }}/来源/{{ sourceId }}/映射品牌",
+              "mapCategories": "/商店/{{ id }}/来源/{{ sourceId }}/映射类别"
             }
           }
         }
@@ -120,15 +120,15 @@
     }
   },
   "www": {
-    "search": "/search",
+    "search": "/搜索",
     "brand": {
       "[slug]": {
         "[id]": "/b/{{ slug }}/{{ id }}"
       }
     },
     "brands": {
-      "index": "/brands",
-      "[id]": "/brands/{{ id }}"
+      "index": "/品牌",
+      "[id]": "/品牌/{{ id }}"
     },
     "category": {
       "[slug]": {
@@ -136,20 +136,20 @@
       }
     },
     "categories": {
-      "index": "/categories",
-      "[id]": "/categories/{{ id }}"
+      "index": "/类别",
+      "[id]": "/类别/{{ id }}"
     },
     "product-stable": {
-      "[id]": "/product/{{ id }}"
+      "[id]": "/产品/{{ id }}"
     },
     "product": {
       "[slug]": {
         "[id]": {
           "index": "/p/{{ slug }}/{{ id }}",
           "revisions": {
-            "index": "/p/{{ slug }}/{{ id }}/revisions",
+            "index": "/p/{{ slug }}/{{ id }}/修订版本",
             "[revisionId]": {
-              "index": "/p/{{ slug }}/{{ id }}/revisions/{{ revisionId }}"
+              "index": "/p/{{ slug }}/{{ id }}/修订版本/{{ revisionId }}"
             }
           }
         }
