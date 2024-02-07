@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 65553,
+    "characters": 65256,
     "files": [
       {
         "characters": 91,
@@ -3641,11 +3641,11 @@
         "words": 18
       },
       {
-        "characters": 549,
+        "characters": 252,
         "locale": "zh",
         "path": "Empty.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/Empty.json",
-        "words": 112
+        "words": 16
       },
       {
         "characters": 519,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 10138
+    "words": 10042
   }
 }
