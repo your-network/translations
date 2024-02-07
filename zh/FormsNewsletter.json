@@ -1,18 +1,18 @@
 {
   "labels": {
-    "terms": "I agree to the <link>Terms & Conditions</link>"
+    "terms": "我同意 <link>条款和条件</link>"
   },
   "placeholders": {
-    "email": "Enter your email"
+    "email": "输入您的邮箱"
   },
   "errors": {
     "email": {
-      "email": "Please enter a valid email address",
-      "required": "Email is required"
+      "email": "请输入有效的邮箱地址",
+      "required": "邮箱是必填项"
     }
   },
-  "submit": "Stay up-to-date",
+  "submit": "保持更新",
   "ok": {
-    "title": "Thanks for your interest!"
+    "title": "感谢您的关注！"
   }
 }
