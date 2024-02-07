@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 65256,
+    "characters": 65176,
     "files": [
       {
         "characters": 91,
@@ -3655,11 +3655,11 @@
         "words": 48
       },
       {
-        "characters": 134,
+        "characters": 54,
         "locale": "zh",
         "path": "FormsNewsletter.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/FormsNewsletter.json",
-        "words": 25
+        "words": 7
       },
       {
         "characters": 119,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 10042
+    "words": 10024
   }
 }
