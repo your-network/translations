@@ -1,82 +1,82 @@
 {
   "seo": {
-    "title": "Earn from what you create",
-    "description": "Building the first product content NFT marketplace that allows people to: Create , Own and Earn. Earn from what you create with YOUR",
+    "title": "从您所创造的内容中赚取收益",
+    "description": "构建第一个产品内容NFT市场，使人们可以：创建、拥有和赚取收益。从您所创造的内容中赚取收益",
     "keywords": ""
   },
   "intro": {
-    "hash": "intro",
-    "headline": "Earn from what you create",
+    "hash": "简介",
+    "headline": "从您所创造的内容中赚取收益",
     "paragraphs": [
-      "Get paid for your digital and physical product content through YOUR - the NFT marketplace where e-commerce and web 3 platforms can buy directly from a global community of creators."
+      "通过YOUR——NFT市场，以及电子商务和Web3平台，您可以从全球创作者社区直接购买数字和实物产品内容，并为您的数字和实物产品内容获得报酬。"
     ],
-    "buyNow": "Buy now on",
-    "poweredBy": "Powered by"
+    "buyNow": "立即前往购买：",
+    "poweredBy": "技术支持："
   },
   "backed": {
-    "hash": "partners",
-    "title": "backed by"
+    "hash": "合作伙伴",
+    "title": "支持："
   },
   "known": {
-    "hash": "press",
-    "headline": "Also known from"
+    "hash": "新闻媒体报道",
+    "headline": "媒体报道："
   },
   "mission": {
-    "hash": "mission",
-    "title": "Our mission",
-    "headline": "Metaverses and e-commerce",
+    "hash": "使命",
+    "title": "我们的使命",
+    "headline": "元宇宙和电子商务",
     "paragraphs": [
-      "In the world of e-commerce and the web3, relevant product content is crucial. Companies like Amazon, AliExpress, Sandbox and OpenSea need extensive product profiles to elevate customer experience and increase conversion rates.",
-      "For these companies it is becoming too expensive and slow to build their own content creation team. By creating a marketplace for digital and physical product content, YOUR is decentralizing content ownership creating a community of creators incentivized to deliver excellent quality content at scale. With improved online product profiles, platforms will improve their conversion rates. And product content creators can develop dependable revenue streams based on the quality and relevance of what they provide. "
+      "在电子商务和Web3的世界中，产品内容的呈现至关重要。亚马逊、阿里巴巴、Sandbox 和OpenSea等公司需要提供详尽的产品信息，以提升用户体验，并提高转化率。",
+      "对于这些公司来说，建立自己的内容创作团队变得越来越昂贵和缓慢。通过创建数字和实物产品内容的市场，YOUR正在对内容所有权进行去中心化，通过打造一个创作者社区，激励他们大规模提供优质内容。通过改进在线产品介绍，平台将提高其转化率。而产品内容创作者可以根据其所提供的质量和相关性获得可靠的收入流。 "
     ],
     "cta": {
-      "text": "Dive into Your Network",
+      "text": "深入了解Your网络",
       "url": "https://docs.your.io/your/"
     }
   },
   "ready": {
-    "hash": "ready",
-    "headline": "The new way of creating"
+    "hash": "准备就绪",
+    "headline": "创作的新方式"
   },
   "create": {
-    "hash": "create",
-    "title": "Create to earn",
-    "headline": "Earn from what you create",
+    "hash": "创作",
+    "title": "创作以赚取收益",
+    "headline": "从您所创作的内容中赚取收益",
     "paragraphs": [
-      "You can create or curate content about any physical or digital product. Platforms such as Amazon, OpenSea or Sandbox can buy content from the YOUR marketplace. The better your content, the more relevant it is for each product, the more likely they are to buy.",
-      "You earn directly when your content is created as well as build up future rewards. Ownership of your content is guaranteed through blockchain NFT smart contracts. Wherever your content is used, you’ll get paid."
+      "您可以为任何实物或数字产品创造或策划内容。亚马逊、OpenSea或Sandbox 等平台可以从YOUR市场购买内容。您的内容越好，对每个产品越相关，他们越有可能购买。",
+      "当您创作好内容时，您可以直接获得收益，并不断积累未来的回报。通过区块链NFT智能合约，您的内容所有权得到保证。无论您的内容在何处使用，您都将获得报酬。"
     ],
     "cta": {
-      "text": "Start creating",
+      "text": "开始创作",
       "url": "https://docs.your.io/your/yourcontent/contribute-and-earn"
     }
   },
   "stake": {
-    "hash": "stake",
-    "title": "Stake to earn",
-    "headline": "Get ahead by staking early",
+    "hash": "质押",
+    "title": "质押以获取收益",
+    "headline": "通过提前质押来取得领先优势",
     "paragraphs": [
-      "The more you stake, the more you can potentially earn. YOUR provides significant high rewards for early blockchain staking. With the APY dependent on the amount staked, early adopters could get significant returns.",
-      "Tokens will be locked for a certain period of time, based on the amount of time your rewards are generated. Start staking today and build a passive income without trading."
+      "您质押的数量越多，潜在收益也越多。YOUR为早期的区块链质押提供了显著的高回报。根据质押金额确定的年化收益率，早期采用者可以获得可观的回报。",
+      "代币将被锁定一段时间，具体时间取决于您的奖励生成时间。立即开始质押，获得无需交易的被动收入。"
     ],
     "cta": {
-      "text": "Start staking",
+      "text": "开始质押",
       "url": "https://docs.your.io/your/tokenomics/token-utility"
     }
   },
   "team": {
-    "hash": "team",
-    "headline": "Our team"
+    "hash": "团队",
+    "headline": "我们的团队"
   },
   "partners": {
-    "hash": "partners",
-    "headline": "Our partners & strategic partners"
+    "hash": "合作伙伴",
+    "headline": "我们的合作伙伴和战略伙伴"
   },
   "join": {
-    "hash": "community",
-    "headline": "Join our worldwide community",
+    "hash": "社区",
+    "headline": "加入我们的全球社区",
     "cta": {
-      "text": "Join our community",
+      "text": "加入我们的社区",
       "url": "https://linktr.ee/your_official"
     }
   }
