@@ -37,8 +37,8 @@
   "vision": {
     "header": "Vision",
     "headline": "Vision",
-    "title": "Disrupt ecommerce with our content layer",
-    "text": ["Introducing YOUR, a revolutionary Web3 protocol for the booming $8.8 trillion e-commerce market by 2026. Brands such as Apple and Samsung struggle with content control and accuracy online. YOUR empowers them with full control, ownership, transparency.", "By giving E-commerce shops access to streamed user generated and personalised product content, we not only enhance the shopping experience but also significantly increases conversion rates."]
+    "title": "Disrupt e-commerce with our content layer",
+    "text": ["Introducing YOUR, a revolutionary Web3 protocol for the booming $8.8 trillion e-commerce market by 2026. Brands such as Apple and Samsung struggle with content control and accuracy online. YOUR empowers them with full control, ownership, transparency.", "By giving e-commerce shops access to streamed user-generated and personalised product content, we not only enhance the shopping experience but also significantly increases conversion rates."]
   },
   "product": {
     "header": "Product",
@@ -112,7 +112,7 @@
     "utility": {
       "headline": "Token utility",
       "title": "Sharing the company's success with holders",
-      "text": "$YOUR utilizes a <b>smart reward</b>, <b>buy back</b> and <b>staking mechanism</b> to support the value of the $YOUR token and share the company's success with holders.",
+      "text": "$YOUR utilises a <b>smart reward</b>, <b>buy back</b> and <b>staking mechanism</b> to support the value of the $YOUR token and share the company's success with holders.",
       "list": {
         "earn": {
           "title": "Earn $YOUR tokens",
@@ -143,15 +143,15 @@
       },
       {
         "title": "Q1 - 2024",
-        "actions": ["IDO sale", "Token listing", "Protocol testnet", "Staking platform", "Shop partnerships"]
+        "actions": ["IDO sale", "Multichain token launch", "Protocol testnet", "Staking platform", "Shop partnerships","BRC-20 partnerships"]
       },
       {
         "title": "Q2 - 2024",
-        "actions": ["AI content layers", "Storage nodes network", "Shop partnerships"]
+        "actions": ["AI content layers", "Storage node network", "Shop partnerships", "BRC-20 tokenisation", "BRC-20 staking"]
       },
       {
         "title": "Q3/Q4 - 2024",
-        "actions": ["Growth protocol dApps", "Personalisation engine", "Protocol mainnet"]
+        "actions": ["Growth protocol dApps", "Personalisation engine", "BRC-20 content marketplace", "Protocol mainnet"]
       }
     ]
   },
