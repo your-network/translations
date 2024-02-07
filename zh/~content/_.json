@@ -1,7 +1,7 @@
 {
-  "switch": {
-    "men": "Men",
-    "women": "Women"
-  },
-  "signup": "Sign up"
+    "switch": {
+        "men": "男",
+        "women": "女"
+    },
+    "signup": "注册"
 }
