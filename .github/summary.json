@@ -2602,7 +2602,7 @@
     "words": 15753
   },
   "zh": {
-    "characters": 61979,
+    "characters": 62408,
     "files": [
       {
         "characters": 91,
@@ -3046,11 +3046,11 @@
         "words": 1
       },
       {
-        "characters": 1644,
+        "characters": 2073,
         "locale": "zh",
         "path": "~content/~token.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/~token.json",
-        "words": 128
+        "words": 199
       },
       {
         "characters": 86,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 9209
+    "words": 9280
   }
 }

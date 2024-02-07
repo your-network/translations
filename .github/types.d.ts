@@ -2207,15 +2207,6 @@ declare namespace Koine {
       query: { placeholder: string; submit: string };
       mobileFilters: { title: string; clear: string; apply: string };
     };
-    "search/Suggest": {
-      search: string;
-      clear: string;
-      placeholder: string;
-      "placeholder~mobile": string;
-      results: { loading: string; empty: string };
-      tabs: { all: string; Brand: string; Category: string; Product: string };
-      groups: { all: string; Category: string; Brand: string; Product: string };
-    };
     "search/Filters": {
       show: string;
       "show~mobile": string;
@@ -2239,6 +2230,15 @@ declare namespace Koine {
       filter: string;
       searchClear: string;
       searchPlaceholder: string;
+    };
+    "search/Suggest": {
+      search: string;
+      clear: string;
+      placeholder: string;
+      "placeholder~mobile": string;
+      results: { loading: string; empty: string };
+      tabs: { all: string; Brand: string; Category: string; Product: string };
+      groups: { all: string; Category: string; Brand: string; Product: string };
     };
     "lightbox/_": {
       close: string;
@@ -2700,11 +2700,6 @@ declare namespace Koine {
       changes: string;
       and: string;
     };
-    "stream/blocks/product-videos": {
-      meta: { name: string; shortName: string };
-      ui: { title: string; more: string; less: string };
-      settings: {};
-    };
     "stream/blocks/product": {
       ui: {
         loading: string;
@@ -2712,6 +2707,11 @@ declare namespace Koine {
         error: { text: string; hide: string };
       };
       settings: { show_title: { label: string } };
+    };
+    "stream/blocks/product-videos": {
+      meta: { name: string; shortName: string };
+      ui: { title: string; more: string; less: string };
+      settings: {};
     };
     "stream/blocks/product-specifications": {
       meta: { name: string; shortName: string };
