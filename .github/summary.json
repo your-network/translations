@@ -1301,7 +1301,7 @@
     "words": 15758
   },
   "nl": {
-    "characters": 87529,
+    "characters": 87981,
     "files": [
       {
         "characters": 131,
@@ -1745,11 +1745,11 @@
         "words": 3
       },
       {
-        "characters": 3397,
+        "characters": 3849,
         "locale": "nl",
         "path": "~content/~token.json",
         "url": "https://github.com/your-network/translations/blob/dev/nl/~content/~token.json",
-        "words": 569
+        "words": 634
       },
       {
         "characters": 262,
@@ -2599,7 +2599,7 @@
         "words": 32
       }
     ],
-    "words": 15688
+    "words": 15753
   },
   "zh": {
     "characters": 61979,
