@@ -326,6 +326,12 @@ declare namespace Koine {
       submit: string;
       ok: { title: string; text: string };
     };
+    AppSectionProducts: {
+      empty: {
+        category: { title: string; text: string; actions: string[] };
+        brand: { title: string; text: string; actions: string[] };
+      };
+    };
     AuthFormLogin: {
       title: string;
       subtitle: string;
@@ -345,12 +351,6 @@ declare namespace Koine {
       forgotPassword: string;
       back: string;
       backHome: string;
-    };
-    AppSectionProducts: {
-      empty: {
-        category: { title: string; text: string; actions: string[] };
-        brand: { title: string; text: string; actions: string[] };
-      };
     };
     AnnouncementLaunch: { title: string; playVideo: string; moreInfo: string };
     AlertEmailUnconfirmed: {
@@ -1185,9 +1185,6 @@ declare namespace Koine {
         };
       };
     };
-    "~content/~terms": {
-      seo: { title: string; description: string; keywords: string };
-    };
     "~content/~showcase": {
       seo: { title: string; description: string; keywords: string };
       intro: { title: string; cta: string };
@@ -1201,6 +1198,9 @@ declare namespace Koine {
         reasonsToBuy: { all: string };
         review: { title: string };
       };
+    };
+    "~content/~terms": {
+      seo: { title: string; description: string; keywords: string };
     };
     "~content/~shops": {
       seo: { title: string; description: string; keywords: string };
