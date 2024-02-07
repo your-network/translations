@@ -25,9 +25,8 @@
   },
   "intro": {
     "title": "The future for Web3 e-commerce",
-    "text": "YOUR is the content layer for scaling e-commerce experiences by enabling seamless streaming of high-quality product content.",
+    "text": "YOUR Protocol is the world's first content layer for Web3 e-commerce built on <bitcoin></bitcoin> and <ethereum></ethereum>.",
     "asSeen": "As seen in",
-    "poweredBy": "Powered by",
     "countdown": "Countdown",
     "idoLaunch": "IDO launch"
   },
@@ -63,10 +62,14 @@
       "text": "Our content editor app has 5000+ active creators curating and creating user-generated content."
     }
   },
-  "growth": {
-    "title": "The most extensive content solution of the world",
-    "headline": "Content growth",
-    "text": "New product content. Every day"
+  "protocol": {
+    "title": "World's first content layer for Web3 e-commerce",
+    "headline": "YOUR protocol",
+    "text": [
+      "BRC-20 tokenisation of content assets",
+      "Smart reward mechanism for protocol contributors",
+      "AI-driven personalised product content"
+    ]
   },
   "tokenomics": {
     "header": "Token",
@@ -128,6 +131,15 @@
         }
       }
     }
+  },
+  "security": {
+    "headline": "Security",
+    "title": "Battle-tested smart contract",
+    "text": [
+      "We're excited to share that Zokyo, a leading Web3 cybersecurity firm, has successfully audited our smart contract.",
+      "With their expertise, we can confidently state that our smart contract meets the highest security standards, reinforcing our commitment to the safety and trust of our community."
+    ],
+    "cta": "Read report"
   },
   "roadmap": {
     "title": "Roadmap",
