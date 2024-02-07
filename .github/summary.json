@@ -2602,7 +2602,7 @@
     "words": 15688
   },
   "zh": {
-    "characters": 67327,
+    "characters": 66138,
     "files": [
       {
         "characters": 91,
@@ -3004,11 +3004,11 @@
         "words": 42
       },
       {
-        "characters": 2155,
+        "characters": 966,
         "locale": "zh",
         "path": "~content/~legacy.json",
         "url": "https://github.com/your-network/translations/blob/dev/zh/~content/~legacy.json",
-        "words": 384
+        "words": 44
       },
       {
         "characters": 96,
@@ -3900,6 +3900,6 @@
         "words": 32
       }
     ],
-    "words": 10605
+    "words": 10265
   }
 }
