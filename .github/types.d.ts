@@ -251,6 +251,14 @@ declare namespace Koine {
       submit: string;
       ok: { title: string };
     };
+    Empty: {
+      actionsTitle: string;
+      actionInfo: string;
+      category: { title: string; text: string; actions: string[] };
+      brand: { title: string; text: string; actions: string[] };
+      search: { title: string; text: string; actions: string[] };
+      bare: { title: string; text: string };
+    };
     Footer: {
       description: string;
       copyright: string;
@@ -261,14 +269,6 @@ declare namespace Koine {
         communities: { title: string; links: { text: string; url: string }[] };
         others: { links: { text: string; route: string }[] };
       };
-    };
-    Empty: {
-      actionsTitle: string;
-      actionInfo: string;
-      category: { title: string; text: string; actions: string[] };
-      brand: { title: string; text: string; actions: string[] };
-      search: { title: string; text: string; actions: string[] };
-      bare: { title: string; text: string };
     };
     CookieBanner: { text: string; reject: string; accept: string };
     ContentTypesSectionsNav: {
@@ -614,18 +614,6 @@ declare namespace Koine {
       categoriesNr: string;
       products: { hash: string; title: string; subtitle: string; cta: string };
     };
-    "~www/~brands": {
-      seo: { title: string };
-      title: {
-        all: string;
-        initial: string;
-        query: string;
-        initialAndQuery: string;
-      };
-      subtitle: string;
-      search: { placeholder: string; results: string };
-      products: { hash: string; title: string; subtitle: string; cta: string };
-    };
     "~www/~brand": {
       seo: { title: string; description: string; keywords: string };
       browseAll: string;
@@ -644,6 +632,18 @@ declare namespace Koine {
       };
       news: { title: string; subtitle: string };
       faq: { title: string; subtitle: string };
+    };
+    "~www/~brands": {
+      seo: { title: string };
+      title: {
+        all: string;
+        initial: string;
+        query: string;
+        initialAndQuery: string;
+      };
+      subtitle: string;
+      search: { placeholder: string; results: string };
+      products: { hash: string; title: string; subtitle: string; cta: string };
     };
     "~www/_": { breadcrumbs: { brands: string; categories: string } };
     "~tools/~feed-matcher": {
@@ -830,6 +830,21 @@ declare namespace Koine {
       };
       mobile: { products: string; match: string };
     };
+    "~org/~dashboard": {
+      seo: { title: string; description: string; keywords: string };
+      actionBar: string;
+      title: { first: string; usual: string };
+      cards: {
+        start: { title: string; text: string };
+        video: { title: string; text: string };
+        subscription: { title: string; text: string; free: string };
+        help: { title: string; text: string; replayOnboarding: string };
+        productsMatched: { title: string };
+        matchRate: { title: string };
+        requests: { title: string };
+        costs: { title: string };
+      };
+    };
     "~org/~download": {
       seo: { title: string; description: string; keywords: string };
       title: string;
@@ -855,21 +870,6 @@ declare namespace Koine {
       compatibility: { text: string };
       ok: { title: string; text: string };
       fail: { text: string };
-    };
-    "~org/~dashboard": {
-      seo: { title: string; description: string; keywords: string };
-      actionBar: string;
-      title: { first: string; usual: string };
-      cards: {
-        start: { title: string; text: string };
-        video: { title: string; text: string };
-        subscription: { title: string; text: string; free: string };
-        help: { title: string; text: string; replayOnboarding: string };
-        productsMatched: { title: string };
-        matchRate: { title: string };
-        requests: { title: string };
-        costs: { title: string };
-      };
     };
     "~org/~analytics": {
       seo: { title: string; description: string; keywords: string };
@@ -1445,18 +1445,6 @@ declare namespace Koine {
         costs: { title: string; text: string };
       };
     };
-    "~content/BlockStartStreaming": {
-      title: string;
-      subtitle: string;
-      steps: {
-        "1": { title: string; text: string };
-        "2": { title: string; text: string };
-        "3": { title: string; text: string };
-        "4": { title: string; text: string };
-      };
-      shopify: { switch: string; cta: string };
-      sdk: { switch: string; cta: string };
-    };
     "~content/BlockContentTypes": {
       "*": {
         "product-images": string;
@@ -1484,6 +1472,36 @@ declare namespace Koine {
           news: string;
         };
       };
+    };
+    "~content/BlockStartStreaming": {
+      title: string;
+      subtitle: string;
+      steps: {
+        "1": { title: string; text: string };
+        "2": { title: string; text: string };
+        "3": { title: string; text: string };
+        "4": { title: string; text: string };
+      };
+      shopify: { switch: string; cta: string };
+      sdk: { switch: string; cta: string };
+    };
+    "~community/~users": {
+      seo: { title: string };
+      title: string;
+      search: {
+        query: string;
+        sort: {
+          label: string;
+          ranking_desc: string;
+          ranking: string;
+          created_desc: string;
+          created: string;
+        };
+        noMatchFilters: string;
+        noMatchQuery: string;
+        empty: string;
+      };
+      pagination: string;
     };
     "~community/~users~single": {
       seo: { title: string };
@@ -1526,24 +1544,6 @@ declare namespace Koine {
           empty: string;
         };
       };
-    };
-    "~community/~users": {
-      seo: { title: string };
-      title: string;
-      search: {
-        query: string;
-        sort: {
-          label: string;
-          ranking_desc: string;
-          ranking: string;
-          created_desc: string;
-          created: string;
-        };
-        noMatchFilters: string;
-        noMatchQuery: string;
-        empty: string;
-      };
-      pagination: string;
     };
     "~community/~leaderboard": {
       seo: { title: string };
@@ -1631,12 +1631,6 @@ declare namespace Koine {
       title: string;
       subtitle: string;
     };
-    "~auth/Password": {
-      password: {
-        placeholder: string;
-        errors: { required: string; min: string; matches: string };
-      };
-    };
     "~auth/FormTwoFactor": {
       labels: {};
       placeholders: {};
@@ -1662,6 +1656,12 @@ declare namespace Koine {
       resetting: string;
       fallback: string;
     };
+    "~auth/Password": {
+      password: {
+        placeholder: string;
+        errors: { required: string; min: string; matches: string };
+      };
+    };
     "~auth/FormPasswordForgot": {
       labels: {};
       placeholders: { email: string };
@@ -1669,6 +1669,14 @@ declare namespace Koine {
       submit: string;
       ok: { title: string; text: string };
       fail: string;
+    };
+    "~auth/AuthStatus": {
+      alreadyAccount: string;
+      noAccount: string;
+      signUp: string;
+      signIn: string;
+      signedInAs: string;
+      signedInAsCta: string;
     };
     "~auth/FormConfirmEmail": {
       placeholders: { email: string };
@@ -1682,14 +1690,6 @@ declare namespace Koine {
       okResend: { title: string; text: string };
       resend: string;
       confirming: string;
-    };
-    "~auth/AuthStatus": {
-      alreadyAccount: string;
-      noAccount: string;
-      signUp: string;
-      signIn: string;
-      signedInAs: string;
-      signedInAsCta: string;
     };
     "~account/~user~settings": {
       seo: { title: string; description: string };
@@ -1797,13 +1797,6 @@ declare namespace Koine {
       ok: string;
       fail: string;
     };
-    "~account/FormUserSkills": {
-      labels: { skills: string };
-      placeholders: { skills: string };
-      errors: {};
-      ok: string;
-      fail: string;
-    };
     "~account/FormUserSecurity": {
       labels: {
         email: string;
@@ -1820,6 +1813,13 @@ declare namespace Koine {
       okPassword: { title: string };
       okEmail: { title: string; text: string };
       okAll: { title: string; text: string };
+    };
+    "~account/FormUserSkills": {
+      labels: { skills: string };
+      placeholders: { skills: string };
+      errors: {};
+      ok: string;
+      fail: string;
     };
     "~account/FormUserPreferences": {
       labels: { darkMode: string };
@@ -1990,6 +1990,22 @@ declare namespace Koine {
       text: string;
       back: string;
     };
+    "stream/SdkOnboarding": {
+      "0": { title: string; cta: string };
+      "1": { title: string; cta: string };
+      "2": {
+        title: string;
+        cta: string;
+        card: { title: string; text: string; link: string };
+        text: string;
+        actions: {
+          "1": { title: string; copy: string };
+          "2": { title: string };
+        };
+      };
+      title: string;
+      text: string;
+    };
     "stream/ShopifyApp": {
       nav: {
         loading: string;
@@ -2053,22 +2069,6 @@ declare namespace Koine {
         list: { question: string; answer: string[] }[];
         listShopify: { question: string; answer: string[] }[];
       };
-    };
-    "stream/SdkOnboarding": {
-      "0": { title: string; cta: string };
-      "1": { title: string; cta: string };
-      "2": {
-        title: string;
-        cta: string;
-        card: { title: string; text: string; link: string };
-        text: string;
-        actions: {
-          "1": { title: string; copy: string };
-          "2": { title: string };
-        };
-      };
-      title: string;
-      text: string;
     };
     "stream/SdkEditorForm": {
       labels: {
@@ -2207,6 +2207,15 @@ declare namespace Koine {
       query: { placeholder: string; submit: string };
       mobileFilters: { title: string; clear: string; apply: string };
     };
+    "search/Suggest": {
+      search: string;
+      clear: string;
+      placeholder: string;
+      "placeholder~mobile": string;
+      results: { loading: string; empty: string };
+      tabs: { all: string; Brand: string; Category: string; Product: string };
+      groups: { all: string; Category: string; Brand: string; Product: string };
+    };
     "search/Filters": {
       show: string;
       "show~mobile": string;
@@ -2230,15 +2239,6 @@ declare namespace Koine {
       filter: string;
       searchClear: string;
       searchPlaceholder: string;
-    };
-    "search/Suggest": {
-      search: string;
-      clear: string;
-      placeholder: string;
-      "placeholder~mobile": string;
-      results: { loading: string; empty: string };
-      tabs: { all: string; Brand: string; Category: string; Product: string };
-      groups: { all: string; Category: string; Brand: string; Product: string };
     };
     "lightbox/_": {
       close: string;
@@ -2276,6 +2276,7 @@ declare namespace Koine {
       addAttributeInListHelper: string;
       readOnly: string;
     };
+    "editor/pdf": { cta: string; requirements: string[] };
     "editor/qa": {
       tabs: { questions: string; answers: string };
       addQuestion: string;
@@ -2289,7 +2290,6 @@ declare namespace Koine {
         info: string;
       };
     };
-    "editor/pdf": { cta: string; requirements: string[] };
     "editor/news": {
       labels: { url: string };
       placeholders: { url: string };

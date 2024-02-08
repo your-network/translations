@@ -1,6 +1,6 @@
 {
   "en": {
-    "characters": 87927,
+    "characters": 87916,
     "files": [
       {
         "characters": 131,
@@ -1046,11 +1046,11 @@
         "words": 112
       },
       {
-        "characters": 778,
+        "characters": 767,
         "locale": "en",
         "path": "Footer.json",
         "url": "https://github.com/your-network/translations/blob/dev/en/Footer.json",
-        "words": 80
+        "words": 83
       },
       {
         "characters": 134,
@@ -1298,7 +1298,7 @@
         "words": 32
       }
     ],
-    "words": 15758
+    "words": 15761
   },
   "nl": {
     "characters": 87981,
