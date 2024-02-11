@@ -1,103 +1,84 @@
 {
-  "core": [
-    {
-      "slug": "ted",
+  "core": {
+    "ted": {
       "name": "Ted",
       "sub": "Founder"
     },
-    {
-      "slug": "thijmen",
+    "thijmen": {
       "name": "Thijmen",
       "sub": "Founder"
     },
-    {
-      "slug": "kuus",
+    "kuus": {
       "name": "Kuus",
       "sub": "Developer"
     },
-    {
-      "slug": "dieuwertje",
+    "dieuwertje": {
       "name": "Dieuwertje",
       "sub": "Marketing & partnerships"
     },
-    {
-      "slug": "aleksei",
+    "aleksei": {
       "name": "Aleksei",
       "sub": "Developer"
     },
-    {
-      "slug": "roy",
+    "roy": {
       "name": "Roy",
       "sub": "Finance"
     },
-    {
-      "slug": "dave",
+    "dave": {
       "name": "Dave",
       "sub": "Design"
     },
-    {
-      "slug": "laurens",
+    "laurens": {
       "name": "Laurens",
       "sub": "Strategy"
     },
-    {
-      "slug": "niels",
+    "niels": {
       "name": "Niels",
       "sub": "Community"
     }
-  ],
-  "others": [
-    {
-      "slug": "basar",
+  },
+  "others": {
+    "basar": {
       "name": "Başar",
       "sub": "Community manager"
     },
-    {
-      "slug": "ibrahim",
+    "ibrahim": {
       "name": "Ibrahim",
       "sub": "Community specialist"
     },
-    {
-      "slug": "ridwan",
+    "ridwan": {
       "name": "Ridwan",
       "sub": "Community specialist"
     },
-    {
-      "slug": "ibrahim2",
+    "ibrahim2": {
       "name": "Ibrahim",
       "sub": "Community specialist"
     },
-    {
-      "slug": "wolf",
+    "wolf": {
       "name": "Wolf",
       "sub": "Happiness manager"
     }
-  ],
-  "advisors": [
-    {
-      "slug": "kareem",
+  },
+  "advisors": {
+    "kareem": {
       "name": "Kareem",
       "sub": "Research Consultant"
     },
-    {
-      "slug": "tote",
+    "tote": {
       "name": "Tote",
       "sub": "Director Magicsquare"
     },
-    {
-      "slug": "quincy",
+    "quincy": {
       "name": "Quincy",
       "sub": "Founder Crowny"
     },
-    {
-      "slug": "jesse",
+    "jesse": {
       "name": "Jesse",
       "sub": "Founder Nosana"
     },
-    {
-      "slug": "sjoerd",
+    "sjoerd": {
       "name": "Sjoerd",
       "sub": "Founder Nosana"
     }
-  ]
+  }
 }

@@ -1,103 +1,84 @@
 {
-    "core": [
-        {
-            "slug": "泰德",
+    "core": {
+        "ted": {
             "name": "泰德",
             "sub": "创始人"
         },
-        {
-            "slug": "泰门",
+        "thijmen": {
             "name": "泰门",
             "sub": "创始人"
         },
-        {
-            "slug": "库斯",
+        "kuus": {
             "name": "库斯",
             "sub": "开发人员"
         },
-        {
-            "slug": "迪维尔蒂",
+        "dieuwertje": {
             "name": "迪维尔蒂",
             "sub": "市场营销与合作伙伴关系"
         },
-        {
-            "slug": "亚历克谢",
+        "aleksei": {
             "name": "亚历克谢",
             "sub": "开发人员"
         },
-        {
-            "slug": "罗伊",
+        "roy": {
             "name": "罗伊",
             "sub": "财务"
         },
-        {
-            "slug": "戴夫",
+        "dave": {
             "name": "戴夫",
             "sub": "设计"
         },
-        {
-            "slug": "劳伦斯",
+        "laurens": {
             "name": "劳伦斯",
             "sub": "战略"
         },
-        {
-            "slug": "尼尔斯",
+        "niels": {
             "name": "尼尔斯",
             "sub": "社区"
         }
-    ],
-    "others": [
-        {
-            "slug": "巴萨尔",
+    },
+    "others": {
+        "basar": {
             "name": "巴萨尔",
             "sub": "社区经理"
         },
-        {
-            "slug": "易卜拉欣",
+        "ibrahim": {
             "name": "易卜拉欣",
             "sub": "社区专员"
         },
-        {
-            "slug": "里德万",
+        "ridwan": {
             "name": "里德万",
             "sub": "社区专员"
         },
-        {
-            "slug": "易卜拉欣2",
+        "ibrahim2": {
             "name": "易卜拉欣",
             "sub": "社区专员"
         },
-        {
-            "slug": "沃尔夫",
+        "wolf": {
             "name": "沃尔夫",
             "sub": "幸福经理"
         }
-    ],
-    "advisors": [
-        {
-            "slug": "卡里姆",
+    },
+    "advisors": {
+        "kareem": {
             "name": "卡里姆",
             "sub": "研究顾问"
         },
-        {
-            "slug": "托特",
+        "tote": {
             "name": "托特",
             "sub": "Magicsquare总监"
         },
-        {
-            "slug": "昆西",
+        "quincy": {
             "name": "昆西",
             "sub": "Crowny创始人"
         },
-        {
-            "slug": "杰西",
+        "jesse": {
             "name": "杰西",
             "sub": "Nosana创始人"
         },
-        {
-            "slug": "斯约尔德",
+        "sjoerd": {
             "name": "斯约尔德",
             "sub": "Nosana创始人"
         }
-    ]
+      }
 }

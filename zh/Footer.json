@@ -7,11 +7,11 @@
             "links": [
                 {
                     "text": "关于我们",
-                    "route": "关于内容"
+                    "route": "content.about"
                 },
                 {
                     "text": "成为创作者",
-                    "route": "内容创作者"
+                    "route": "content.creator"
                 }
             ]
         },
@@ -20,15 +20,15 @@
             "links": [
                 {
                     "text": "创作者去中心化应用（dApp）",
-                    "route": "内容构建去中心化应用（dApp）内容创作"
+                    "route": "content.build-dapps-content-creation"
                 },
                 {
                     "text": "分发去中心化应用（dApp）",
-                    "route": "内容构建去中心化应用（dApp）内容分发"
+                    "route": "content.build-dapps-content-distribution"
                 },
                 {
                     "text": "注册去中心化应用（dApp）",
-                    "route": "内容构建去中心化应用（dApp）注册"
+                    "route": "content.build-dapps-signup"
                 }
             ]
         },
@@ -45,7 +45,7 @@
                 },
                 {
                     "text": "代币",
-                    "route": "内容代币"
+                    "route": "content.token"
                 },
                 {
                     "text": "文章",
@@ -82,15 +82,15 @@
             "links": [
                 {
                     "text": "Cookie声明",
-                    "route": "内容Cookie"
+                    "route": "content.cookies"
                 },
                 {
                     "text": "隐私政策",
-                    "route": "内容隐私"
+                    "route": "content.privacy"
                 },
                 {
                     "text": "使用条款",
-                    "route": "内容条款"
+                    "route": "content.terms"
                 }
             ]
         }

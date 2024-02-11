@@ -216,7 +216,7 @@
                 "links": [
                     {
                         "text": "创作以赚取代币",
-                        "route": "内容创作者"
+                        "route": "content.creator"
                     },
                     {
                         "text": "质押以赚取代币",
@@ -229,7 +229,7 @@
                 "links": [
                     {
                         "text": "关于我们",
-                        "route": "U安于内容"
+                        "route": "content.about"
                     },
                     {
                         "text": "学习中心",
