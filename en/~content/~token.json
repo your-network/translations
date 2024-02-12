@@ -83,9 +83,17 @@
         "title": "Seed",
         "text": "5% unlocking at listing, 7.5% each month thereafter"
       },
+      "private": {
+        "title": "Private",
+        "text": "5% unlocking at listing, 7.5% each month thereafter"
+      },
+      "kol": {
+        "title": "Kol",
+        "text": "15% unlocking at listing, 7.5% each month thereafter"
+      },
       "publicSale": {
         "title": "Public sale",
-        "text": "40% unlocking at listing, 20% each month thereafter"
+        "text": "30% unlocking at listing, 15% each month thereafter"
       },
       "team": {
         "title": "Team",
@@ -109,7 +117,7 @@
       },
       "marketing": {
         "title": "Marketing",
-        "text": "50% unlocked, 10% unlocked each month"
+        "text": "100% unlocked, 10% unlocked each month"
       }
     },
     "utility": {

@@ -86,9 +86,17 @@
                 "title": "种子轮",
                 "text": "上市时解锁5%，之后每月解锁7.5%。"
             },
+            "private": {
+              "title": "Private",
+              "text": "5% unlocking at listing, 7.5% each month thereafter"
+            },
+            "kol": {
+              "title": "Kol",
+              "text": "15% unlocking at listing, 7.5% each month thereafter"
+            },
             "publicSale": {
                 "title": "公开销售",
-                "text": "上市时解锁40%，之后每月解锁20%。"
+                "text": "上市时解锁30%，之后每月解锁15%。"
             },
             "team": {
                 "title": "团队",
@@ -112,7 +120,7 @@
             },
             "marketing": {
                 "title": "营销",
-                "text": "解锁50%，每月解锁10%。"
+                "text": "解锁100%，每月解锁10%。"
             }
         },
         "utility": {
