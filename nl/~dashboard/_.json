@@ -71,9 +71,7 @@
     }
   },
   "tools": {
-    "feed-matcher": {
-      "index": "Feed matcher",
-      "index~mobile": "Feed matcher"
-    }
+    "feed-matcher": "Feed matcher",
+    "feed-matcher~mobile": "Feed matcher"
   }
 }
