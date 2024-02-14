@@ -1,0 +1,20 @@
+{
+  "seo": {
+    "title": "Curate",
+    "description": "",
+    "keywords": ""
+  },
+  "title": "Curate",
+  "products": {
+    "search": {
+      "empty": "No products edited"
+    },
+    "headings": {
+      "name": "Name",
+      "id": "ID",
+      "category": "category",
+      "contentTypes": "Content types",
+      "lastEdit": "Last edit"
+    }
+  }
+}
