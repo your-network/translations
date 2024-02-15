@@ -4,8 +4,6 @@
     "user~mobile": "Home",
     "products-overview": "Create content",
     "products-overview~mobile": "Create",
-    "curate": "Curate content",
-    "curate~mobile": "Curate",
     "manage": "Manage content",
     "manage~mobile": "Manage",
     "earn": "Earn",
@@ -34,18 +32,14 @@
     "user": {
       "profile": "Edit profile",
       "profile~mobile": "Profile",
-      "settings": {
-        "index": "Settings",
-        "index~mobile": "Settings"
-      }
+      "settings": "Settings",
+      "settings~mobile": "Settings"
     },
     "company": {
       "profile": "Company profile",
       "profile~mobile": "Company",
-      "settings": {
-        "index": "Company settings",
-        "index~mobile": "Preferences"
-      }
+      "settings": "Company settings",
+      "settings~mobile": "Preferences"
     }
   },
   "org": {
@@ -55,10 +49,8 @@
     "dashboard~mobile": "Home",
     "download": "Download content",
     "download~mobile": "Download",
-    "downloads": {
-      "index": "Your downloads",
-      "index~mobile": "Your downloads"
-    },
+    "downloads": "Your downloads",
+    "downloads~mobile": "Your downloads",
     "pricing": "Pricing plans",
     "pricing~mobile": "Pricing",
     "stream": {
@@ -71,6 +63,8 @@
     }
   },
   "tools": {
+    "curator": "Curate content",
+    "curator~mobile": "Curate",
     "feed-matcher": "Feed matcher",
     "feed-matcher~mobile": "Feed matcher"
   }
