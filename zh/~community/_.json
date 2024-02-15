@@ -3,10 +3,8 @@
     "label": "Community",
     "leaderboard": "Leaderboard",
     "leaderboard~mobile": "Leaderboard",
-    "users": {
-      "index": "All users",
-      "index~mobile": "All users"
-    }
+    "users": "All users",
+    "users~mobile": "All users"
   },
   "content": {
     "creator": "Become a creator",
@@ -16,13 +14,9 @@
     "label": "your.io",
     "search": "Search",
     "search~mobile": "Search",
-    "categories": {
-      "index": "All categories",
-      "index~mobile": "All categories"
-    },
-    "brands": {
-      "index": "All brands",
-      "index~mobile": "All brands"
-    }
+    "categories": "All categories",
+    "categories~mobile": "All categories",
+    "brands": "All brands",
+    "brands~mobile": "All brands"
   }
 }
