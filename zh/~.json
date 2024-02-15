@@ -68,7 +68,6 @@
       "[id]": "/内容编辑器/{{ id }}"
     },
     "chat": "/聊天",
-    "curate": "/策展",
     "manage": "/管理内容",
     "marketplace": "/市场",
     "products-overview": "/产品",
@@ -95,6 +94,16 @@
     "pricing": "/组织/定价"
   },
   "tools": {
+    "curator": {
+      "[[...spa]]": "/策展",
+      "products": {
+        "index": "^/产品",
+        "[id]": {
+          "index": "^/{{ id }}",
+          "[editId]": "^/编辑/{{ editId }}"
+        }
+      }
+    },
     "feed-matcher": {
       "[[...spa]]": "/工具/订阅匹配",
       "shops": {

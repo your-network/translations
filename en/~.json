@@ -68,7 +68,6 @@
       "[id]": "/content-editor/{{ id }}"
     },
     "chat": "/chat",
-    "curate": "/curate",
     "manage": "/manage-content",
     "marketplace": "/marketplace",
     "products-overview": "/products",
@@ -95,6 +94,16 @@
     "pricing": "/org/pricing"
   },
   "tools": {
+    "curator": {
+      "[[...spa]]": "/curate",
+      "products": {
+        "index": "^/products",
+        "[id]": {
+          "index": "^/{{ id }}",
+          "[editId]": "^/edit/{{ editId }}"
+        }
+      }
+    },
     "feed-matcher": {
       "[[...spa]]": "/tools/feed-matcher",
       "shops": {
