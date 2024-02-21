@@ -79,17 +79,12 @@
     "sdk": "/演示/sdk"
   },
   "org": {
-    "downloads": {
-      "index": "/组织/下载",
-      "[id]": "/组织/下载/{{ id }}"
-    },
     "stream": {
       "customize": "/组织/流/风格",
       "settings": "/组织/流/设置"
     },
     "dashboard": "/组织",
     "analytics": "/组织/分析",
-    "download": "/组织/下载",
     "onboarding": "/组织/加入",
     "pricing": "/组织/定价"
   },

@@ -47,10 +47,6 @@
     "analytics~mobile": "Analytics",
     "dashboard": "Dashboard",
     "dashboard~mobile": "Home",
-    "download": "Download content",
-    "download~mobile": "Download",
-    "downloads": "Your downloads",
-    "downloads~mobile": "Your downloads",
     "pricing": "Pricing plans",
     "pricing~mobile": "Pricing",
     "stream": {

@@ -79,17 +79,12 @@
     "sdk": "/demo/sdk"
   },
   "org": {
-    "downloads": {
-      "index": "/org/downloads",
-      "[id]": "/org/downloads/{{ id }}"
-    },
     "stream": {
       "customize": "/org/stream/style",
       "settings": "/org/stream/settings"
     },
     "dashboard": "/org",
     "analytics": "/org/analytics",
-    "download": "/org/download",
     "onboarding": "/org/onboarding",
     "pricing": "/org/pricing"
   },

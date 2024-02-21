@@ -1,12 +1,4 @@
 {
-  "DataExportDownloadReady": {
-    "title": "Download is ready",
-    "cta": "Download"
-  },
-  "DataExportReadyForPayment": {
-    "title": "Ready for payment",
-    "cta": "Start payment"
-  },
   "FirstUserLogin": {
     "title": "Welcome {{ name }}",
     "cta": "Let's begin"
