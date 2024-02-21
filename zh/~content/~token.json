@@ -66,12 +66,12 @@
         }
     },
     "protocol": {
-      "title": "World's first content layer for Web3 e-commerce",
-      "headline": "YOUR protocol",
+      "title": "世界首个Web3电子商务内容层",
+      "headline": "YOUR 协议",
       "text": [
-        "BRC-20 tokenisation of content assets",
-        "Smart reward mechanism for protocol contributors",
-        "AI-driven personalised product content"
+        "BRC-20标准的内容资产代币化",
+        "为协议贡献者提供的智能奖励机制",
+        "基于人工智能的个性化产品内容"
       ]
     },
     "tokenomics": {
@@ -115,12 +115,12 @@
                 "text": "锁定100%持续1年。"
             },
             "liquidity": {
-                "title": "流动性",
-                "text": "上市时100%解锁。"
+                "title": "4% 流动性",
+                "text": "上市后100%解锁"
             },
             "marketing": {
-                "title": "营销",
-                "text": "解锁100%，每月解锁10%。"
+                "title": "5% 市场推广",
+                "text": "100% 锁定，每月解锁10%"
             }
         },
         "utility": {
@@ -144,13 +144,13 @@
         }
     },
     "security": {
-      "headline": "Security",
-      "title": "Battle-tested smart contract",
+      "headline": "安全性",
+      "title": "经过实战测试的智能合约",
       "text": [
-        "We're excited to share that Zokyo, a leading Web3 cybersecurity firm, has successfully audited our smart contract.",
-        "With their expertise, we can confidently state that our smart contract meets the highest security standards, reinforcing our commitment to the safety and trust of our community."
+        "我们很高兴向您宣布，全球领先的Web3网络安全公司Zokyo已成功审计了我们的智能合约。",
+        "依托他们深厚的专业知识，我们有充分的理由自信地宣布，我们的智能合约已经达到了最高的安全标准，这进一步强化了我们对社区安全与信任的坚定承诺。"
       ],
-      "cta": "Read report"
+      "cta": "阅读报告"
     },
     "roadmap": {
         "title": "路线图",
