@@ -6,6 +6,7 @@
   },
   "title": "Curate",
   "products": {
+    "title": "Curation overview",
     "search": {
       "empty": "No products edited"
     },
@@ -15,6 +16,18 @@
       "category": "category",
       "contentTypes": "Content types",
       "lastEdit": "Last edit"
+    }
+  },
+  "product": {
+    "title": "Product overview",
+    "search": {
+      "empty": "No edits for this product"
+    },
+    "headings": {
+      "user": "Creator",
+      "date": "Date",
+      "contentType": "Content",
+      "summary": "Contribution"
     }
   }
 }
