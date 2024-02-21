@@ -7,10 +7,6 @@
     "label": "Categories",
     "value": ""
   },
-  "Changeset": {
-    "label": "Content edits",
-    "value": ""
-  },
   "Product": {
     "label": "Products",
     "value": "{{ number }} million"

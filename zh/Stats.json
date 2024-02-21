@@ -7,10 +7,6 @@
         "label": "类别",
         "value": ""
     },
-    "Changeset": {
-        "label": "内容编辑",
-        "value": ""
-    },
     "Product": {
         "label": "产品",
         "value": "{{number}}百万"

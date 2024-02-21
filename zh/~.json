@@ -147,13 +147,7 @@
     "product": {
       "[slug]": {
         "[id]": {
-          "index": "/p/{{ slug }}/{{ id }}",
-          "revisions": {
-            "index": "^/修订版本",
-            "[revisionId]": {
-              "index": "^/{{ revisionId }}"
-            }
-          }
+          "index": "/p/{{ slug }}/{{ id }}"
         }
       }
     },

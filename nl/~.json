@@ -144,13 +144,7 @@
     "product": {
       "[slug]": {
         "[id]": {
-          "index": "/p/{{ slug }}/{{ id }}",
-          "revisions": {
-            "index": "^/revisions",
-            "[revisionId]": {
-              "index": "^/{{ revisionId }}"
-            }
-          }
+          "index": "/p/{{ slug }}/{{ id }}"
         }
       }
     },
