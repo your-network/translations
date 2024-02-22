@@ -89,16 +89,7 @@
     "pricing": "/组织/定价"
   },
   "tools": {
-    "curator": {
-      "[[...spa]]": "/策展",
-      "products": {
-        "index": "^/产品",
-        "[id]": {
-          "index": "^/{{ id }}",
-          "[editId]": "^/编辑/{{ editId }}"
-        }
-      }
-    },
+    "curator": "/策展",
     "feed-matcher": {
       "[[...spa]]": "/工具/订阅匹配",
       "shops": {

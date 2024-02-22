@@ -89,16 +89,7 @@
     "pricing": "/org/pricing"
   },
   "tools": {
-    "curator": {
-      "[[...spa]]": "/curate",
-      "products": {
-        "index": "^/products",
-        "[id]": {
-          "index": "^/{{ id }}",
-          "[editId]": "^/edit/{{ editId }}"
-        }
-      }
-    },
+    "curator": "/curate",
     "feed-matcher": {
       "[[...spa]]": "/tools/feed-matcher",
       "shops": {
