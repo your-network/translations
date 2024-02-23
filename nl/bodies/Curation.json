@@ -68,10 +68,14 @@
   },
   "action": {
     "approval": {
-      "title": "Approve change"
+      "title": "Approve change",
+      "pastVerb": "Approved",
+      "failed": "Failed to approve this change"
     },
     "rejection": {
-      "title": "Reject change"
+      "title": "Reject change",
+      "pastVerb": "Rejected",
+      "failed": "Failed to reject this change"
     }
   }
 }

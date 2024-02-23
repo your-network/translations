@@ -12,5 +12,6 @@
     }
   },
   "noReason": "None of these reasons",
-  "charsLeft": "{{ count }} characters left"
+  "charsLeft": "{{ count }} characters left",
+  "save": "Save"
 }
