@@ -55,9 +55,23 @@
     "answer_other": "{{ count }} answers",
     "unsupported": "N/A"
   },
-  "actions": {
-    "addition": {
+  "change": {
+    "created": {
       "pastVerb": "Added"
+    },
+    "updated": {
+      "pastVerb": "Changed"
+    },
+    "deleted": {
+      "pastVerb": "Removed"
+    }
+  },
+  "action": {
+    "approval": {
+      "title": "Approve change"
+    },
+    "rejection": {
+      "title": "Reject change"
     }
   }
 }

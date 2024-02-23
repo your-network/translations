@@ -1,10 +1,10 @@
 {
   "placeholders": {
-    "feedback": "Share a feedback",
+    "feedback": "Share some feedback",
     "reason": "Select a reason"
   },
   "labels": {
-    "reason": "ReasonSelect a "
+    "reason": "Reason"
   },
   "errors": {
     "feedback": {
