@@ -29,5 +29,19 @@
       "contentType": "Content",
       "summary": "Contribution"
     }
+  },
+  "edit": {
+    "approvables": {
+      "empty": {
+        "title": "Missing",
+        "text": "This edit content does not seem to exist anymore"
+      }
+    },
+    "revisions": {
+      "empty": {
+        "title": "No results",
+        "text": "There are no other versions of this content available"
+      }
+    }
   }
 }
