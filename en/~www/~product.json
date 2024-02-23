@@ -7,7 +7,6 @@
   "subtitle": {
     "withCreators": "Learn everything about this product which is made possible by <creators></creators>. Share your experience today and earn!",
     "withoutCreators": "Learn everything about this product. Share your experience today and earn!",
-    "creators": "",
     "creators_one": "one creator",
     "creators_other": "{{ count }} creators"
   },
@@ -16,7 +15,6 @@
     "extract": "Download"
   },
   "contributors": {
-    "creators": "",
     "creators_one": "Creator:",
     "creators_other": "Creators:",
     "content": "",

@@ -15,11 +15,11 @@
   },
   "groups": {
     "all": "Search suggestions",
-    "Category": "Categories",
+    "Category_other": "Categories",
     "Category_one": "Category",
-    "Brand": "Brands",
+    "Brand_other": "Brands",
     "Brand_one": "Brand",
-    "Product": "Popular products",
+    "Product_other": "Popular products",
     "Product_one": "Popular product"
   }
 }

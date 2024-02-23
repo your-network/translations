@@ -1,15 +1,15 @@
 {
   "title": "Let's get started {{ name }}",
   "text": "In 3 short steps we teach you how to style and stream product content",
-  "0": {
+  "step0": {
     "title": "Watch a quick intro about YOUR and streaming content",
     "cta": "Start onboarding"
   },
-  "1": {
+  "step1": {
     "title": "Style and preview product content",
     "cta": "Next step"
   },
-  "2": {
+  "step2": {
     "title": "Add content easily using our snippet",
     "cta": "Finish onboarding",
     "card": {
@@ -19,11 +19,11 @@
     },
     "text": "In two simple steps you can stream the data yourself, but you can also <link>submit a request or reach out to us</link>",
     "actions": {
-      "1": {
+      "n1": {
         "title": "Paste this code right before the </head> tag",
         "copy": "Copy code"
       },
-      "2": {
+      "n2": {
         "title": "Add this code in the places where you want to stream data "
       }    
     }

@@ -1,160 +1,59 @@
 {
-  "status": {
-    "Approved": "Approved",
-    "Pending": "Pending",
-    "Declined": "Declined"
-  },
   "titles": {
     "text": "Product information",
-    "text_title": "Title",
-    "text_description": "Description",
+    "title": "Title",
+    "description": "Description",
     "reasonToBuy": "Reasons to buy",
     "specs": "Specifications",
     "review": "Review",
     "prosCons": "Pros & Cons",
-    "image": "",
     "image_one": "Photo",
     "image_other": "Photos",
-    "video": "",
     "video_one": "Video",
     "video_other": "Videos",
-    "pdf": "",
     "pdf_one": "Manual",
     "pdf_other": "Manuals",
-    "news": "",
     "news_one": "News article",
     "news_other": "News articles",
-    "qa": "",
     "qa_one": "Question & answer",
     "qa_other": "Questions & answers",
-    "question": "",
     "question_one": "Question",
     "question_other": "Questions",
-    "answer": "",
     "answer_one": "Answer",
     "answer_other": "Answers",
     "unsupported": "Unsupported"
-  },
-  "media": {
-    "media": "",
-    "media_one": "Media",
-    "media_other": "Media",
-    "image": "",
-    "image_one": "Photo",
-    "image_other": "Photos",
-    "video": "",
-    "video_one": "Video",
-    "video_other": "Videos",
-    "pdf": "",
-    "pdf_one": "Manual",
-    "pdf_other": "Manuals"
-  },
-  "labels": {
-    "text": {
-      "Title": "Title",
-      "Description": "Description",
-      "Value": "",
-      "Pros": "Pro",
-      "Cons": "Con"
-    },
-    "review": {
-      "Score": "Score",
-      "Title": "Title",
-      "Value": "Description",
-      "CompanyName": "Company name",
-      "Pros": "Pros",
-      "Cons": "Cons",
-      "pro": "Pro",
-      "con": "Con"
-    },
-    "news": {
-      "Url": "URL"
-    },
-    "question": {
-      "Title": "Question",
-      "Details": "Details"
-    },
-    "answer": {
-      "Answer": "Answer"
-    }
-  },
-  "author": {
-    "anonymous": "Anonymous"
-  },
-  "summary": {
-    "title_description": "Title & description",
-    "title_description_specs": "Title, description and specifications",
-    "review": "#{{ count }} fields",
-    "news": "#{{ count }} urls",
-    "question": "#{{ count }} questions",
-    "answers": "#{{ count }} answers",
-    "entries": "#{{ count }} entries",
-    "unknown": "N/A"
-  },
-  "recap": {
-    "title": "the title",
-    "description": "the description",
-    "specs": "",
-    "specs_one": "{{ count }} specification",
-    "specs_other": "{{ count }} specifications",
-    "image": "",
-    "image_one": "a photo",
-    "image_other": "{{ count }} photos",
-    "video": "",
-    "video_one": "a video",
-    "video_other": "{{ count }} videos",
-    "pdf": "",
-    "pdf_one": "a manual",
-    "pdf_other": "{{ count }} manuals",
-    "review": "",
-    "review_one": "a review",
-    "review_other": "{{ count }} review",
-    "news": "",
-    "news_one": "{{ count }} news",
-    "news_other": "{{ count }} news articles",
-    "qa": "",
-    "qa_one": "{{ count }} Q & A",
-    "qa_other": "{{ count }} questions & answers",
-    "question": "",
-    "question_one": "{{ count }} question",
-    "question_other": "{{ count }} questions",
-    "answer": "",
-    "answer_one": "{{ count }} answer",
-    "answer_other": "{{ count }} answers"
   },
   "sentences": {
     "done": "{{ action }} {{ subject }}",
     "doneAndTranslated": "{{ action }} and translated {{ subject }}"
   },
+  "subject": {
+    "text": "some information",
+    "title": "the title",
+    "description": "the description",
+    "specs_one": "a specification",
+    "specs_other": "{{ count }} specifications",
+    "image_one": "a photo",
+    "image_other": "{{ count }} photos",
+    "video_one": "a video",
+    "video_other": "{{ count }} videos",
+    "pdf_one": "a manual",
+    "pdf_other": "{{ count }} manuals",
+    "review_one": "a review",
+    "review_other": "{{ count }} review",
+    "news_one": "one news",
+    "news_other": "{{ count }} news articles",
+    "qa_one": "a Q&A",
+    "qa_other": "{{ count }} questions & answers",
+    "question_one": "a question",
+    "question_other": "{{ count }} questions",
+    "answer_one": "an answer",
+    "answer_other": "{{ count }} answers",
+    "unsupported": "N/A"
+  },
   "actions": {
     "addition": {
-      "pastVerb": "Added",
-      "changes": "",
-      "changes_one": "+ {{ count }} addition",
-      "changes_other": "+ {{ count }} additions"
-    },
-    "removal": {
-      "pastVerb": "Deleted",
-      "changes": "",
-      "changes_one": "- {{ count }} removal",
-      "changes_other": "- {{ count }} removals"
-    },
-    "update": {
-      "pastVerb": "Changed",
-      "changes": "",
-      "changes_one": "{{ count }} update",
-      "changes_other": "{{ count }} updates"
-    },
-    "translation": {
-      "pastVerb": "Translated",
-      "changes": "",
-      "changes_one": "+ {{ count }} translation",
-      "changes_other": "+ {{ count }} translations"
+      "pastVerb": "Added"
     }
-  },
-  "changes": "",
-  "changes_one": "{{ count }} change",
-  "changes_zero": "No changes",
-  "changes_other": "{{ count }} changes",
-  "and": "and"
+  }
 }

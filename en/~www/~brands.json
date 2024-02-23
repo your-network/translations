@@ -11,7 +11,6 @@
   "subtitle": "Search for a brand",
   "search": {
     "placeholder": "Type in a brand",
-    "results": "",
     "results_one": "1 result",
     "results_other": "<number></number> results"
   },

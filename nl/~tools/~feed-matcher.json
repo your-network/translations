@@ -62,7 +62,6 @@
     "title": "Edit source"
   },
   "map": {
-    "changes": "Changed mappings",
     "changes_one": "1 mapping changed",
     "changes_other": "{{ count }} mappings changed",
     "save": "Save mapping",

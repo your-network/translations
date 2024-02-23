@@ -31,13 +31,11 @@
     "view": {
       "changes": {
         "title": "Summary",
-        "count": "{{ count }} changes",
         "count_one": "{{ count }} change",
         "count_other": "{{ count }} changes"
       },
       "errors": {
         "title": "Errors summary",
-        "count": "{{ count }} errors",
         "count_one": "{{ count }} error",
         "count_other": "{{ count }} errors"
       }
@@ -48,7 +46,6 @@
     },
     "image": {
       "name": "Images",
-      "added": "Added {{ count }} images",
       "added_one": "Added {{ count }} image",
       "added_other": "Added {{ count }} images"
     },
@@ -58,7 +55,6 @@
     },
     "video": {
       "name": "Videos",
-      "added": "Added {{ count }} videos",
       "added_one": "Added {{ count }} video",
       "added_other": "Added {{ count }} videos"
     },

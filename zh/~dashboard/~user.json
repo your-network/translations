@@ -46,7 +46,6 @@
   "brands": {
     "title": "Popular brands",
     "cta": "Show all",
-    "products": "{{ count }} products",
     "products_one": "{{ count }} product",
     "products_other": "{{ count }} products",
     "products_0": "No products"
