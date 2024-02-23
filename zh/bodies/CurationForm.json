@@ -1,0 +1,16 @@
+{
+  "placeholders": {
+    "feedback": "Share some feedback",
+    "reason": "Select a reason"
+  },
+  "labels": {
+    "reason": "Reason"
+  },
+  "errors": {
+    "feedback": {
+      "max": "Maximum 600 characters"
+    }
+  },
+  "noReason": "None of these reasons",
+  "charsLeft": "{{ count }} characters left"
+}
