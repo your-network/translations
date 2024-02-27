@@ -77,5 +77,8 @@
       "pastVerb": "Rejected",
       "failed": "Failed to reject this change"
     }
+  },
+  "feedback": {
+    "for": "Feedback for {{ name }}"
   }
 }
