@@ -24,7 +24,7 @@
     }
   },
   "intro": {
-    "title": "The future for Web3 e-commerce",
+    "title": "The future for AI-driven e-commerce",
     "text": "YOUR Protocol is the world's first AI-driven content layer for e-commerce built on <bitcoin></bitcoin> and <ethereum></ethereum>.",
     "asSeen": "As seen in",
     "countdown": "Countdown",
@@ -55,11 +55,11 @@
     },
     "sdk": {
       "title": "Code integration",
-      "text": "Implement our SDK for AI-driven product page content, ensuring compatibility across leading global platforms such as Salesforce."
+      "text": "Implement our SDK for AI-driven product content, ensuring compatibility across leading global platforms such as Salesforce."
     },
     "create": {
       "title": "Creation application",
-      "text": "Our content editor app has 25000+ active creators creating a foundation for YOUR AI Picasso. "
+      "text": "Our content editor app has 25000+ active creators creating a foundation for YOUR AI Picasso."
     }
   },
   "protocol": {
