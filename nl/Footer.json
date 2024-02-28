@@ -1,5 +1,5 @@
 {
-  "description": "YOUR Protocol is the world’s first content layer for the future of Web3 e-commerce built on Bitcoin and Ethereum.",
+  "description": "YOUR Protocol is the world’s first AI-driven content layer for the future of e-commerce built on Bitcoin and Ethereum.",
   "copyright": "© {{year}} www.your.io, Inc. All Rights Reserved.",
   "blocks": {
     "about": {
@@ -58,23 +58,23 @@
       "links": [
         {
           "text": "🇺🇸 English",
-          "url": "https://t.me/+fZdZesxD_zQzM2Y0"
+          "url": "https://t.me/your_community"
         },
         {
           "text": "🇨🇳 Chinese",
-          "url": "https://t.me/yourofficialchina"
+          "url": "https://t.me/your_community"
         },
         {
           "text": "🇰🇷 Korean",
-          "url": "https://t.me/your_community_KR"
+          "url": "https://t.me/your_community"
         },
         {
           "text": "🇹🇷 Turkish",
-          "url": "https://t.me/YourTurkiye"
+          "url": "https://t.me/your_community"
         },
         {
           "text": "🇷🇺 Russian",
-          "url": "https://t.me/yourofficialrussia"
+          "url": "https://t.me/your_community"
         }
       ]
     },
