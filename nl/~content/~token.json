@@ -4,6 +4,7 @@
     "description": "YOUR AI Protocol is the world's first AI-driven content layer for e-commerce built on Bitcoin and Solana.",
     "keywords": ""
   },
+  "ctaBuy": "Buy $YOURAI",
   "cta": "Launch product",
   "countdown": {
     "d": {
@@ -223,6 +224,10 @@
           {
             "text": "Learn hub",
             "url": "https://info.your.io"
+          },
+          {
+            "text": "Brand Kit",
+            "url": "https://drive.google.com/drive/folders/1WIDW6uFD_3vHPIo4iun8IB8U9kxDW2Mw?usp=drive_link"
           },
           {
             "text": "Blog",
