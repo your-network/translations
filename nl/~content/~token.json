@@ -1,7 +1,7 @@
 {
   "seo": {
-    "title": "The future for Web3 e-commerce",
-    "description": "YOUR is the content layer for scaling e-commerce experiences by enabling seamless streaming of high-quality product content.",
+    "title": "The future for AI-driven e-commerce",
+    "description": "YOUR AI Protocol is the world's first AI-driven content layer for e-commerce built on Bitcoin and Solana.",
     "keywords": ""
   },
   "cta": "Launch product",
@@ -24,11 +24,10 @@
     }
   },
   "intro": {
-    "title": "The future for AI-driven e-commerce",
-    "text": "YOUR Protocol is the world's first AI-driven content layer for e-commerce built on <bitcoin></bitcoin> and <ethereum></ethereum>.",
-    "asSeen": "As seen in",
-    "countdown": "Countdown",
-    "idoLaunch": "IDO launch"
+    "headline": "The future for",
+    "title": "AI-driven e-commerce",
+    "text": "YOUR Protocol is the world's first AI-driven content layer for e-commerce built on <bitcoin></bitcoin> and <solana></solana>.",
+    "featuredIn": "Featured in"
   },
   "partners": {
     "title": "Backed by"
@@ -163,7 +162,7 @@
       },
       {
         "title": "Q1 - 2024",
-        "actions": ["IDO sale", "Multichain token launch", "Protocol testnet", "Staking platform", "Shop partnerships","BRC-20 partnerships"]
+        "actions": ["IDO sale", "AI Picasso Model", "Multichain token launch", "Protocol testnet", "Staking platform", "Shop partnerships","BRC-20 partnerships"]
       },
       {
         "title": "Q2 - 2024",
