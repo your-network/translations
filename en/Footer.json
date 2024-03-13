@@ -10,6 +10,10 @@
           "route": "content.about"
         },
         {
+          "text": "Brand Kit",
+          "url": "https://drive.google.com/drive/folders/1WIDW6uFD_3vHPIo4iun8IB8U9kxDW2Mw"
+        },
+        {
           "text": "Become a creator",
           "route": "content.creator"
         }
