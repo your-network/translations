@@ -244,16 +244,12 @@
             "url": "https://t.me/your_community"
           },
           {
-            "text": "🇰🇷 Korean",
-            "url": "https://t.me/your_community"
-          },
-          {
             "text": "🇹🇷 Turkish",
             "url": "https://t.me/your_community"
           },
           {
-            "text": "🇷🇺 Russian",
-            "url": "https://t.me/your_community"
+            "text": "🇨🇳 Chinese",
+            "url": "https://t.me/yourofficialchina"
           }
         ]
       }

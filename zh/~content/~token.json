@@ -4,8 +4,9 @@
         "description": "YOUR AI Protocol是全球首个构建于Bitcoin和Solana之上并基于AI的电子商务内容层。",
         "keywords": ""
     },
-     "ctaBuy": "购买$YOURAI",
+    "ctaBuy": "购买$YOURAI",
     "cta": "推出产品",
+    "contractAddress": "Contract address",
     "countdown": {
         "d": {
             "one": "1天",
@@ -261,16 +262,12 @@
                         "url": "https://t.me/your_community"
                     },
                     {
-                        "text": "🇰🇷 韩语",
-                        "url": "https://t.me/your_community"
-                    },
-                    {
                         "text": "🇹🇷 土耳其语",
                         "url": "https://t.me/your_community"
                     },
                     {
-                        "text": "🇷🇺 俄语",
-                        "url": "https://t.me/your_community"
+                        "text": "🇨🇳 中国人",
+                        "url": "https://t.me/yourofficialchina"
                     }
                 ]
             }
