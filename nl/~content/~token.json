@@ -38,7 +38,10 @@
     "header": "Vision",
     "headline": "Vision",
     "title": "Disrupt e-commerce with our AI-driven content layer",
-    "text": ["Introducing YOUR, a revolutionary Web3 protocol for the booming $8.8 trillion e-commerce market by 2026. Brands such as Apple and Samsung struggle with content control and accuracy online. YOUR empowers them with full control, ownership, transparency.", "By giving e-commerce shops access to stream AI-driven personalised product content, we not only enhance the shopping experience but also significantly increases conversion rates."]
+    "text": [
+      "Introducing YOUR, a revolutionary Web3 protocol for the booming $8.8 trillion e-commerce market by 2026. Brands such as Apple and Samsung struggle with content control and accuracy online. YOUR empowers them with full control, ownership, transparency.",
+      "By giving e-commerce shops access to stream AI-driven personalised product content, we not only enhance the shopping experience but also significantly increases conversion rates."
+    ]
   },
   "product": {
     "header": "Product",
@@ -164,15 +167,34 @@
       },
       {
         "title": "Q1 - 2024",
-        "actions": ["IDO sale", "AI Picasso Model", "Multichain token launch", "Protocol testnet", "Staking platform", "Shop partnerships","BRC-20 partnerships"]
+        "actions": [
+          "IDO sale",
+          "AI Picasso Model",
+          "Multichain token launch",
+          "Protocol testnet",
+          "Staking platform",
+          "Shop partnerships",
+          "BRC-20 partnerships"
+        ]
       },
       {
         "title": "Q2 - 2024",
-        "actions": ["AI content layers", "Storage node network", "Shop partnerships", "BRC-20 tokenisation", "BRC-20 staking"]
+        "actions": [
+          "AI content layers",
+          "Storage node network",
+          "Shop partnerships",
+          "BRC-20 tokenisation",
+          "BRC-20 staking"
+        ]
       },
       {
         "title": "Q3/Q4 - 2024",
-        "actions": ["Growth protocol dApps", "AI Picasso model", "BRC-20 content marketplace", "Protocol mainnet"]
+        "actions": [
+          "Growth protocol dApps",
+          "AI Picasso model",
+          "BRC-20 content marketplace",
+          "Protocol mainnet"
+        ]
       }
     ]
   },
@@ -254,5 +276,5 @@
         ]
       }
     }
-  }  
+  }
 }
