@@ -1,5 +1,5 @@
 {
-  "description": "YOUR Protocol is the world’s first AI-driven content layer for the future of e-commerce built on Bitcoin and Ethereum.",
+  "description": "YOUR Protocol is the world’s first AI-driven content layer for the future of e-commerce built on Bitcoin and Solana.",
   "copyright": "© {{year}} www.your.io, Inc. All Rights Reserved.",
   "blocks": {
     "about": {
@@ -8,6 +8,10 @@
         {
           "text": "About us",
           "route": "content.about"
+        },
+        {
+          "text": "Brand Kit",
+          "url": "https://drive.google.com/drive/folders/1WIDW6uFD_3vHPIo4iun8IB8U9kxDW2Mw"
         },
         {
           "text": "Become a creator",
@@ -62,19 +66,11 @@
         },
         {
           "text": "🇨🇳 Chinese",
-          "url": "https://t.me/your_community"
-        },
-        {
-          "text": "🇰🇷 Korean",
-          "url": "https://t.me/your_community"
+          "url": "https://t.me/yourofficialchina"
         },
         {
           "text": "🇹🇷 Turkish",
-          "url": "https://t.me/your_community"
-        },
-        {
-          "text": "🇷🇺 Russian",
-          "url": "https://t.me/your_community"
+          "url": "https://t.me/YourTurkiye"
         }
       ]
     },
