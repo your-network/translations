@@ -26,11 +26,10 @@
         }
     },
     "intro": {
+        "headline": "The future for",
         "title": "基于AI的电子商务的未来",
         "text": "YOUR AI Protocol是全球首个构建于Bitcoin和Solana之上并基于AI的电子商务内容层。",
-        "asSeen": "媒体报道",
-        "countdown": "倒计时",
-        "idoLaunch": "IDO发布"
+        "featuredIn": "媒体报道"
     },
     "partners": {
         "title": "支持伙伴"
