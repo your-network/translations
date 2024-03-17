@@ -115,13 +115,13 @@
                 "title": "储备",
                 "text": "锁定100%持续1年。"
             },
-            "liquidity": {
-                "title": "流动性",
-                "text": "上市时100%解锁。"
-            },
             "marketing": {
                 "title": "营销",
                 "text": "100%锁定，每月解锁10%。"
+            },
+            "liquidity": {
+                "title": "流动性",
+                "text": "上市时100%解锁。"
             }
         },
         "utility": {

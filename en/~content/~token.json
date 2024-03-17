@@ -112,13 +112,13 @@
         "title": "Reserves",
         "text": "100% locked for 1 year"
       },
-      "liquidity": {
-        "title": "Liquidity",
-        "text": "100% unlocked at listing"
-      },
       "marketing": {
         "title": "Marketing",
         "text": "100% locked, 10% unlocked each month"
+      },
+      "liquidity": {
+        "title": "Liquidity",
+        "text": "100% unlocked at listing"
       }
     },
     "utility": {
