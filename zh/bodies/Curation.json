@@ -78,6 +78,11 @@
       "failed": "Failed to reject this change"
     }
   },
+  "status": {
+    "approved": "Approved",
+    "pending": "Pending",
+    "declined": "Declined"
+  },
   "feedback": {
     "for": "Feedback for {{ name }}"
   }
