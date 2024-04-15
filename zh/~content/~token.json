@@ -122,24 +122,27 @@
         "title": "流动性",
         "text": "上市时100%解锁。"
       }
-    },
-    "utility": {
-      "headline": "代币效用",
-      "title": "与持有人分享公司的成功",
-      "text": "$YOUR利用<b>智能奖励</b>、<b>回购</b>和<b>质押机制</b>来支撑$YOUR代币的价值, 并与持有人分享公司的成功。",
-      "list": {
-        "earn": {
-          "title": "赚取$YOUR代币",
-          "text": "内容创作者、策展人、节点和开发者对协议做出贡献将获得$YOUR代币作为奖励。"
-        },
-        "pools": {
-          "title": "持续回购周期",
-          "text": "内容分发去中心化应用 (dApp) 购买$YOUR代币以流式传输内容, 内容创作去中心化应用 (dApp) 购买$YOUR代币以存储和控制内容。"
-        },
-        "staking": {
-          "title": "持有的好处",
-          "text": "为了获得内容功能, 协议用户需要质押$YOUR代币。此外, 他们还将享有长期质押的年化收益率。"
-        }
+    }
+  },
+  "schedule": {
+    "title": "Release schedule"
+  },
+  "utility": {
+    "headline": "代币效用",
+    "title": "与持有人分享公司的成功",
+    "text": "$YOUR利用<b>智能奖励</b>、<b>回购</b>和<b>质押机制</b>来支撑$YOUR代币的价值, 并与持有人分享公司的成功。",
+    "list": {
+      "earn": {
+        "title": "赚取$YOUR代币",
+        "text": "内容创作者、策展人、节点和开发者对协议做出贡献将获得$YOUR代币作为奖励。"
+      },
+      "pools": {
+        "title": "持续回购周期",
+        "text": "内容分发去中心化应用 (dApp) 购买$YOUR代币以流式传输内容, 内容创作去中心化应用 (dApp) 购买$YOUR代币以存储和控制内容。"
+      },
+      "staking": {
+        "title": "持有的好处",
+        "text": "为了获得内容功能, 协议用户需要质押$YOUR代币。此外, 他们还将享有长期质押的年化收益率。"
       }
     }
   },
@@ -210,18 +213,12 @@
   },
   "join": {
     "title": "加入我们的旅程",
-    "text": "加入等待名单, 优先体验首次预售"
+    "text": "Be the first to get the latest announcements"
   },
   "footer": {
     "blocks": {
       "tokens": {
-        "title": "购买代币",
-        "links": [
-          {
-            "text": "即将推出",
-            "url": "#"
-          }
-        ]
+        "title": "购买代币"
       },
       "earn": {
         "title": "赚取代币",
@@ -232,7 +229,7 @@
           },
           {
             "text": "质押以赚取代币",
-            "url": "#"
+            "url": "https://staking.your.io"
           }
         ]
       },
@@ -249,7 +246,7 @@
           },
           {
             "text": "博客",
-            "url": "https://yourprotocol.medium.com"
+            "url": "https://medium.com/@youraiprotocol"
           }
         ]
       },

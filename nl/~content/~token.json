@@ -123,24 +123,27 @@
         "title": "Liquidity",
         "text": "100% unlocked at listing"
       }
-    },
-    "utility": {
-      "headline": "Token utility",
-      "title": "Sharing the company's success with holders",
-      "text": "$YOUR utilises a <b>smart reward</b>, <b>buy back</b> and <b>staking mechanism</b> to support the value of the $YOUR token and share the company's success with holders.",
-      "list": {
-        "earn": {
-          "title": "Earn $YOUR tokens",
-          "text": "Content Creators, Curators, Nodes, and Developers that contribute to grow and maintain the protocol, get rewarded in $YOUR tokens."
-        },
-        "pools": {
-          "title": "Continuous buyback cycle",
-          "text": "Content Distribution dApps buy $YOUR Tokens to stream content plus Content Creation dApps buy $YOUR Tokens to store & control content."
-        },
-        "staking": {
-          "title": "Holding benefits",
-          "text": "Protocol users must stake $YOUR tokens for content features access and will also earn APY for long-term staking."
-        }
+    }
+  },
+  "schedule": {
+    "title": "Release schedule"
+  },
+  "utility": {
+    "headline": "Token utility",
+    "title": "Sharing the company's success with holders",
+    "text": "$YOUR utilises a <b>smart reward</b>, <b>buy back</b> and <b>staking mechanism</b> to support the value of the $YOUR token and share the company's success with holders.",
+    "list": {
+      "earn": {
+        "title": "Earn $YOUR tokens",
+        "text": "Content Creators, Curators, Nodes, and Developers that contribute to grow and maintain the protocol, get rewarded in $YOUR tokens."
+      },
+      "pools": {
+        "title": "Continuous buyback cycle",
+        "text": "Content Distribution dApps buy $YOUR Tokens to stream content plus Content Creation dApps buy $YOUR Tokens to store & control content."
+      },
+      "staking": {
+        "title": "Holding benefits",
+        "text": "Protocol users must stake $YOUR tokens for content features access and will also earn APY for long-term staking."
       }
     }
   },
@@ -211,18 +214,12 @@
   },
   "join": {
     "title": "Join us on this journey",
-    "text": "Get on the waitlist for early-access to the first pre-sale"
+    "text": "Be the first to get the latest announcements"
   },
   "footer": {
     "blocks": {
       "tokens": {
-        "title": "Buy tokens",
-        "links": [
-          {
-            "text": "Coming soon",
-            "url": "#"
-          }
-        ]
+        "title": "Buy tokens"
       },
       "earn": {
         "title": "Earn tokens",
@@ -233,7 +230,7 @@
           },
           {
             "text": "Stake to earn",
-            "url": "#"
+            "url": "https://staking.your.io"
           }
         ]
       },
@@ -254,7 +251,7 @@
           },
           {
             "text": "Blog",
-            "url": "https://yourprotocol.medium.com"
+            "url": "https://medium.com/@youraiprotocol"
           }
         ]
       },
