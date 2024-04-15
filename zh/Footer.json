@@ -1,90 +1,46 @@
 {
-  "description": "YOUR通过提供高质量产品内容的无缝流式传输，为扩展电子商务体验奠定了坚实基础。",
+  "description": "YOUR通过提供高质量产品内容的无缝流式传输, 为扩展电子商务体验奠定了坚实基础。",
   "copyright": "© {{year}} www.your.io, Inc.版权所有。",
   "blocks": {
     "about": {
       "title": "关于YOUR",
-      "links": [
-        {
-          "text": "关于我们",
-          "route": "content.about"
-        },
-        {
-          "text": "成为创作者",
-          "route": "content.creator"
-        }
-      ]
+      "links": {
+        "about": "关于我们",
+        "brand": "Brand Kit",
+        "create": "成为创作者"
+      }
     },
     "business": {
-      "title": "去中心化应用（dApp）",
-      "links": [
-        {
-          "text": "创作者去中心化应用（dApp）",
-          "route": "content.build-dapps-content-creation"
-        },
-        {
-          "text": "分发去中心化应用（dApp）",
-          "route": "content.build-dapps-content-distribution"
-        },
-        {
-          "text": "注册去中心化应用（dApp）",
-          "route": "content.build-dapps-signup"
-        }
-      ]
+      "title": "去中心化应用 (dApp)",
+      "links": {
+        "creator": "创作者去中心化应用 (dApp)",
+        "distribution": "分发去中心化应用 (dApp)",
+        "signup": "注册去中心化应用 (dApp)"
+      }
     },
     "information": {
       "title": "学习",
-      "links": [
-        {
-          "text": "学习中心",
-          "url": "https://info.your.io"
-        },
-        {
-          "text": "帮助中心",
-          "url": "https://info.your.io/hc/en-nl/requests/new"
-        },
-        {
-          "text": "代币",
-          "route": "content.token"
-        },
-        {
-          "text": "文章",
-          "url": "https://medium.com/@youraiprotocol"
-        }
-      ]
+      "links": {
+        "hub": "学习中心",
+        "helpCenter": "帮助中心",
+        "token": "代币",
+        "articles": "文章"
+      }
     },
     "communities": {
-      "title": "社群",
-      "links": [
-        {
-          "text": "🇺🇸 英语",
-          "url": "https://t.me/your_community"
-        },
-        {
-          "text": "🇨🇳 中文",
-          "url": "https://t.me/yourofficialchina"
-        },
-        {
-          "text": "🇹🇷 土耳其语",
-          "url": "https://t.me/YourTurkiye"
-        }
-      ]
+      "title": "Communities",
+      "links": {
+        "english": "英语",
+        "chinese": "中文",
+        "turkish": "土耳其语"
+      }
     },
     "others": {
-      "links": [
-        {
-          "text": "Cookie声明",
-          "route": "content.cookies"
-        },
-        {
-          "text": "隐私政策",
-          "route": "content.privacy"
-        },
-        {
-          "text": "使用条款",
-          "route": "content.terms"
-        }
-      ]
+      "links": {
+        "cookies": "Cookie声明",
+        "privacy": "隐私政策",
+        "terms": "使用条款"
+      }
     }
   }
 }

@@ -222,50 +222,19 @@
       },
       "earn": {
         "title": "赚取代币",
-        "links": [
-          {
-            "text": "创作以赚取代币",
-            "route": "content.creator"
-          },
-          {
-            "text": "质押以赚取代币",
-            "url": "https://staking.your.io"
-          }
-        ]
+        "links": {
+          "create": "创作以赚取代币",
+          "stake": "质押以赚取代币"
+        }
       },
       "company": {
-        "title": "公司",
-        "links": [
-          {
-            "text": "关于我们",
-            "route": "content.about"
-          },
-          {
-            "text": "学习中心",
-            "url": "https://info.your.io"
-          },
-          {
-            "text": "博客",
-            "url": "https://medium.com/@youraiprotocol"
-          }
-        ]
-      },
-      "communities": {
-        "title": "社区",
-        "links": [
-          {
-            "text": "🇺🇸 英语",
-            "url": "https://t.me/your_community"
-          },
-          {
-            "text": "🇨🇳 中国人",
-            "url": "https://t.me/yourofficialchina"
-          },
-          {
-            "text": "🇹🇷 土耳其语",
-            "url": "https://t.me/YourTurkiye"
-          }
-        ]
+        "title": "Company",
+        "links": {
+          "about": "关于我们",
+          "learn": "学习中心",
+          "brand": "Brand kit",
+          "blog": "博客"
+        }
       }
     }
   }

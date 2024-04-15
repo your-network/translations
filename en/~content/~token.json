@@ -223,54 +223,19 @@
       },
       "earn": {
         "title": "Earn tokens",
-        "links": [
-          {
-            "text": "Create to earn",
-            "route": "content.creator"
-          },
-          {
-            "text": "Stake to earn",
-            "url": "https://staking.your.io"
-          }
-        ]
+        "links": {
+          "create": "Create to earn",
+          "stake": "Stake to earn"
+        }
       },
       "company": {
         "title": "Company",
-        "links": [
-          {
-            "text": "About us",
-            "route": "content.about"
-          },
-          {
-            "text": "Learn hub",
-            "url": "https://info.your.io"
-          },
-          {
-            "text": "Brand Kit",
-            "url": "https://drive.google.com/drive/folders/1WIDW6uFD_3vHPIo4iun8IB8U9kxDW2Mw?usp=drive_link"
-          },
-          {
-            "text": "Blog",
-            "url": "https://medium.com/@youraiprotocol"
-          }
-        ]
-      },
-      "communities": {
-        "title": "Communities",
-        "links": [
-          {
-            "text": "🇺🇸 English",
-            "url": "https://t.me/your_community"
-          },
-          {
-            "text": "🇨🇳 Chinese",
-            "url": "https://t.me/yourofficialchina"
-          },
-          {
-            "text": "🇹🇷 Turkish",
-            "url": "https://t.me/YourTurkiye"
-          }
-        ]
+        "links": {
+          "about": "About us",
+          "learn": "Learn hub",
+          "brand": "Brand Kit",
+          "blog": "Blog"
+        }
       }
     }
   }

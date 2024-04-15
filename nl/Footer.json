@@ -1,94 +1,46 @@
 {
-  "description": "YOUR Protocol is the world’s first AI-driven content layer for the future of e-commerce built on Bitcoin and Solana.",
+  "description": "YOUR Protocol is the world's first AI-driven content layer for the future of e-commerce built on Bitcoin and Solana.",
   "copyright": "© {{year}} www.your.io, Inc. All Rights Reserved.",
   "blocks": {
     "about": {
       "title": "About YOUR",
-      "links": [
-        {
-          "text": "About us",
-          "route": "content.about"
-        },
-        {
-          "text": "Brand Kit",
-          "url": "https://drive.google.com/drive/folders/1WIDW6uFD_3vHPIo4iun8IB8U9kxDW2Mw"
-        },
-        {
-          "text": "Become a creator",
-          "route": "content.creator"
-        }
-      ]
+      "links": {
+        "about": "About us",
+        "brand": "Brand Kit",
+        "create": "Become a creator"
+      }
     },
     "business": {
       "title": "dApps",
-      "links": [
-        {
-          "text": "Creator dApps",
-          "route": "content.build-dapps-content-creation"
-        },
-        {
-          "text": "Distribution dApps",
-          "route": "content.build-dapps-content-distribution"
-        },
-        {
-          "text": "Signup as dApp",
-          "route": "content.build-dapps-signup"
-        }
-      ]
+      "links": {
+        "creator": "Creator dApps",
+        "distribution": "Distribution dApps",
+        "signup": "Signup as dApp"
+      }
     },
     "information": {
       "title": "Learn",
-      "links": [
-        {
-          "text": "Learn hub",
-          "url": "https://info.your.io"
-        },
-        {
-          "text": "Help center",
-          "url": "https://info.your.io/hc/en-nl/requests/new"
-        },
-        {
-          "text": "Token",
-          "route": "content.token"
-        },
-        {
-          "text": "Articles",
-          "url": "https://medium.com/@youraiprotocol"
-        }
-      ]
+      "links": {
+        "hub": "Learn hub",
+        "helpCenter": "Help center",
+        "token": "Token",
+        "articles": "Articles"
+      }
     },
     "communities": {
       "title": "Communities",
-      "links": [
-        {
-          "text": "🇺🇸 English",
-          "url": "https://t.me/your_community"
-        },
-        {
-          "text": "🇨🇳 Chinese",
-          "url": "https://t.me/yourofficialchina"
-        },
-        {
-          "text": "🇹🇷 Turkish",
-          "url": "https://t.me/YourTurkiye"
-        }
-      ]
+      "links": {
+        "english": "English",
+        "chinese": "Chinese",
+        "turkish": "Turkish"
+      }
     },
     "others": {
-      "links": [
-        {
-          "text": "Cookie statement",
-          "route": "content.cookies"
-        },
-        {
-          "text": "Privacy policy",
-          "route": "content.privacy"
-        },
-        {
-          "text": "Terms of use",
-          "route": "content.terms"
-        }
-      ]
+      "links": {
+        "cookies": "Cookie statement",
+        "privacy": "Privacy policy",
+        "terms": "Terms of use"
+      }
     }
   }
 }
