@@ -6,7 +6,7 @@
     "houseNumber": "",
     "city": "City and zip code",
     "zipCode": "",
-    "country": "Country"
+    "countryCode": "Country"
   },
   "placeholders": {
     "billingEmail": "finance@company.com",
@@ -15,7 +15,7 @@
     "houseNumber": "House no.",
     "city": "City",
     "zipCode": "Zip code",
-    "country": "Country"
+    "countryCode": "Country"
   },
   "errors": {
     "billingEmail": {
