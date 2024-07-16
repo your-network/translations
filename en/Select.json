@@ -1,5 +1,11 @@
 {
-  "searchPlaceholder": "Search",
+  "placeholder": {
+    "search": "Search",
+    "select": {
+      "single": "Select a value",
+      "multi": "Select values"
+    }
+  },
   "noOptionsAvailale": "No options available",
   "allSelected": "All",
   "selected_one": "{{ count }} selected",

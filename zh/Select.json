@@ -1,11 +1,18 @@
 {
-    "searchPlaceholder": "搜索",
-    "noOptionsAvailale": "没有可用选项",
-    "allSelected": "全部",
-    "selected_one": "选择了 {{ count }} 个",
-    "selected_other": "选择了 {{ count }} 个",
-    "results_one": "{{ count }} 个结果",
-    "results_other": " {{ count }} 个结果",
-    "noMoreResults": "没有更多结果",
-    "loading": "正在加载..."
+  "searchPlaceholder": "搜索",
+  "placeholder": {
+    "search": "搜索",
+    "select": {
+      "single": "搜索",
+      "multi": "搜索"
+    }
+  },
+  "noOptionsAvailale": "没有可用选项",
+  "allSelected": "全部",
+  "selected_one": "选择了 {{ count }} 个",
+  "selected_other": "选择了 {{ count }} 个",
+  "results_one": "{{ count }} 个结果",
+  "results_other": " {{ count }} 个结果",
+  "noMoreResults": "没有更多结果",
+  "loading": "正在加载..."
 }
