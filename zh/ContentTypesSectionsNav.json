@@ -1,29 +1,32 @@
 {
-    "text": {
-        "label": "关于"
-    },
-    "prosCons": {
-        "label": "优点和缺点"
-    },
-    "image": {
-        "label": "图片"
-    },
-    "review": {
-        "label": "评论"
-    },
-    "specs": {
-        "label": "信息"
-    },
-    "video": {
-        "label": "视频"
-    },
-    "pdf": {
-        "label": "手册"
-    },
-    "news": {
-        "label": "文章"
-    },
-    "qa": {
-        "label": "问答"
-    }
+  "text": {
+    "label": "关于"
+  },
+  "bullets": {
+    "label": "Bullets"
+  },
+  "prosCons": {
+    "label": "优点和缺点"
+  },
+  "image": {
+    "label": "图片"
+  },
+  "review": {
+    "label": "评论"
+  },
+  "specs": {
+    "label": "信息"
+  },
+  "video": {
+    "label": "视频"
+  },
+  "pdf": {
+    "label": "手册"
+  },
+  "news": {
+    "label": "文章"
+  },
+  "qa": {
+    "label": "问答"
+  }
 }

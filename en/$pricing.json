@@ -124,6 +124,7 @@
     "and": "and",
     "types": {
       "description": "Descriptions",
+      "bullets": "Bullets",
       "prosCons": "Pros & cons",
       "image": "Images",
       "review": "Reviews",

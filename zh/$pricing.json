@@ -124,6 +124,7 @@
         "and": "和",
         "types": {
             "description": "描述",
+            "bullets": "Bullets",
             "prosCons": "优点和缺点",
             "image": "图片",
             "review": "评论",

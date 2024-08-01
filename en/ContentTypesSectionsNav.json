@@ -2,6 +2,9 @@
   "text": {
     "label": "About"
   },
+  "bullets": {
+    "label": "Bullets"
+  },
   "prosCons": {
     "label": "Pros & cons"
   },
