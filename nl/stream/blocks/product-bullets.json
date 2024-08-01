@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "name": "Product Bullets",
+    "shortName": "Bullets"
+  },
+  "ui": {
+    "title": "Information"
+  },
+  "settings": {
+    "iconColor": {
+      "label": "Bullet's color"
+    }
+  }
+}
