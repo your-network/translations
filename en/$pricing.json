@@ -117,7 +117,7 @@
     },
     "$content": {
       "title": "All basic content",
-      "title+": "All basic + user generated content"
+      "titlePlus": "All basic + user generated content"
     }
   },
   "content": {
