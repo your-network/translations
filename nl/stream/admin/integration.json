@@ -1,0 +1,27 @@
+{
+  "onboarding": {
+    "steps": {
+      "add": {
+        "howTo": {
+          "actions": {
+            "1": "Click on one of your above products so that you end up in the product page editor",
+            "2": "Add content blocks from your e-commerce dashboard interface."
+          }
+        }
+      }
+    }
+  },
+  "helpdesk": {
+    "faq": {
+      "tabs": {
+        "integration": "Integration"
+      }
+    },
+    "list": [
+      {
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+}

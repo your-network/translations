@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "name": "Product Story",
+    "shortName": "Story"
+  },
+  "ui": {
+    "title": "Story"
+  },
+  "settings": {}
+}

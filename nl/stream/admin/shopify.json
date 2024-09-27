@@ -1,0 +1,66 @@
+{
+  "onboarding": {
+    "steps": {
+      "add": {
+        "howTo": {
+          "actions": {
+            "1": "Click on one of your above products so that you end up in the product page editor",
+            "2": "Add content blocks on the left side of the menu under Template Apps."
+          }
+        }
+      }
+    }
+  },
+  "helpdesk": {
+    "faq": {
+      "tabs": {
+        "shopify": "Shopify"
+      }
+    },
+    "list":  [
+      {
+        "question": "What does the YOUR product content app offer?",
+        "answer": [
+          "1. All the product content you need",
+          "You can add all content types such as product images, specifications, pros and cons, images, videos, reviews, and more.",
+          "2. Drag and drop builder",
+          "The app gives you the possibility to fully customize your product page with building blocks, each containing a different content type. All blocks can be organized according to your desired orders.",
+          "3. Design customization",
+          "Align all the content with your branding guidelines using our customization options such as adjusting colors and text alignment."
+        ]
+      },
+      {
+        "question": "Which product content types are available in the YOUR app?",
+        "answer": "YOUR product content app currently offers 8 unique content types. These 8 content types include: title & description, specifications, images, video, review, Q&A, product manual and articles about a product."
+      },
+      {
+        "question": "How do I add content to my product pages?",
+        "answer": [
+          "With a drag and drop builder you can easily add product content blocks. Customizing your Shopify theme allows you to add the content blocks to one product page. After saving this product page with the content blocks, all product pages will be filled with the same product content automatically.",
+          "Please watch this video to learn more: https://www.youtube.com/watch?v=oK5ZmqFhw-8"
+        ]
+      },
+      {
+        "question": "How do I customize the content to the style of my webshop? / to my preferences?",
+        "answer": [
+          "1. Hide and order the content blocks",
+          "If desired, there is a possibility to hide and order content blocks to fully customize your product page. Learn more about hiding and ordering content blocks in your Shopify webshop in this video https://www.youtube.com/watch?v=oK5ZmqFhw-8",
+          "2. Customize content blocks",
+          "The content layout as well as the font type will automatically adjust to the layout of your webshop. For some content blocks additional customization options are provided. This option is available for the description, questions and answers, reviews, and pros and cons. The content settings of these content types can be adjusted in the right menu when selecting the content blocks."
+        ]
+      },
+      {
+        "question": "Are other shops already using YOUR?",
+        "answer": "Several other shops are already using the YOUR product content app. Watch the video below to see how they previously implemented the Shopify app into their webshop: https://www.youtube.com/watch?v=ZseINfiOhHg "
+      },
+      {
+        "question": "How do I upgrade my pricing plan? And can I also downgrade my pricing plan?",
+        "answer": "You can seamlessly upgrade or downgrade your pricing plan from within Shopify's administrative environment. Locate the 'Pricing Plans' section under the YOUR Product Content app in the menu. Simply choose the desired plan to switch to the corresponding subscription."
+      },
+      {
+        "question": "Can I get a demo or make use of a free trial before choosing a pricing plan?",
+        "answer": "The YOUR Product Content app offers four pricing plans. The first plan is free and includes a set of features that you can use as long as you wish. If you're interested in upgrading to a different pricing plan, it's easy to make this change within your Shopify shop's admin area. If you're looking for features within the 'Personalize' pricing tier, you can request a demo, and we'll discuss the possibilities for your online store."
+      }
+    ]
+  }
+}
