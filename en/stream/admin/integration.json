@@ -23,5 +23,10 @@
         "answer": ""
       }
     ]
+  },
+  "subscribe": {
+    "purchase": {
+      "title": "Purchase <plan></plan> subscription"
+    }
   }
 }

@@ -32,6 +32,11 @@
       }
     }
   },
+  "subscribe": {
+    "purchase": {
+      "title": "Purchase <plan></plan> subscription for <org></org>"
+    }
+  },
   "Editor": {
     "discard": {
       "btn": "Discard",

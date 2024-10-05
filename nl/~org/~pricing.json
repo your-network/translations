@@ -10,7 +10,7 @@
   "cards": {
     "subscriptions": {
       "title": "Select your plan",
-      "subtitle": "You are on a <subscription>{{ subscription }}</subscription> plan"
+      "subtitle": "You are on a <subscription></subscription> plan"
     }
   }
 }

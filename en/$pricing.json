@@ -8,21 +8,21 @@
       "label": "Free",
       "title": "Beginner",
       "payoff": "The basics",
-      "price": "<price>{{ price }}</price> / Free",
+      "price": "<price></price> / Free",
       "cta": ""
     },
     "start": {
       "label": "Full",
       "title": "Start",
       "payoff": "All you need",
-      "price": "from <price>{{ price }}</price> / monthly",
+      "price": "from <price></price> / monthly",
       "cta": ""
     },
     "optimize": {
       "label": "Most popular",
       "title": "Optimise",
       "payoff": "Content optimisation",
-      "price": "from <price>{{ price }}</price> / monthly",
+      "price": "from <price></price> / monthly",
       "cta": "Talk to sales"
     },
     "personalize": {

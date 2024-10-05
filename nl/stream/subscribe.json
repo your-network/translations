@@ -11,6 +11,7 @@
   "summary": {
     "title": "Payment details",
     "subject": "{{ plan }} subscription (per {{ days }} days)",
+    "headline": "<plan></plan> subscription",
     "tax": "Tax ({{ percentage }})",
     "total": "Total",
     "cta": "Confirm subscription",
@@ -41,6 +42,25 @@
       "ctaContact": "Contact us"
     }
   },
+  "result": {
+    "ok": {
+      "title": "You are in!",
+      "text": [
+        "Congratulations! You have succesfully set-up your subscription. You'll be able to change your product pages in awesome experiences.",
+        "Get started by clicking the button below to set-up your snippet."
+      ],
+      "cta": "Start streaming"
+    },
+    "fail": {
+      "title": "Payment error",
+      "text": [
+        "We aren't able to process your payment. Please try again or contact us as soon as possible.",
+        "No problem. We're going to fix this."
+      ],
+      "cta": "Try again",
+      "ctaContact": "Contact us"
+    }
+  },
   "downgrade": {
     "prompt": {
       "title": "Cancel subscription",
@@ -60,33 +80,6 @@
       "alert": "Are you sure? You will not have the ability to stream content to your product pages. Your account will remain active with our free plan.",
       "ok": "Cancel subscription",
       "cancel": "I changed my mind"
-    }
-  },
-  "sdk": {
-    "purchase": {
-      "title": "Purchase <plan></plan> subscription for <org></org>"
-    },
-    "summary": {
-      "title": "<plan></plan> subscription"
-    },
-    "result": {
-      "ok": {
-        "title": "You are in!",
-        "text": [
-          "Congratulations! You have succesfully set-up your subscription. You'll be able to change your product pages in awesome experiences.",
-          "Get started by clicking the button below to set-up your snippet."
-        ],
-        "cta": "Start streaming"
-      },
-      "fail": {
-        "title": "Payment error",
-        "text": [
-          "We aren't able to process your payment. Please try again or contact us as soon as possible.",
-          "No problem. We're going to fix this."
-        ],
-        "cta": "Try again",
-        "ctaContact": "Contact us"
-      }
     }
   },
   "FormBilling": {
@@ -115,5 +108,22 @@
     },
     "ok": "Changes saved",
     "fail": "Something went wrong while saving your changes."
-  }
+  },
+  "FormCancel": {
+    "labels": {
+      "reason": "Feedback",
+      "text": "What should we improve?",
+      "password": "Password reconfirmation"
+    },
+    "placeholders": {
+      "reason": "Reason for leaving"
+    },
+    "helpers": {
+      "password": "This is required for account owner verification and prevention of unauthorized account changes"
+    },
+    "submit": "Cancel subscription",
+    "cancel": "Keep my plan",
+    "ok": "Thanks for your feedback!",
+    "fail": "Sorry, something went wrong"
+  }  
 }

@@ -8,21 +8,21 @@
       "label": "免费",
       "title": "新手",
       "payoff": "基础知识",
-      "price": "<price>{{ price }}</price> / 免费",
+      "price": "<price></price> / 免费",
       "cta": ""
     },
     "start": {
       "label": "完整",
       "title": "开始",
       "payoff": "您所需的一切",
-      "price": " <price>{{ price }}</price> /月起",
+      "price": " <price></price> /月起",
       "cta": ""
     },
     "optimize": {
       "label": "最受欢迎",
       "title": "优化",
       "payoff": "内容优化",
-      "price": " <price>{{ price }}</price> /月起",
+      "price": " <price></price> /月起",
       "cta": "与销售人员沟通"
     },
     "personalize": {
