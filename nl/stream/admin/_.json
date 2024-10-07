@@ -8,6 +8,12 @@
     "helpdesk": "Helpdesk",
     "onboarding": "Onboarding"
   },
+  "dashboard": {
+    "title": {
+      "first": "Hello",
+      "usual": "Welcome back"
+    }
+  },
   "onboarding": {
     "title": "Let's get started",
     "text": "In 3 short steps we teach you how to style and stream product content",
