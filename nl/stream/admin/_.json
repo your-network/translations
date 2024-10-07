@@ -54,7 +54,7 @@
     "text": "Upgrade your online store. Stream up-to-date product content to your product pages.",
     "cardStream": {
       "title": "Stream",
-      "text": "You stream {{ implemented }} out {{ available }} content types",
+      "text": "You stream {{ implemented }} out of {{ available }} content types",
       "cta": "Customize product page"
     },
     "contentBlocks": {
