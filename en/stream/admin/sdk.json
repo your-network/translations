@@ -50,69 +50,60 @@
       "publish": "Save"
     }
   },
-  "Editor": {
-    "discard": {
-      "btn": "Discard",
-      "title": "Are you sure?",
-      "text": "Do you really want to discard your changes? This process cannot be undone.",
-      "confirm": "Discard changes",
-      "cancel": "Cancel"
-    },
-    "readOnly": "Data is not editable",
+  "editor": {
     "footer": {
       "showSnippet": "Show snippet",
       "showSnippet~mobile": "Snippet",
-      "hideSnippet": "Hide snippet",
-      "publish": "Save"
+      "hideSnippet": "Hide snippet"
+    },
+    "form": {
+      "labels": {
+        "shop": {
+          "domain": "Shop domain",
+          "name": "Shop name"
+        },
+        "sdk": {
+          "identifierField": "Identifier field",
+          "settingsJson": "Settings",
+          "language": "Language",
+          "active": "Active",
+          "version": "Version"
+        }
+      },
+      "placeholders": {
+        "shop": {
+          "domain": "Shop domain",
+          "name": "Shop name"
+        },
+        "sdk": {
+          "identifierField": "Identifier field",
+          "settingsJson": "Settings",
+          "language": "Language",
+          "active": "Active",
+          "version": "Version"
+        }
+      },
+      "errors": {
+        "shop": {
+          "domain": {
+            "required": "This is required"
+          },
+          "name": {
+            "required": "This is required"
+          }
+        },
+        "sdk": {
+          "version": {
+            "required": "Please select a version"
+          },
+          "settingsJson": {
+            "comma": "Commas are not allowed, please use a valid CSS value"
+          }
+        }
+      },
+      "submit": "Save",
+      "ok": "Saved succesfully",
+      "fail": "Something went wrong while saving."
     }
-  },
-  "EditorForm": {
-    "labels": {
-      "shop": {
-        "domain": "Shop domain",
-        "name": "Shop name"
-      },
-      "sdk": {
-        "identifierField": "Identifier field",
-        "settingsJson": "Settings",
-        "language": "Language",
-        "active": "Active",
-        "version": "Version"
-      }
-    },
-    "placeholders": {
-      "shop": {
-        "domain": "Shop domain",
-        "name": "Shop name"
-      },
-      "sdk": {
-        "identifierField": "Identifier field",
-        "settingsJson": "Settings",
-        "language": "Language",
-        "active": "Active",
-        "version": "Version"
-      }
-    },
-    "errors": {
-      "shop": {
-        "domain": {
-          "required": "This is required"
-        },
-        "name": {
-          "required": "This is required"
-        }
-      },
-      "sdk": {
-        "version": {
-          "required": "Please select a version"
-        },
-        "settingsJson": {
-          "comma": "Commas are not allowed, please use a valid CSS value"
-        }
-      }
-    },
-    "submit": "Save",
-    "ok": "Saved succesfully",
-    "fail": "Something went wrong while saving."
-  }  
+  }
 }

@@ -1,0 +1,218 @@
+{
+  "product": {
+    "meta": {
+      "name": "Product Content",
+      "shortName": "Product"
+    },
+    "ui": {
+      "loading": "Loading...",
+      "empty": {
+        "text": "Sorry, at the moment there is no data of this type available for this product. This block will not show up in your website for this product.",
+        "hide": "Hide this now"
+      },
+      "error": {
+        "text": "Sorry, at the moment there is an error retrieving data of this type for this product. This block will not show up in your website for this product.",
+        "hide": "Hide this now"
+      }
+    },
+    "settings": {
+      "show_title": {
+        "label": "Show title"
+      }
+    }
+  },
+  "product-bullets": {
+    "meta": {
+      "name": "Product Bullets",
+      "shortName": "Bullets"
+    },
+    "ui": {
+      "title": "Information"
+    },
+    "settings": {
+      "iconColor": {
+        "label": "Bullet's color"
+      }
+    }
+  },
+  "product-description": {
+    "meta": {
+      "name": "Product Description",
+      "shortName": "Description"
+    },
+    "ui": {
+      "title": "About the product",
+      "more": "Read more",
+      "less": "Show less"
+    },
+    "settings": {
+      "lines": {
+        "label": "Lines",
+        "info": "Number of maximum lines of text to show on load. Exceeding lines are visible by clicking a button that uncollapse them."
+      },
+      "font_size": {
+        "label": "Font size",
+        "info": "The font size of the description block."
+      },
+      "line_height": {
+        "label": "Line height",
+        "info": "The height of each line of text."
+      }
+    }
+  },
+  "product-images": {
+    "meta": {
+      "name": "Product Images",
+      "shortName": "Images"
+    },
+    "ui": {
+      "title": "Images",
+      "more": "Show all pictures",
+      "less": "Show less"
+    },
+    "settings": {}
+  },
+  "product-pdf": {
+    "meta": {
+      "name": "Product Manuals",
+      "shortName": "Manuals"
+    },
+    "ui": {
+      "title": "Manuals"
+    },
+    "settings": {}
+  },
+  "product-pros-cons": {
+    "meta": {
+      "name": "Product Pros & Cons",
+      "shortName": "Pros and cons"
+    },
+    "ui": {
+      "title": "Pros and cons"
+    },
+    "settings": {
+      "proIconColor": {
+        "label": "Pro's icon color"
+      },
+      "conIconColor": {
+        "label": "Con's icon color"
+      }
+    }
+  },
+  "product-qa": {
+    "meta": {
+      "name": "Product Q&As",
+      "shortName": "Question & answers"
+    },
+    "ui": {
+      "title": "Questions & Answers",
+      "questionInfo": "Asked by {{ author }} {{ when }}",
+      "questionWhen": "Asked {{ when }}",
+      "answerInfo": "Answered by {{ author }} {{ when }}",
+      "answerWhen": "Answered {{ when }}",
+      "answerPre": "Answer:",
+      "noAnswers": "Sorry, there are no answers for this question yet.",
+      "loadMore": "Load more"
+    },
+    "settings": {
+      "questionsPerPage": {
+        "label": "Questions per page",
+        "info": "Determines how many questions are loaded at once."
+      },
+      "answersPerPage": {
+        "label": "Answers per page",
+        "info": "Determines how many answers for each question are loaded at once."
+      },
+      "showAuthors": {
+        "label": "Show authors",
+        "info": "Show the author name for each question and answer."
+      }
+    }
+  },
+  "product-reasons-to-buy": {
+    "meta": {
+      "name": "Product Reasons to buy",
+      "shortName": "Reasons to buy"
+    },
+    "ui": {
+      "title": "Reasons to buy",
+      "more": "Show more",
+      "less": "Show less"
+    },
+    "settings": {
+      "bg": {
+        "label": "Background color"
+      }
+    }
+  },
+  "product-reviews": {
+    "meta": {
+      "name": "Product Reviews",
+      "shortName": "Reviews"
+    },
+    "ui": {
+      "title": "Reviews",
+      "writtenBy": "Written by {{ author }}"
+    },
+    "settings": {
+      "perPage": {
+        "label": "Quantity per page",
+        "info": "Determines how many reviews are loaded at once."
+      },
+      "starColor": {
+        "label": "Star color"
+      },
+      "summaryBg": {
+        "label": "Summary background"
+      },
+      "scoresLineBg": {
+        "label": "Scores line background"
+      },
+      "scoresLineFg": {
+        "label": "Scores line foreground",
+        "info": "Gradient colouring score lines with reviews."
+      },
+      "scoresLineHeight": {
+        "label": "Scores line height"
+      },
+      "proIconColor": {
+        "label": "Pro's icon color"
+      },
+      "conIconColor": {
+        "label": "Con's icon color"
+      }
+    }
+  },
+  "product-specification-logos": {
+    "meta": {
+      "name": "Product Specification logos",
+      "shortName": "Specification logos"
+    },
+    "ui": {
+      "title": "Specification logos"
+    },
+    "settings": {}
+  },
+  "product-story": {
+    "meta": {
+      "name": "Product Story",
+      "shortName": "Story"
+    },
+    "ui": {
+      "title": "Story"
+    },
+    "settings": {}
+  },
+  "product-videos": {
+    "meta": {
+      "name": "Product Videos",
+      "shortName": "Videos"
+    },
+    "ui": {
+      "title": "Videos",
+      "more": "Show all videos",
+      "less": "Show less"
+    },
+    "settings": {}
+  }
+}

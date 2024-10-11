@@ -1,0 +1,13 @@
+{
+  "discard": {
+    "btn": "Discard",
+    "title": "Are you sure?",
+    "text": "Do you really want to discard your changes? This process cannot be undone.",
+    "confirm": "Discard changes",
+    "cancel": "Cancel"
+  },
+  "readOnly": "Data is not editable",
+  "footer": {
+    "publish": "Save"
+  }
+}

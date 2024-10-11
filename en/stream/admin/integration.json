@@ -1,6 +1,6 @@
 {
   "nav": {
-    "customize": "Style"
+    "customize": "Styling"
   },
   "onboarding": {
     "steps": {
@@ -37,6 +37,24 @@
     "subtitle": "Adjust the layout to your own brand needs",
     "preview": {
       "title": "Preview your styling"
+    }
+  },
+  "editor": {
+    "form": {
+      "labels": {
+        "settingsJson": "Settings"
+      },
+      "placeholders": {
+        "settingsJson": "Settings"
+      },
+      "errors": {
+        "settingsJson": {
+          "comma": "Commas are not allowed, please use a valid CSS value"
+        }
+      },
+      "submit": "Save changes",
+      "ok": "Saved succesfully",
+      "fail": "Something went wrong while saving."
     }
   }
 }
