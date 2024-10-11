@@ -1,10 +1,13 @@
 {
+  "nav": {
+    "customize": "Style"
+  },
   "onboarding": {
     "steps": {
       "add": {
         "howTo": {
           "actions": {
-            "1": "Click on one of your above products so that you end up in the product page editor",
+            "1": "Click on one of your products above so that you end up in the product page editor",
             "2": "Add content blocks from your e-commerce dashboard interface."
           }
         }
@@ -27,6 +30,13 @@
   "subscribe": {
     "purchase": {
       "title": "Purchase <plan></plan> subscription"
+    }
+  },
+  "customize": {
+    "title": "Stream style",
+    "subtitle": "Adjust the layout to your own brand needs",
+    "preview": {
+      "title": "Preview your styling"
     }
   }
 }

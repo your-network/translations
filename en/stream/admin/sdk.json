@@ -37,6 +37,19 @@
       "title": "Purchase <plan></plan> subscription for <org></org>"
     }
   },
+  "customize": {
+    "title": "Stream style",
+    "subtitle": "Adjust the layout to your own brand needs and get your snippet",
+    "preview": {
+      "title": "Preview your styling"
+    },
+    "footer": {
+      "showSnippet": "Show snippet",
+      "showSnippet~mobile": "Snippet",
+      "hideSnippet": "Hide snippet",
+      "publish": "Save"
+    }
+  },
   "Editor": {
     "discard": {
       "btn": "Discard",

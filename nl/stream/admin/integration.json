@@ -1,4 +1,7 @@
 {
+  "nav": {
+    "customize": "Style"
+  },
   "onboarding": {
     "steps": {
       "add": {
@@ -27,6 +30,13 @@
   "subscribe": {
     "purchase": {
       "title": "Purchase <plan></plan> subscription"
+    }
+  },
+  "customize": {
+    "title": "Stream style",
+    "subtitle": "Adjust the layout to your own brand needs",
+    "preview": {
+      "title": "Preview your styling"
     }
   }
 }
