@@ -4,13 +4,9 @@
   },
   "onboarding": {
     "steps": {
-      "add": {
-        "howTo": {
-          "actions": {
-            "1": "Click on one of your products above so that you end up in the product page editor",
-            "2": "Add content blocks from your e-commerce dashboard interface."
-          }
-        }
+      "intro": {
+        "title": "Watch a quick intro about YOUR and streaming content",
+        "cta": "Finish onboarding"
       }
     }
   },
