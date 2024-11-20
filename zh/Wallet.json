@@ -1,0 +1,7 @@
+{
+  "connectBtn": {
+    "unconnected": "Connect wallet",
+    "connecting": "Connecting...",
+    "connected": ""
+  }
+}

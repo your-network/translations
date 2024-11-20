@@ -4,5 +4,16 @@
     "description": "",
     "keywords": ""
   },
-  "title": "Wallet"
+  "title": "Wallet",
+  "balance": {
+    "title": "Balance"
+  },
+  "staking": {
+    "title": "Stacking APY",
+    "cta": "<link>Start staking</link> and earn tokens"
+  },
+  "wallet": {
+    "title": "Your wallet",
+    "balance": "Balance"
+  }
 }
