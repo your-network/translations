@@ -3,5 +3,15 @@
     "unconnected": "Connect wallet",
     "connecting": "Connecting...",
     "connected": ""
+  },
+  "toasts": {
+    "connected": {
+      "ok": "Wallet connected",
+      "fail": "Something went wrong connecting your wallet"
+    },
+    "disconnected": {
+      "ok": "Wallet disconnected",
+      "fail": "Something went wrong disconnecting your wallet"
+    }
   }
 }
