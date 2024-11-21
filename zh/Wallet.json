@@ -1,5 +1,6 @@
 {
   "connectBtn": {
+    "tip": "Your wallet",
     "unconnected": "Connect wallet",
     "connecting": "Connecting...",
     "connected": ""
