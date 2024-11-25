@@ -42,27 +42,6 @@
     },
     "leaderboard": "/leaderboard"
   },
-  "content": {
-    "about": "/about-us",
-    "build-dapps-signup": "/build/dapps/signup",
-    "build-dapps-content-creation": "/build/dapps/content-creation",
-    "build-dapps-content-distribution": "/build/dapps/content-distribution",
-    "build-dapps": "/build/dapps",
-    "build-developers": "/build/developers",
-    "build-nodes": "/build/nodes",
-    "build-use-cases": "/build/use-cases",
-    "community-governance": "/community/governance",
-    "cookies": "/cookie-statement",
-    "creator": "/creator",
-    "extractor": "/extractor",
-    "intro": "/",
-    "pricing": "/pricing",
-    "privacy": "/privacy-policy",
-    "shops": "/shops",
-    "showcase": "/showcase",
-    "terms": "/terms-of-use",
-    "token": "/token"
-  },
   "dashboard": {
     "editor-product": {
       "[id]": "/content-editor/{{ id }}"

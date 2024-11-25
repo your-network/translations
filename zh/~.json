@@ -42,27 +42,6 @@
     },
     "leaderboard": "/排行榜"
   },
-  "content": {
-    "about": "/关于我们",
-    "build-dapps-signup": "/构建/去中心应用/注册",
-    "build-dapps-content-creation": "/构建/去中心应用/内容创作",
-    "build-dapps-content-distribution": "/构建/去中心应用/内容分发",
-    "build-dapps": "/构建/去中心应用",
-    "build-developers": "/构建/开发者",
-    "build-nodes": "/构建/节点",
-    "build-use-cases": "/构建/用例",
-    "community-governance": "/社区/治理",
-    "cookies": "/cookie声明",
-    "creator": "/创作者",
-    "extractor": "/提取工具",
-    "intro": "/",
-    "pricing": "/定价",
-    "privacy": "/隐私政策",
-    "shops": "/商店",
-    "showcase": "/展示",
-    "terms": "/使用条款",
-    "token": "/代币"
-  },
   "dashboard": {
     "editor-product": {
       "[id]": "/内容编辑器/{{ id }}"
