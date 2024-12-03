@@ -69,28 +69,7 @@
   },
   "tools": {
     "curator": "/curate",
-    "feed-matcher": {
-      "[[...spa]]": "/tools/feed-matcher",
-      "shops": {
-        "index": "^/shops",
-        "[id]": {
-          "index": "^/{{ id }}",
-          "source": {
-            "index": "^/source",
-            "new": "^/new",
-            "[sourceId]": {
-              "index": "^/{{ sourceId }}",
-              "edit": "^/edit",
-              "mapFields": "^/map-fields",
-              "mapAttributes": "^/map-attributes",
-              "mapAttributeGroups": "^/map-attribute-groups",
-              "mapBrands": "^/map-brands",
-              "mapCategories": "^/map-categories"
-            }
-          }
-        }
-      }
-    }
+    "feed-matcher": "/tools/feed-matcher"
   },
   "www": {
     "brand": {

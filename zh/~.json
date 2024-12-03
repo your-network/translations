@@ -69,28 +69,7 @@
   },
   "tools": {
     "curator": "/策展",
-    "feed-matcher": {
-      "[[...spa]]": "/工具/订阅匹配",
-      "shops": {
-        "index": "^/商店",
-        "[id]": {
-          "index": "^/{{ id }}",
-          "source": {
-            "index": "^/来源",
-            "new": "^/新建",
-            "[sourceId]": {
-              "index": "^/{{ sourceId }}",
-              "edit": "^/编辑",
-              "mapFields": "^/映射字段",
-              "mapAttributes": "^/映射属性",
-              "mapAttributeGroups": "^/映射属性组",
-              "mapBrands": "^/映射品牌",
-              "mapCategories": "^/映射类别"
-            }
-          }
-        }
-      }
-    }
+    "feed-matcher": "/工具/订阅匹配"
   },
   "www": {
     "brand": {
